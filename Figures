@@ -1,3 +1,8 @@
+# Figures for Colyer et al. (n.d.)
+# Code written to be run in R
+# Written by Jerome D. Hoover 
+# Last edited Oct 1, 2024
+
 # Clear data
 rm(list=ls())
 #setwd("ADD PATH")
