@@ -1,1 +1,462 @@
+# Clear data
+rm(list=ls())
+setwd("C:\\Users\\jerom\\OneDrive - University of Massachusetts\\Projects\\LLM and CRT project\\CEMS\\Results for figures")
+
+# create a PDF to save all figures to
+pdf("all_plots.pdf")
+
+# CBType =============================================================
+
+# human --------------------------
+
+# means
+means.st <- c(.434,.448,.301,.441)
+means.con <- c(.990,.948,.935,.989)
+means <- rbind(means.st,means.con)
+means <- t(means)
+cond <- c('1.a','1.b','2.a','2.b')
+row.names(means) <- cond; means
+
+# SEs
+SEs.st <- c(.050,.051,.048,.052)
+SEs.con <- c(.010,.023,.026,.011)
+SEs <- rbind(SEs.st,SEs.con)
+SEs <- t(SEs)
+cond <- c('1.a','1.b','2.a','2.b')  
+row.names(SEs) <- cond; SEs
+
+# plot
+bp.1 <- barplot(means, ylim = c(0,1), beside = T,
+                names.arg = c('Standard','Control'),
+                ylab = "Proportion correct",
+                col = c('blue', 'light blue', 'dark green', 'light green'),
+                #main = "Accuracy across counterbalance type (Human)", 
+                #xlab = expression(italic("F") * "(3, 373) = 1.20, " * italic("p") * " = .309"),
+                cex.lab = 1.5,
+                cex.axis = 1.5,
+                cex.names = 1.5,
+                cex.main = 1.5)
+
+legend(x='topleft',legend=c('1a',
+                            '1b',
+                            '2a',
+                            '2b'),
+       pch=15,
+       col = c('blue', 'light blue', 'dark green', 'light green'),cex=1.5,
+       bty='n')
+
+#add error bars
+arrows(bp.1,means-SEs,bp.1,means+SEs,code = 3,angle = 90, length = 0.13, lwd = 3)
+
+#png(filename = "CBType_Human.png", width = 800, height = 600)
+
+# LLama 2 --------------------------
+
+# means
+means.st <- c(.384,.133,.094,.051)
+means.con <- c(.775,.857,.898,.763)
+means <- rbind(means.st,means.con)
+means <- t(means)
+cond <- c('1.a','1.b','2.a','2.b')
+row.names(means) <- cond; means
+
+# SEs
+SEs.st <- c(.024,.017,.015,.011)
+SEs.con <- c(.021,.018,.016,.022)
+SEs <- rbind(SEs.st,SEs.con)
+SEs <- t(SEs)
+cond <- c('1.a','1.b','2.a','2.b')  
+row.names(SEs) <- cond; SEs
+
+# plot
+bp.1 <- barplot(means, ylim = c(0,1), beside = T,
+                names.arg = c('Standard','Control'),
+                ylab = "Proportion correct", 
+                #xlab = expression(italic("F") * "(3, 1516) = 42.89, " * italic("p") * " < .001"),
+                col = c('blue', 'light blue', 'dark green', 'light green'),
+                #main = "Accuracy across counterbalance type (LLAMA 2)",
+                cex.lab = 1.5,
+                cex.axis = 1.5,
+                cex.names = 1.5,
+                cex.main = 1.5)
+
+legend(x='topleft',legend=c('1a',
+                            '1b',
+                            '2a',
+                            '2b'),
+       pch=15,
+       col = c('blue', 'light blue', 'dark green', 'light green'),cex=1.5,
+       bty='n')
+#axis(2,cex.axis=2)
+
+#add error bars
+arrows(bp.1,means-SEs,bp.1,means+SEs,code = 3,angle = 90, length = 0.1, lwd = 3)
+#png(filename = "CBType_Llama2.png", width = 800, height = 600)
+
+# Mixtral --------------------------
+
+# means
+means.st <- c(.561,.526,.645,.766)
+means.con <- c(.977,.977,.927,1)
+means <- rbind(means.st,means.con)
+means <- t(means)
+cond <- c('1.a','1.b','2.a','2.b')
+row.names(means) <- cond; means
+
+# SEs
+SEs.st <- c(.025,.026,.025,.022)
+SEs.con <- c(.007,.008,.013,0)
+SEs <- rbind(SEs.st,SEs.con)
+SEs <- t(SEs)
+cond <- c('1.a','1.b','2.a','2.b')  
+row.names(SEs) <- cond; SEs
+
+# plot
+bp.1 <- barplot(means, ylim = c(0,1), beside = T,
+                names.arg = c('Standard','Control'),
+                ylab = "Proportion correct", 
+                #xlab = expression(italic("F") * "(3, 1516) = 16.57, " * italic("p") * " < .001"),
+                col = c('blue', 'light blue', 'dark green', 'light green'),
+                #main = "Accuracy across counterbalance type (Mixtral)",
+                cex.lab = 1.5,
+                cex.axis = 1.5,
+                cex.names = 1.5,
+                cex.main = 1.5)
+
+legend(x='topleft',legend=c('1a',
+                            '1b',
+                            '2a',
+                            '2b'),
+       pch=15,
+       col = c('blue', 'light blue', 'dark green', 'light green'),cex=1.5,
+       bty='n')
+#axis(2,cex.axis=2)
+
+#add error bars
+arrows(bp.1,means-SEs,bp.1,means+SEs,code = 3,angle = 90, length = 0.1,lwd=3) 
+#png(filename = "CBType_Mixtral.png", width = 800, height = 600)
+
+# overall accuracy =============================================================
+
+# NOTE:  We discussed presenting these separately or together. 
+#        I'll let you two decide which you prefer. 
+
+# Human ----------------------
+
+# means
+means.st <- c(.407)
+means.con <- c(.966)
+means <- rbind(means.st,means.con)
+means <- t(means)
+cond <- c(1)
+row.names(means) <- cond; means
+
+# SEs
+SEs.st <- c(.025)
+SEs.con <- c(.009)
+SEs <- rbind(SEs.st,SEs.con)
+SEs <- t(SEs)
+cond <- c(1)  
+row.names(SEs) <- cond; SEs
+
+# plot
+bp.1 <- barplot(means, ylim = c(0,1), beside = T,
+                names.arg = c('Standard','Control'),
+                ylab = "Proportion correct", xlab = "",
+                col = c('blue', 'light blue'),
+                #main = "Problem type accuracy (Human)",
+                cex.lab = 1.5,
+                cex.axis = 1.5,
+                cex.names = 1.5,
+                cex.main = 1.5)
+
+
+#add error bars
+arrows(bp.1,means-SEs,bp.1,means+SEs,code = 3,angle = 90, length = 0.1, lwd = 3)
+#png(filename = "Accuracy_Human.png", width = 800, height = 600)
+
+# Llama 2 ----------------------
+
+# means
+means.st <- c(.169)
+means.con <- c(.823)
+means <- rbind(means.st,means.con)
+means <- t(means)
+cond <- c(1)
+row.names(means) <- cond; means
+
+# SEs
+SEs.st <- c(.010)
+SEs.con <- c(.010)
+SEs <- rbind(SEs.st,SEs.con)
+SEs <- t(SEs)
+cond <- c(1)  
+row.names(SEs) <- cond; SEs
+
+# plot
+bp.1 <- barplot(means, ylim = c(0,1), beside = T,
+                names.arg = c('Standard','Control'),
+                ylab = "Proportion correct", xlab = "",
+                col = c('blue', 'light blue'),
+                #main = "Problem type accuracy (LLAMA 2)",
+                cex.lab = 1.5,
+                cex.axis = 1.5,
+                cex.names = 1.5,
+                cex.main = 1.5)
+
+
+#add error bars
+arrows(bp.1,means-SEs,bp.1,means+SEs,code = 3,angle = 90, length = 0.1,lwd = 3)  
+#png(filename = "Accuracy_Llama2.png", width = 800, height = 600)
+
+
+# Mixtral ----------------------
+
+# means
+means.st <- c(.623)
+means.con <- c(.970)
+means <- rbind(means.st,means.con)
+means <- t(means)
+cond <- c(1)
+row.names(means) <- cond; means
+
+# SEs
+SEs.st <- c(.012)
+SEs.con <- c(.004)
+SEs <- rbind(SEs.st,SEs.con)
+SEs <- t(SEs)
+cond <- c(1)  
+row.names(SEs) <- cond; SEs
+
+# plot
+bp.1 <- barplot(means, ylim = c(0,1), beside = T,
+                names.arg = c('Standard','Control'),
+                ylab = "Proportion correct", xlab = "",
+                col = c('blue', 'light blue'),
+                #main = "Problem type accuracy (Mixtral)",
+                cex.lab = 1.5,
+                cex.axis = 1.5,
+                cex.names = 1.5,
+                cex.main = 1.5)
+
+
+#add error bars
+arrows(bp.1,means-SEs,bp.1,means+SEs,code = 3,angle = 90, length = 0.1, lwd = 3)
+#png(filename = "Accuracy_Mixtral.png", width = 800, height = 600)
+
+
+# Overall --------------------------
+
+# means
+means.st <- c(.407,.169,.623)
+means.con <- c(.966,.823,.970)
+means <- rbind(means.st,means.con)
+means <- t(means)
+cond <- c(1,2,3)
+row.names(means) <- cond; means
+
+# SEs
+SEs.st <- c(.025,.010,.012)
+SEs.con <- c(.009,.010,.004)
+SEs <- rbind(SEs.st,SEs.con)
+SEs <- t(SEs)
+cond <- c(1,2,3)  
+row.names(SEs) <- cond; SEs
+
+# plot
+bp.1 <- barplot(means, ylim = c(0,1), beside = T,
+                names.arg = c('Standard','Control'),
+                ylab = "Proportion correct", xlab = "",
+                col = c('blue', 'light blue', 'dark green'),
+                #main = "Problem type accuracy across datasets",
+                cex.lab = 1.5,
+                cex.axis = 1.5,
+                cex.names = 1.5,
+                cex.main = 1.5)
+
+legend(x='topleft',legend=c('Human',
+                            'LLAMA2',
+                            'Mixtral'),
+       pch=15,
+       col = c('blue', 'light blue', 'dark green'),cex=1.5,
+       bty='n')
+#axis(2,cex.axis=2)
+
+#add error bars
+arrows(bp.1,means-SEs,bp.1,means+SEs,code = 3,angle = 90, length = 0.1, lwd = 3) 
+
+# # Add stats
+# text(x = 5.5, y = 1.1, 
+#      labels = expression(italic("F") * "(3, 1516) = 20.02, " * italic("p") * " < .001"))
+# 
+#png(filename = "Accuracy_overall.png", width = 800, height = 600)
+
+
+# Ratings =====================================================================
+
+# Human  
+
+# means
+means.conf <- c(.915,.947)
+means.opin <- c(.753,.841)
+means <- rbind(means.conf,means.opin)
+means <- t(means)
+cond <- c(1,2)
+row.names(means) <- cond; means
+
+# SEs
+SEs.conf <- c(.010,.008)
+SEs.opin <- c(.011,.010)
+SEs <- rbind(SEs.conf,SEs.opin)
+SEs <- t(SEs)
+cond <- c(1,2)  
+row.names(SEs) <- cond; SEs
+
+# plot
+bp.1 <- barplot(means, ylim = c(0,1), beside = T,
+                names.arg = c('Confidence','Opinion'),
+                ylab = "Rating", xlab = "",
+                col = c('blue', 'light blue', 'blue', 'light blue'),
+                #main = "Response ratings across problem type (Human)",
+                cex.lab = 1.5,
+                cex.axis = 1.5,
+                cex.names = 1.5,
+                cex.main = 1.5)
+
+legend(x='topright',legend=c('Standard',
+                             'Control'),
+       pch=15,
+       col = c('blue', 'light blue'),cex=1.5,
+       bty='n')
+#axis(2,cex.axis=2)
+
+#add error bars
+arrows(bp.1,means-SEs,bp.1,means+SEs,code = 3,angle = 90, length = 0.1, lwd=3) 
+#png(filename = "Ratings_Human.png", width = 800, height = 600)
+
+
+# Llama 2  
+
+# means
+means.conf <- c(.737,.785)
+means.opin <- c(.601,.671)
+means <- rbind(means.conf,means.opin)
+means <- t(means)
+cond <- c(1,2)
+row.names(means) <- cond; means
+
+# SEs
+SEs.conf <- c(.004,.004)
+SEs.opin <- c(.005,.005)
+SEs <- rbind(SEs.conf,SEs.opin)
+SEs <- t(SEs)
+cond <- c(1,2)  
+row.names(SEs) <- cond; SEs
+
+# plot
+bp.1 <- barplot(means, ylim = c(0,1), beside = T,
+                names.arg = c('Confidence','Opinion'),
+                ylab = "Rating", xlab = "",
+                col = c('blue', 'light blue', 'blue', 'light blue'),
+                #main = "Response ratings across problem type (LLAMA 2)",
+                cex.lab = 1.5,
+                cex.axis = 1.5,
+                cex.names = 1.5,
+                cex.main = 1.5)
+
+legend(x='topright',legend=c('Standard',
+                             'Control'),
+       pch=15,
+       col = c('blue', 'light blue'),cex=1.5,
+       bty='n')
+#axis(2,cex.axis=2)
+
+#add error bars
+arrows(bp.1,means-SEs,bp.1,means+SEs,code = 3,angle = 90, length = 0.1, lwd=3)  
+#png(filename = "Ratings_Llama2.png", width = 800, height = 600)
+
+
+# Mixtral  
+
+# means
+means.conf <- c(.870,.927)
+means.opin <- c(.587,.740)
+means <- rbind(means.conf,means.opin)
+means <- t(means)
+cond <- c(1,2)
+row.names(means) <- cond; means
+
+# SEs
+SEs.conf <- c(.004,.003)
+SEs.opin <- c(.005,.005)
+SEs <- rbind(SEs.conf,SEs.opin)
+SEs <- t(SEs)
+cond <- c(1,2)  
+row.names(SEs) <- cond; SEs
+
+# plot
+bp.1 <- barplot(means, ylim = c(0,1), beside = T,
+                names.arg = c('Confidence','Opinion'),
+                ylab = "Rating", xlab = "",
+                col = c('blue', 'light blue', 'blue', 'light blue'),
+                #main = "Response ratings across problem type (Mixtral)",
+                cex.lab = 1.5,
+                cex.axis = 1.5,
+                cex.names = 1.5,
+                cex.main = 1.5)
+
+legend(x='topright',legend=c('Standard',
+                             'Control'),
+       pch=15,
+       col = c('blue', 'light blue'),cex=1.5,
+       bty='n')
+#axis(2,cex.axis=2)
+
+#add error bars
+arrows(bp.1,means-SEs,bp.1,means+SEs,code = 3,angle = 90, length = 0.1, lwd=3)  
+#png(filename = "Ratings_Mixtral.png", width = 800, height = 600)
+
+
+
+# Response proportions for correct, intuitive, and other========================  
+
+# set working directory and load in data file
+
+setwd('C:/Users/jerom/OneDrive - University of Massachusetts/Projects/LLM and CRT project/Results/Results for figures')
+d <- read.csv('output_MIX.HU.L2_lab.csv', header=TRUE, sep=','); head(d)
+
+# figure -------------------------
+
+# get counts
+counts <- table(d$StandardAcc_lab,d$Dataset); counts
+human_counts <- counts[,1]/sum(counts[,1]); human_counts
+Llama2_counts <- counts[,2]/sum(counts[,2]); Llama2_counts
+MIXTRAL_counts <- counts[,3]/sum(counts[,3]); MIXTRAL_counts
+counts <- rbind(human_counts,Llama2_counts,MIXTRAL_counts); counts
+counts <- t(counts); counts
+
+
+# plot
+bp.1 <- barplot(counts, ylim = c(0,1), beside = T,
+                names.arg = c('Human','LLAMA2','Mixtral'),
+                ylab = "Response proportion", xlab = "",
+                col = c('blue', 'light blue', 'dark green'),
+                #main = "Response proportions by type across datasets",
+                cex.lab = 1.5,
+                cex.axis = 1.5,
+                cex.names = 1.5,
+                cex.main = 1.5)
+
+legend(x='topleft',legend=c('Correct','Intuitive','Other'),
+       pch=15,
+       col = c('blue', 'light blue', 'dark green'),cex=1.5,
+       bty='n')
+#axis(2,cex.axis=2)
+
+#png(filename = "Response proportions.png", width = 800, height = 600)
+
+
+# save images    
+dev.off()
+
 
