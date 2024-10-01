@@ -1,6 +1,6 @@
 # Clear data
 rm(list=ls())
-setwd("C:\\Users\\jerom\\OneDrive - University of Massachusetts\\Projects\\LLM and CRT project\\CEMS\\Results for figures")
+#setwd("ADD PATH")
 
 # create a PDF to save all figures to
 pdf("all_plots.pdf")
