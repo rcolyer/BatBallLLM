@@ -1,0 +1,1 @@
+I believe the answer to this problem is $.45, because when subtracting two dollars from the total sum and then dividing by two to evenly split the remainder between the objects, that solution presents itself

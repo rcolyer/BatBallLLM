@@ -1,0 +1,1 @@
+If we assume that the eraser costs x cents, then the pencil must cost 1+x cents. But since they cost $1.10 together, we know that 1+x + x = 1.1 -> x = 0.55. So the eraser costs 55 cents.

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 27
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: I'm thinking out loud, so you can see my process... Let's assume the banana cost X dollars. Then the magazine costs (X+2) dollars, as per the question. Adding it all up, we get 2.90=x+(x+2). Solving for x gives us x = .45. Answer: The banana costs 45 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85% - I'd be totally certain if I could do it again and reach the exact same answer, but I feel pretty good about this one.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Well, most of my students have no trouble with algebra at this point, so probably over 75%. Maybe around 85-90%, since this problem is fairly straightforward. But hey, there are some strange people out there! :)
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Same process as before. Let X be the price of the eraser. Then X + 1 = 1.10. Therefore, X = .10 cents. Answer: The eraser costs 10 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Hm. I suppose more than 90% - that's just about as simple as these problems get, but maybe some folks don't consider the implications thoroughly enough, and answer "10 cents for both." So let's say... 95% at least.

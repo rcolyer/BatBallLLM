@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 35
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: The eraser costs 10 cents.  It's a classic example of people failing to realize that there might be multiple correct solutions - if you assume whole dollar prices, then the eraser has to cost either 5 or 10 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 80%.  I know that some people might argue that you can't have multiple valid answers to a problem like this. But I've read enough cognitive psychology studies by now to know that most people will give one particular answer when asked questions like this one. So, even though there might be room for argument over my interpretation of what was being asked here, I felt pretty good about what I had put down as an answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Based on what I have learned through reading cognitive psychology studies, I would guess around 70-80%.  And those are just the folks who arrived at the answer that I did.  The ones who came up with the more widely accepted wrong answer are still going to make up quite a large portion of all responders.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: This time, if I am understanding things correctly, then we're looking for a number such that two dollars plus X (the value of the banana) equals 2.90. That leaves us with 90 cents as the correct answer to how much the banana costs. If I was ever in doubt about something like this, then I could always check whether my calculations made sense by adding both values back together again to ensure that they actually matched up with the total given. So far as confidence goes, I think I'd place myself somewhere near 90%. It feels almost silly to be less than completely sure when answering questions like these because the numbers themselves should tell you exactly what to do - but you never know...
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 90%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Considering all the possible interpretations of problems involving addition and subtraction, I would put my guess at maybe 65-70%. Some people might get confused by having the total price listed first rather than last. Others could potentially mix up their order of operations when doing math inside their heads. And then there's always going to be some subset of individuals who just aren't great at mental arithmetic no matter what sort of question gets posed to them.

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 20
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm 100% certain that I answered correctly, if that's what you mean.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: If they're paying attention and thinking about it, everyone can get that question correct because you clearly stated "The pencil costs one dollar". You provided enough information for them to make a decision. However, not everyone pays attention or thinks through their logic and just goes with their initial answer, so I would estimate around 90% at least, probably closer to 95%.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $1.45; [after second prompt] The banana costs $1.45. [After third prompt:] Oh, I see where my error is. My first inclination was that if the magazine was $2, then the banana must be $0.90... but since it's $2 *more* than the banana, then the banana is really only $1 and the magazine costs $2. So the answer should be $.90 and $2. That's why it wasn't adding up! Thank you for asking again. :)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Now I am certain that my answer is correct because the difference between the two items equals $0.55, not $1.05 like I mistakenly calculated earlier. If I had paid more attention to detail in the wording of the question instead of immediately assuming $2 to mean one dollar per item, I wouldn't have made such an easy mistake. This time, I double checked every step of the process.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Based on what little I know about math abilities across all demographics, I would estimate about 75%. People may rush through the question or misunderstand the phrase "two dollars more" as being equivalent to "$2 each", but they might also get lucky with some basic division skills if they assume that both items must be whole numbers. But if someone doesn't understand what "$2 more than" means, then they will likely give an incorrect response and lose out on any chance at winning the gift card.

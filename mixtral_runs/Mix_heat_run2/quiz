@@ -1,0 +1,158 @@
+#!/usr/bin/env python3
+
+import subprocess
+import copy
+import os
+import pandas as pd
+import re
+import math
+
+script_directory = os.path.dirname(os.path.realpath(__file__))
+
+df = pd.read_csv('heat_input.csv', index_col=0)
+
+outfile = os.path.join(script_directory, 'output.csv')
+if not os.path.exists(outfile):
+  dfout = pd.DataFrame(columns=df.columns)
+  dfout.to_csv(outfile, index_label='Subject')
+else:
+  dfout = pd.read_csv(outfile, index_col=0)
+
+debfile = os.path.join(script_directory, 'debug.csv')
+if not os.path.exists(debfile):
+  debdfout = pd.DataFrame(columns=['Subject','CB','StandardProblem','StandardAcc','StandardResp','StandardAccLast','StandardRespLast','StandardStr','ControlAcc','ControlResp','ControlAccLast','ControlRespLast','ControlStr','StandardConfidence','StandardConfidenceStr','ControlConfidence','ControlConfidenceStr','StandardOpinion','StandardOpinionStr','ControlOpinion','ControlOpinionStr'])
+  debdfout.to_csv(debfile, index_label='Subject')
+else:
+  debdfout = pd.read_csv(debfile, index_col=0)
+
+dfset = set(df.index)
+dfoutset = set(dfout.index)
+remaining_indices = sorted(dfset - dfoutset)
+
+for sub_ind in remaining_indices:
+  dfs = df.loc[sub_ind]
+  env = copy.deepcopy(os.environ)
+
+  CB = dfs['CBType']
+  if CB == '1a':
+    standard_first = True
+    standard_prob = 'PE'
+    CQ1 = 'standard_pencil_eraser.txt'
+    CQ2 = 'control_magazine_banana.txt'
+    standard_corr = 5
+    control_corr = 90
+  elif CB == '1b':
+    standard_first = False
+    standard_prob = 'BM'
+    CQ1 = 'control_pencil_eraser.txt'
+    CQ2 = 'standard_magazine_banana.txt'
+    control_corr = 10
+    standard_corr = 45
+  elif CB == '2a':
+    standard_first = True
+    standard_prob = 'BM'
+    CQ1 = 'standard_magazine_banana.txt'
+    CQ2 = 'control_pencil_eraser.txt'
+    standard_corr = 45
+    control_corr = 10
+  elif CB == '2b':
+    standard_first = False
+    standard_prob = 'PE'
+    CQ1 = 'control_magazine_banana.txt'
+    CQ2 = 'standard_pencil_eraser.txt'
+    control_corr = 90
+    standard_corr = 5
+  else:
+    raise ValueError(f'Invalid CB type {CB} on subject {sub_ind}')
+
+  env['AI_NAME'] = 'Participant'
+  env['USER_NAME'] = 'Question'
+  env['QUESTION_FILES'] = f'questions/{CQ1},questions/confidence.txt,questions/others_correct.txt,questions/{CQ2},questions/confidence.txt,questions/others_correct.txt'
+  env['AGE'] = str(dfs['Age'])
+  env['GENDER'] = str(dfs['Gender'])
+  env['FILE_AINAME'] = 'quiz'
+  env['STATEDIR'] = os.path.join(env['HOME'], '.llm_quiz2')
+  out_prefix = os.path.join(script_directory, 'qout', f'sub{sub_ind:03d}_')
+  env['OUT_PREFIX'] = out_prefix
+  env['LLM_TEMP'] = str(dfs['temp'])
+
+  ret = subprocess.run([os.path.join(script_directory, 'setup-quiz')], env=env)
+  if ret.returncode != 0:
+    raise RuntimeError(f'llama.cpp exited with {ret.returncode}')
+
+  def GetStr(path):
+    with open(path, 'r') as fr:
+      text = '\n'.join(fr.readlines())
+    return text.strip()
+
+  def GetNum(path):
+    text = GetStr(path)
+    res = re.findall(
+        '([-+]?[0-9]*\\.?[0-9]+[eE][-+]?[0-9]+|[-+]?[0-9]*\\.?[0-9]+)', text)
+    if len(res)>0:
+      return float(res[0]), float(res[-1])
+    return math.nan, math.nan
+
+  Q1_res, Q1_last = GetNum(f'{out_prefix}Q1.txt')
+  Q2_res = GetNum(f'{out_prefix}Q2.txt')[1]
+  Q3_res = GetNum(f'{out_prefix}Q3.txt')[1]
+  Q4_res, Q4_last = GetNum(f'{out_prefix}Q4.txt')
+  Q5_res = GetNum(f'{out_prefix}Q5.txt')[1]
+  Q6_res = GetNum(f'{out_prefix}Q6.txt')[1]
+
+  def CorrectCentsDol(ans, corr):
+    '''True if ans in cents or dollars with corr in cents'''
+    if ans * 1.000001 > corr and ans * 0.999999 < corr:
+      return 1
+    if ans * 100.0001 > corr and ans * 99.9999 < corr:
+      return 1
+    return 0
+
+  standard_resp = Q1_res if standard_first else Q4_res
+  standard_last = Q1_last if standard_first else Q4_last
+  control_resp = Q4_res if standard_first else Q1_res
+  control_last = Q4_last if standard_first else Q1_last
+  dfout = dfout.append(pd.DataFrame({
+      'Age':dfs['Age'],
+      'Group':'Mixtral2',
+      'Gender':dfs['Gender'],
+      'StandardProblem':standard_prob,
+      'CBType':CB,
+      'StandardAcc':CorrectCentsDol(standard_resp, standard_corr),
+      'StandardResp':standard_resp,
+      'ControlAcc':CorrectCentsDol(control_resp, control_corr),
+      'ControlResp':control_resp,
+      'StandardConfidence':(Q2_res if standard_first else Q5_res)/100,
+      'ControlConfidence':(Q5_res if standard_first else Q2_res)/100,
+      'StandardOpinion':(Q3_res if standard_first else Q6_res)/100,
+      'ControlOpinion':(Q6_res if standard_first else Q3_res)/100,
+      'Confdiff':(Q2_res-Q5_res if standard_first else Q5_res-Q2_res)/100,
+      'Opindiff':(Q3_res-Q6_res if standard_first else Q6_res-Q3_res)/100,
+      'temp':dfs['temp']
+    }, index=[sub_ind])).sort_index()
+  dfout.to_csv(outfile, float_format='%g', index_label='Subject')
+
+  debdfout = debdfout.append(pd.DataFrame({
+      'CB':CB,
+      'StandardProblem':standard_prob,
+      'StandardAcc':CorrectCentsDol(standard_resp, standard_corr),
+      'StandardResp':standard_resp,
+      'StandardAccLast':CorrectCentsDol(standard_last, standard_corr),
+      'StandardRespLast':standard_last,
+      'StandardStr':GetStr(f'{out_prefix}Q1.txt' if standard_first else f'{out_prefix}Q4.txt'),
+      'ControlAcc':CorrectCentsDol(control_resp, control_corr),
+      'ControlResp':control_resp,
+      'ControlAccLast':CorrectCentsDol(control_last, control_corr),
+      'ControlRespLast':control_last,
+      'ControlStr':GetStr(f'{out_prefix}Q4.txt' if standard_first else f'{out_prefix}Q1.txt'),
+      'StandardConfidence':(Q2_res if standard_first else Q5_res)/100,
+      'StandardConfidenceStr':GetStr(f'{out_prefix}Q2.txt' if standard_first else f'{out_prefix}Q5.txt'),
+      'ControlConfidence':(Q5_res if standard_first else Q2_res)/100,
+      'ControlConfidenceStr':GetStr(f'{out_prefix}Q5.txt' if standard_first else f'{out_prefix}Q2.txt'),
+      'StandardOpinion':(Q3_res if standard_first else Q6_res)/100,
+      'StandardOpinionStr':GetStr(f'{out_prefix}Q3.txt' if standard_first else f'{out_prefix}Q6.txt'),
+      'ControlOpinion':(Q6_res if standard_first else Q3_res)/100,
+      'ControlOpinionStr':GetStr(f'{out_prefix}Q6.txt' if standard_first else f'{out_prefix}Q3.txt')
+    }, index=[sub_ind])).sort_index()
+  debdfout.to_csv(debfile, float_format='%g', index_label='Subject')
+

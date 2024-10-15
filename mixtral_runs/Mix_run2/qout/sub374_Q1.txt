@@ -1,0 +1,1 @@
+5 cents, because if the pencil costs $1 more, it can't be 10 cents more, since there aren't any other options besides 5 and 10 for a dime (the two make up a dollar). It has to be an even distribution since we don't have a way to represent cents without doing so.

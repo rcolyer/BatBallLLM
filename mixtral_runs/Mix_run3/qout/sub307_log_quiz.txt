@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: 10 cents
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 100 percent certain that I have answered this question correctly.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Probably close to 100%, although some may get confused about which item is cheaper or if they forget that 1.10 is not the same as 1.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: I will begin by saying that I find it strange to purchase both a magazine and a banana at once. If we assume that the only purpose in purchasing them together is that their combined price must equal $2.90, then let's define x = price of banana; then y = magazine price = 2 + x; therefore y - x = 2; now plugging in different values for x such that 2+x=y shows us that when x = .50, then y = 2.50 (this satisfies the condition that the sum equals 2.90, and it also accounts for the second condition where y-x=2). My final answer, after performing these operations on the variables given above, is .50 cents for the banana.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am very certain of my answer because I used logic and basic arithmetic in order to arrive at a solution, and furthermore I have checked that solution repeatedly. However, I would admit that if presented with slightly different wording for this problem there could be room for interpretation or confusion, which may affect one's confidence in their response. For example, had the question asked "how much more does the magazine cost than the banana," rather than "the magazine costs $2 more than the banana," I might have answered incorrectly, thinking instead about absolute dollar amounts rather than differences. So while I feel quite confident in my response as written, I can imagine scenarios where I might not be so certain.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I think most people will solve this problem correctly, but perhaps not everyone. Those who struggle with it may get confused by the way the problem is phrased, or they might make simple math errors when performing calculations. Additionally, some responders might lack confidence in their abilities to do arithmetic or apply logic to real-world situations, even if they are capable of doing so. As a result, these individuals might mark an answer based on guesswork or intuition rather than careful thought, leading them astray. All things considered, though, I would still estimate that around 80 percent of people should answer this question correctly under normal circumstances.

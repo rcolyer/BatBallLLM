@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $0.90
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 100 percent certain that the banana costed 90 cents.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: At least 50 percent because there is an easy solution when you look at the price of each one by itself.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: This is confusing because if you think about it both have the same price but since the pencil costs $1 more than the eraser it's still confusing.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Well this time I only got like half confident because I was really confused on what the right answer could be.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe less than 20% because most people just say 10 cents for the eraser without figuring out that the answer can be a decimal like 5 cents or so.

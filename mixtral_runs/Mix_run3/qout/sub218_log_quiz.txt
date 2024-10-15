@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 36
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: .90
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%. I know my answer is right because it's basic subtraction, so unless something is wrong with my computer I don't see how I could have gotten this problem wrong.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: At least 50%, but probably closer to 70%. Most people can do this level of addition or subtraction. Some might have made an arithmetic mistake though.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10 cents
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%. This question seems even simpler than the last one. Basic subtraction again, and if someone made an error with the last answer, they would surely notice their mistake here and correct it.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 98%, if not everyone. Seriously, anyone who cannot answer this is illiterate and/or mentally deficient. I don't mean that offensively, I'm just saying I think most of these questions should be answered accurately by anyone reading them.

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 28
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: I believe this question has a trick in it. The difference between a dollar (the price of the pencil) and 10 cents (the cost of the eraser) would total 90 cents, not the one dollar indicated in the first sentence. But if I follow the rules given, then the pencil costs $1 more than the eraser ($1 + $.10). Thus, the eraser must cost $.10.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%. My answer reflects exactly what was asked.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I have no way of knowing what other people will do. Some might solve it as I did, but many may fall into the trap. It's hard to guess percentages with any confidence.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Well, $2.90 minus $2 leaves $.90 as the cost for the banana. This question seems straightforward, so perhaps my confidence should be at 100%.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%. That answer follows directly from the information given.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Again, I have no idea what others would do or think. This one appears easier than the first, though. If I had to guess, I would say around 75-80%.

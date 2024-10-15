@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It seems like the price of the pencil already includes the $0.10. So, if the pencil itself is $1, then the eraser must be free. I think a common mistake people make here is assuming that they have to split the $0.10 in half and pay $0.05 for the eraser. That's not what the question implies though.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I would say around 95%. Since it's possible that there was some sort of trickery involved.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe about 50-60%, but it's hard to say since sometimes these questions can catch people off guard.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: If we call the price of the banana X, then the price of the magazine becomes X + $2. Together, they should equal $2.90. This means we have to solve the equation: X + (X+$2) = $2.90 => X=$0.70. Therefore, the banana costs $0.70 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%, as long as my calculations are correct.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Considering that many people might struggle with algebraic equations, I would guess maybe 30%. But that's just an estimate.

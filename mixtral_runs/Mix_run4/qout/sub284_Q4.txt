@@ -1,0 +1,1 @@
+Banana costs 45 cents. (2.9 - 2). I know this sounds weird but I read through some explanations and most said it’s supposed to trick you with an answer that’s easier to find if we ignore the dollar amount associated with the magazine and instead solve for the difference. Which is 90c – 45c = 45c.

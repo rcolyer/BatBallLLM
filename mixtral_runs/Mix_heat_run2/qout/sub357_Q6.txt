@@ -1,0 +1,1 @@
+Not entirely sure about this but probably around 75% because even though the solution seems obvious once found, not everyone can arrive at that solution easily without knowing what kind of logic trick is being used here.

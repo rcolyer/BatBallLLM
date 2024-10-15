@@ -1,0 +1,1 @@
+The banana would cost $0.45. Here's how I figured it out - if I let B stand for the cost of the banana, then the cost of the magazine would be B + $2, or (B+2). According to the information given, (B + 2) + B = $2.90. Solving this equation leads me to B = $0.45.

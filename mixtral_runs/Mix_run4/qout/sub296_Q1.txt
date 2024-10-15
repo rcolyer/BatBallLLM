@@ -1,0 +1,1 @@
+The magazine is worth \$2, so the banana must be \$1 cheaper in order for this sum to be correct, meaning that the banana is actually worth \$0.90.

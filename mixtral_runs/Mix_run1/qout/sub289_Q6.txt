@@ -1,0 +1,1 @@
+People who try to apply the same rule as with the last question (adding values instead of substracting them) will fail. That happens often so i would say something around 50%.

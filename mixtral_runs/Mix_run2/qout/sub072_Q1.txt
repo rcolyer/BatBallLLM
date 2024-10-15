@@ -1,0 +1,1 @@
+Firstly, we have to find the cost of the Magazine by subtracting Banana’s price from the total amount (i.e., $2.90-$X). Given that the difference between Magazine’s cost and Banana’s cost is $2, it can be represented as follows: ($2.90-$X)=$2 => $X= $0.90. Hence, the Banana costs 90 cents.

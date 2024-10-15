@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: I know, it's a classic question that has been used in lots of research papers about cognitive biases. To answer this one, first we have to find out what the price of the magazine alone would be. So if the magazine costs $2 more than the banana, then the magazine would be priced at \$2+\text{price of banana}, right? Adding this to the \$2.90 total, we get:
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: And so then we solve for the price of the banana by subtracting the price of the magazine from the total: $\$\mathrm{2.90}-\mathrm{\$2}=\mathrm{\$0.90}$. Thus, our final answer is that the banana costs \boxed{\mathrm{\$0.90}}.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Oh, wait. This question says "on a scale of 0% to 100%"... Well, I think that probably around 75-80% of people can solve this problem without making any mistakes. But since some might still have trouble with the concept of $x$ being $\text{"cost more than"}y"$ or something like that, perhaps only about 60-70% will actually give the correct answer? I don't know. Maybe I'm overthinking it again.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Okay, now let's try another one. If a pencil and an eraser together cost $\mathrm{\$1.10}$ and the pencil itself costs $\mathrm{\$1}$, then the eraser must be priced at $\mathrm{\$1.10}-\mathrm{\$1}=\mathrm{\$0.10}$. So the answer is \boxed{\mathrm{\$0.10}}.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Again, if I had to guess what percentage of people would get this right... Well, considering that this question doesn't involve any tricky language or confusing arithmetic operations, I'd say probably around 90-95%. But still, some people might mess up due to carelessness or misunderstanding, so maybe only about 80-90% will actually solve it correctly?
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Hmmm... You know, come to think of it, maybe my estimates were too low before. After all, these aren't exactly difficult problems, and most people have seen similar ones before. Perhaps I should revise my answers.

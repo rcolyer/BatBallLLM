@@ -1,0 +1,1 @@
+Let x = cost of banana, then x + 2 = cost of magazine. So, 3x = $5.90, therefore x = 3/10 * $5.90 = $1.97 and thus the banana is 60 cents.

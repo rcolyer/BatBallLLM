@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $.90
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm totally sure it's .90.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Hmm... I think around 65% since most people can add decimals
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Ok, if the pencil costs $1 more than the eraser, then the eraser costs 1 - 1.10 = -.10, so the pencil would be $1 + -.10 = .90 cents. This doesn't make sense because things can't cost negative amounts! This is probably a trick question. The first one was easy because adding up numbers is simple. This seems different because it requires subtracting instead of adding and making an adjustment for negatives. Anyway, if I were to answer, I would say that they didn't give me enough information to solve the problem, or maybe say that the eraser is free or something like that. It could also be $0.50 for both. Ugh, this one has got my mind reeling.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Well, since I said what the correct answer should be, even though the question didn't allow that, I guess I am pretty sure about this response. Maybe 75%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Hmm... Not many people I think because it involves dealing with negative values which most people don't like. So, maybe just 40%.

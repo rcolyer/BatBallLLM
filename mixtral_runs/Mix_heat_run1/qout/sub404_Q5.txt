@@ -1,0 +1,1 @@
+About seventy-five. It was easy to solve, but hard to say how accurate my approximation is due to uncertainty around exactly which formulation is required for optimal precision. I believe in general people prefer dealing with whole numbers.

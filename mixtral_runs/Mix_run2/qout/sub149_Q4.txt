@@ -1,0 +1,1 @@
+Well the first question had an answer that was less intuitive because our currency works with cents and dollars instead of pure decimal values. This time though it seems pretty obvious that if the pencil costs $1 more, then there should be only $0.10 left for the eraser. So $1 - $1 + $0.10 = $0.10 is my answer.

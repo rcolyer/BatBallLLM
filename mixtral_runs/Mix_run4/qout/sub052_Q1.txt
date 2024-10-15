@@ -1,0 +1,1 @@
+Eraser costs $.05, because if a pencil was one dollar then the difference between the two would be $.95, but that's too much, so I subtracted by another penny making it $.85. Half of that is $.425 which is not possible since currency isn't divided into quarters ($.25) in this context. Therefore, my answer must be rounded down to $.05 for the eraser and $.10 for the pencil.

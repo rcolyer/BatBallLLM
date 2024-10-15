@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: $.05 (because if the pencil is one dollar more then that means the difference between what each item costs must be .05)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 90%, because I know my answer is correct, but since this is just an online study I can never be entirely positive that there wasn't some miscommunication.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 40%. It's actually not a difficult problem once you understand the concept being tested. But it also requires logical reasoning and isn't immediately obvious which tends to trip many people up, so while some will get the right answer, others won't due to misunderstanding.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $.90 (the total is the sum of the two items individually. I arrived at this answer by simply subtracting the cost of the magazine from the total, thereby leaving me with only the value of the banana.)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%. I double-checked my calculation here for accuracy because math can sometimes be unpredictable and small errors tend to compound quickly if left unnoticed.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 80%. This particular question format has been used numerous times before in cognitive surveys. It's simple enough that most individuals who encounter it should solve it without issue.

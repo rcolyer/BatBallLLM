@@ -1,0 +1,1 @@
+Eraser = (1+pencil)/2 = .55

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 25
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: .10 cents.  You asked how much the eraser costs, not how much more it costs.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm fairly confident that this is correct because I know what you meant by asking "how much" rather than "how much more".  Since the two objects together cost exactly one dollar ten cents, all I need to do was subtract the value of the first item from the total, which would give me the second item's cost.  If you had asked for the additional cost of the eraser over the pencil then my answer might have been different because the price difference between them isn't explicitly stated as such.  However, since this question only asks about the cost of each object individually, I stand firm on my initial assessment of .10 cents for the eraser.  My confidence level is at 90%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: It depends on whether or not they read carefully enough before responding.  Those who paid close attention like myself should be able to figure out that I can't solve it without making assumptions based upon my understanding of English grammar and semantics.  Others might assume that "how much does the eraser cost?" actually means "how much more does the eraser cost compared to the pencil", but we don't know if that was intended.  That being said, I think most people will respond with .10 cents given their interpretation of the prompt.  Based solely off of this assumption, I'd estimate that around 75% of participants answered correctly.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: First thing's first, let me state again that I do not feel completely comfortable solving these types of problems when explicit values aren't provided for each variable.  However, assuming that you meant what you wrote (as opposed to intending something different), then the equation would look something like this: Banana + Magazine = $2.90 ; Magazine = Banana + $2.  Solving for the Banana using simple algebra gives us an answer of 45 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Given the parameters set forth in your problem statement, I believe my solution is valid and accurate.  Therefore, my confidence level is at 95%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Again, this depends upon their interpretation skills and attentiveness.  Some might make assumptions about what was actually being asked which could lead them astray.  However, if they read carefully and solve for the variables according to basic mathematical principles, I think most individuals should arrive at the same conclusion as I did.  So, based on those assumptions, I estimate that around 85% of participants answered correctly.

@@ -1,0 +1,1 @@
+Honestly, I have no idea since most people would immediately solve this as "pencil = $1, eraser = $0.10", but then that doesn't add up correctly. So maybe only half will get the right answer? About 50%.

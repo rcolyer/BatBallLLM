@@ -1,0 +1,1 @@
+Bananas are expensive these days; they cost $1.45! Just kidding, but seriously... If we let X represent the cost of the banana then the magazine will cost (X+2) dollars. This gives us a system of two equations:

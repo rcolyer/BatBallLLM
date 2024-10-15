@@ -1,0 +1,1 @@
+It still costs $.05 cents, just like before! That one was simple, since we can directly deduce that an item's cost didn't change just by altering its pairing with another object.

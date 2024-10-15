@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Eraser would be $.10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 98 %
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I don't think very many will get it right; therefore, I am going to put 35%.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: I have done something like this before so I am quite familiar with finding out a total when a price is given for one thing and added onto another. Banana has to be worth a certain amount for them to both add up to $2.90.  It's been drilled into me over the years that there will never be such an exact number as $1 more but for some reason there is. If the difference in price is exactly $1 then that equals out to .05 which I didn't even know. After reading through the entire problem and analyzing what is being asked is for me to add a penny on to my previous answer for the cost of the eraser so its the same concept. For bananas the penny makes all the difference since if you were adding $2 or whatever dollar value to a single penny then there would still be that missing change not equaling up to 1.00.  If you use logic
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I think it is around 97 percent, but I’m going to go with 98 %. It may not be entirely logical but I think it works pretty well and it does seem like most things have to come down to common sense at some point.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 38%. I think they may have done well the first time but then get confused and pick something like .97 or something like that. There isn't much you can do about a person’s brain when faced with questions involving money or time so I will leave this one at 38%.

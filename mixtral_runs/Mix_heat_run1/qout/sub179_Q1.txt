@@ -1,0 +1,1 @@
+$.10, because it asks how much the eraser cost separately, not together

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 50
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It says the pencil already cost $1 so that means the eraser only costs $0.10 or ten cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am totally sure about it, so I put down 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I believe at least 90%, if not more of the people will solve this one correctly since the answer was very straight forward.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Ah...this one needs some calculations. Let's see now. If magazine costs $2 more, then let me subtract that $2 from the total amount of $2.90. This makes $0.90 left for the banana. But we should also find out how much the magazine costs by adding back those two dollars. And that would be $2 + $2 = $4. Okay, so the final answer is $4 for the magazine and $0.90 for the banana, making up a total of $4.90, which actually contradicts with the original price given. Wait...I must have done something wrong! Hang on, let me think again...Oh yeah, the magazine and banana together only cost $2.90 and that includes both prices, right! So if the magazine costs $2 more, I should simply add those two instead of subtracting to get the correct figure. That would mean the
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Oh my God, after all this mental gymnastics, I am still not even sure about my final answer. I guess I am just around 50% certain about it.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Considering I myself made an error in calculation and the fact that this type of problems generally seems less obvious than the previous one, I think maybe about half or so will get it right. So, approximately 50%.

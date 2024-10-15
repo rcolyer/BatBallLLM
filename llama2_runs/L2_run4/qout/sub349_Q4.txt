@@ -1,0 +1,1 @@
+If magazine cost $2 more than banana, then banana must cost $x. So the sum of $2(banana) + $2 = $4(banana). Therefore, $2(banana) = $1.90; hence, the cost of banana is $0.95.

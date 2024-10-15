@@ -1,0 +1,1 @@
+Banana = (Magazine - $2) --> $2.90 - $2 = $.90, Banana = $2 - $2 = $0. So, a free banana!

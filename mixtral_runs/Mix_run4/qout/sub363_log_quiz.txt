@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 20
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $0.90, it's not possible that both cost what they appear to due to the odd total. You would need a penny for a round total.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%, I was taught this method from my elementary school teacher who had learned it as part of her course work on basic arithmetic at University so it has been well validated by many others beyond myself. But still room for human error in input or other factors that may be missed here.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 75%, most people who think about the situation and its variables should get the right answer but there will always be some outliers.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: The pencil costs $1.05 and the eraser is 5 cents, otherwise the statement about their costs would mean the total was $2 which is incorrect per original information.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%, same as last question with my personal experience.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 60%, seems like a bit harder equation due to dealing with fractions/decimals rather than whole numbers so likely more mistakes made here.

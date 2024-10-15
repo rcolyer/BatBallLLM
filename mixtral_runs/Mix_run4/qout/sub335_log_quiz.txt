@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 29
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: 15 cents, if X equals the cost of the banana in cents and Y equals the cost of the magaine then (X + 30) = Y and so 290/Y - 30/Y = .90 or 260/Y = .90 and so Y = 260 / .90 which equals approximately 288.9 cents but since a cent cannot be split this means that the magagine costs exactly $2 and therefore the banana must cost 15 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I'm sure very few indeed would have used correct reasoning to find that the answer was 15 cents; maybe one in 5,000 on average -- perhaps around 0.02% if we are considering those who attempt such questions.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It is not possible for the pencil to cost more than the combined sum but still cost only a dollar unless the price of the eraser is negative!
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: This question simply has no rational solution given the information provided as I just demonstrated and thus it cannot be answered with certainty, therefore I am 0% confident.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Although I have just proven that the question lacks sufficient data to give any reasonable answer, many people might not stop to consider this and just blindly answer "10 cents" instead of recognizing the flaw. However, I do believe that the number of those giving the nonsensical answer must be very low relative to the previous one because if someone fails to recognize an elementary issue then they will almost certainly be wrong again when asked the next one -- so even though their percentage should rise slightly it remains extremely low since very few were right at first and most would continue to guess randomly. So my best estimate would be perhaps 0.25%.

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 24
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: $.05, because if the pencil cost $1.05 then it would be $1 more than the eraser which was stated as costing $.05 in total
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm 80% positive that this answer is correct because I did calculate it, but it is always possible that there is some flaw in my understanding or interpretation.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: If they were able to solve for X in the equation (pencil price = x + eraser price, .1 = x - eraser price; adding these equations yields .1 + eraser price = x) then I think around 75-80%, assuming basic algebra skills. However, if people just estimated the difference between two numbers, without calculating it out explicitly, perhaps 50%.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $.90.  Calculated by subtracting $2 (magazine cost) from $2.90 (total).
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 100% sure of this answer because it was an elementary arithmetic calculation that I performed.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: For those who can perform simple addition and subtraction, 95% or more would be able to solve this question correctly.

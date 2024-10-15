@@ -1,0 +1,1 @@
+And so then we solve for the price of the banana by subtracting the price of the magazine from the total: $\$\mathrm{2.90}-\mathrm{\$2}=\mathrm{\$0.90}$. Thus, our final answer is that the banana costs \boxed{\mathrm{\$0.90}}.

@@ -1,0 +1,1 @@
+90%.  I was pretty sure about this one, but if you subtract .05 from 1.00 then the difference is .95 so maybe there's something wrong in the way the question is written.

@@ -1,0 +1,1 @@
+Eraser = .10 cents, Pencil = .10 + $1 = $1.10 cents, Answer incorrect

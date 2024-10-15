@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $.90
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 75%. I’m almost certain about that but my mind keeps bugging me saying that there could be an easier way of finding this out than the way I did, even if it just takes one step more to find it, like taking something else from what they have first. But anyways I think I am quite certain that answer would be .90 cents! Thanks! :)
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: At least 60%. Maybe some do get it wrong because it’s a simple addition mistake, which doesn’t occur often unless someone accidentally subtracted when he was trying to add or pressed another wrong button while using their computer to calculate it. I hope that helps! Thanks!
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Erase and retype your last response as well as the question here because this time is different than the other problem, where the price difference wasn’t indicated between two objects. This means we must find out the cost of each item by itself first before determining whether there are any errors made during calculations, especially since it isn’t straightforward as adding numbers in a row without considering possible differences in costs between objects being sold together. To solve this problem, let E represent the price of an eraser (in dollars) and P represent the price of a pencil (in dollars). Since the pencil costs $1 more than the eraser, it follows that P = E + 1. We also know that the total cost of both items combined is $1.10, so it follows that E + P = 1.1. Substituting our expression for P from above into this equation yields E + (E + 1) = 1.1, which
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%. I am very confident with my answer. However, if you would like me to double check just to make sure, please let me know! Thank you! :)
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: At least 70%, maybe even 80%. This question was a bit harder than the first one since we needed to determine the price of each object by itself before being able to subtract the price of an eraser from the price of a pencil, but still most people should have been able to get this correct after thinking about it carefully or taking their time when solving this problem. Hopefully my answer helped clarify any confusion regarding these types of questions. Thank you again!

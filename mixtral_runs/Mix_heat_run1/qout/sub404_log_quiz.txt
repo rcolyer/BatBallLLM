@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: .10 or ten cents. I guess the wording was tricky, since one cent could be rounded up to ten. But assuming it was intended as "How much more?" the answer is one cent.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 70 percent. That's an approximation.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe fifty, although if people think like me and question their initial intuition that it must cost something extra they might come close to understanding why five cents isn't sufficient. But maybe my answer's not typical either; some people will just automatically subtract instead of figuring out what must be added, because we hear more about adding than taking away in mathematics education. I also think the word "together" makes it somewhat unclear; without that phrase the correct answer would probably be immediately obvious to almost everybody.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $1.45 for bananas. Again, this is an estimation and may involve rounding up/down slightly based on decimal points, so let's say +-.05c. It took me a little longer to do these ones because of being unsure how specific the answers were expected to be, especially if using calculus or another type of exact solution. If necessary, we could assume there aren't decimals and add or subtract .10c from that result.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: About seventy-five. It was easy to solve, but hard to say how accurate my approximation is due to uncertainty around exactly which formulation is required for optimal precision. I believe in general people prefer dealing with whole numbers.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Around sixty; however some won't consider whether both items should total $2.90 evenly when computing the price of one object relative to another, so possibly less. Some people might simply add two and then take away the price of one without bothering to calculate how much each component contributes.

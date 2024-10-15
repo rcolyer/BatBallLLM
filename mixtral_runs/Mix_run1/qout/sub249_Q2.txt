@@ -1,0 +1,1 @@
+50%, because although my assumptions about the prices and the resulting calculation seem logical, I don't know whether these are correct or not; thus, my confidence level can only be moderate. If asked again under different circumstances - say, given additional information - my confidence might rise significantly, or maybe even fall back down, depending upon that new info.

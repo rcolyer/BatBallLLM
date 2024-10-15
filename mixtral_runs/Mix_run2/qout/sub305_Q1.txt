@@ -1,0 +1,1 @@
+I'm thinking out loud, so you can see my process... Let's assume the banana cost X dollars. Then the magazine costs (X+2) dollars, as per the question. Adding it all up, we get 2.90=x+(x+2). Solving for x gives us x = .45. Answer: The banana costs 45 cents.

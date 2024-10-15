@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: It’s easy. First assume eraser costs 95c, then pencil will be (1.1 - 95/2). It comes out to 65c but since pencils always have round cents amounts on them I go for the first digit and divide 70 c by it giving me (0.98 c / 40 =) ~ 0.2 c left which fits 53 so 55 + (6 - 30 / (7 * 6)) would mean pen costs about (2.668, eraser ~ (2.2 - 3/2)), that comes very close! So a total value will be approx (2.6 - 1 =) ~1 dollar. Answer: pen: $0.67, rubber: $0.43 ($0.7)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Very confident at this stage (almost sure) 75%, if the problem wasn't formulated that well it wouldn't bother me :) It also took longer to calculate due the small details like cents but they just fit. But maybe I should still use the previous approximation when looking deeper... The whole equation looked good so can leave everything but add (3c). (70 - 50(2)/2/6 -3). 6.2
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: They might need a paper or better screen but otherwise most should get similar results... Saying at least (5)%. 90+, depending on language used there are small variations (for Russian speakers) or cultural differences as seen here: https://www.ted.com/talks/juliana_scherena/transcript
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Assuming 91 c for apple so I would pay 92 centimes ($2) then a mango must cost approx. a dollar ($1 + x): 
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: More sure than with the pen now but I got lucky, guessing beforehand helped as it gave me some direction which led straight forward but still I have some doubts due experience where there was some round-off that confused me in such problems so this answer just seems to fit good with logic as I have my assumptions but if someone else sees same number like - "Why it's divided in this particular way"? 
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I will say more or less equal since it's more natural way of getting things as in a market :)

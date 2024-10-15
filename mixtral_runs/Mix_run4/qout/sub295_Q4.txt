@@ -1,0 +1,1 @@
+Based on how these problems work, we need to add one to the difference between the two prices so the answer should be $.05 or five cents.

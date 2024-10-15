@@ -1,0 +1,1 @@
+$0.90. You can use subtraction (price of mag-banana price=0.90) or addition (total price/price of mag). Both give you the same result.

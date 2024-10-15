@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Ten cents. The question says a pencil plus an eraser costs 110 cents, which means 1 dollar for the pencil leaves 10 cents for the eraser. I suppose that if they really did mean “how much MORE does the eraser cost,” then it would be 10 cents more than free. But the wording clearly states "how much does the eraser cost," so my answer stands.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 70%. It’s pretty straightforward when you think about it. Of course, some people might be tempted to add or subtract rather than multiplying by zero. If I were allowed to reword the original question, perhaps I could make it less misleading. Maybe something like “A certain brand of ballpoint pen and a new refill together cost $1.10. How much does one refill cost?“ Then I bet most people would say ten cents, because the price discrepancy between pen and refill wouldn’t enter their minds. But the way it’s worded currently is just too prone for mental error.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Fifty cents. Let X equal the price of the banana. According to the question, a banana plus a magazine will cost you 2 dollars more than a banana on its own. This means that the price of the magazine can be written as X+2. Adding these values together gives 3X+2=2.90; solving this equation for X yields 3/10 minus 2, which is exactly what I entered originally (50 cents). It's easier than it seems at first glance!
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe 40%. That one might have been tougher for some because it’s slightly less intuitive compared to the pencil/eraser problem. But once again, when you think about it mathematically, it becomes easy enough to solve.

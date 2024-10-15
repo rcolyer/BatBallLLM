@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: The eraser costs ten cents, because $1.10 - $1 = .10 or $.10 = 10 cents
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 80%
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: This seems like an arithmetic problem that I should be able to solve, but I can't seem to get the correct answer no matter how I work through it. I know that the magazine cost is two dollars more than the banana, so if we divide $2 by 3 for three parts of the total, then each part should be $0.67, making the cost of the banana $2.67. But when added to the cost of the magazine ($4.67), this adds up to $7.34 rather than $2.90. My intuition says that this means that I have made a mistake somewhere along the way, because these numbers just don't make sense with regard to the original statement of the problem. After thinking about this for quite some time, I still can't seem to get a plausible solution.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 5% - Although my answer here indicates low confidence, my previous explanation describes my frustration in trying to arrive at an accurate result, and therefore would imply somewhat greater certainty despite the lack thereof.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 30%. Given that only 80% of respondents were able to solve the pencil/eraser question, which was far simpler to work out mathematically, I assume that many more people will struggle with this one as well. This conclusion is supported by my own difficulty with finding a plausible solution, so my estimate is actually rather optimistic.

@@ -1,0 +1,1 @@
+Okay, now let's try another one. If a pencil and an eraser together cost $\mathrm{\$1.10}$ and the pencil itself costs $\mathrm{\$1}$, then the eraser must be priced at $\mathrm{\$1.10}-\mathrm{\$1}=\mathrm{\$0.10}$. So the answer is \boxed{\mathrm{\$0.10}}.

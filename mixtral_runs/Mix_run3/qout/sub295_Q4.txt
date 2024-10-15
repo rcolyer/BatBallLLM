@@ -1,0 +1,1 @@
+Eraser = $.05; Pencil = $1.05 (Pencil cost plus eraser cost equals $1.10.)

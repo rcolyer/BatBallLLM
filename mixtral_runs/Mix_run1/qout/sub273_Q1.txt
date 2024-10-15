@@ -1,0 +1,1 @@
+$.45 cents (Answer can be checked by calculating $2.90 - $2 = $.90 / 2 = $.45)

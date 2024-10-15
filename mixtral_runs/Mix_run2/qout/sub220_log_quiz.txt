@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 30
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10, because that is what's left over when a dollar for the pencil is subtracted from the total cost of $1.10.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 100% sure that this is the correct answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: At least 80%. It seems like most people who solve these types of logic puzzles would easily figure out the answer.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: First off, the wording of the question changed slightly - 'a magazine AND banana'. This tells me that there should be an additional step involved since we aren’t just asked for one item price this time around. So let's break down the information given:
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Let X be the cost of the banana; then the magazine costs 2 + X dollars, where X is less than or equal to 2 because otherwise, it wouldn't make sense to call the magazine twice as expensive as the banana. Adding the two amounts, we get:  X + 2 + X = 2.90. Solving for X gives us X = .45 cents. Since .45 cents is less than 2, our initial assumption about the relationship between the prices holds true. Therefore, I am 100% sure that my answer is correct.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Less than 50%. The change in phrasing might cause some confusion among those who simply subtracted $2 from the total amount and got the wrong answer due to misinterpreting the word 'and'. Plus, the problem itself seems somewhat more complex compared to the previous one.

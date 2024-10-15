@@ -1,0 +1,1 @@
+I want to say around 75%, since if they did get the answer right then their confidence level would be high enough to state it definitively and those who were off wouldn't be so sure.

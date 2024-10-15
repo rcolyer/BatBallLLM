@@ -1,0 +1,1 @@
+Eraser= $.05, Pencil= $1.05; The difference is equal to $1 as stated, but the values have changed, hence why the first question may be difficult for many to answer.

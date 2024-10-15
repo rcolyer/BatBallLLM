@@ -1,0 +1,23 @@
+#!/bin/bash
+
+cd "$(dirname "$0")" || exit
+
+if [ ! -e "$STATEDIR" ]
+then
+  mkdir "$STATEDIR" &&
+  chmod 700 "$STATEDIR" &&
+  echo "Initialized new state directory"
+fi
+
+export CHAT_LOG="${OUT_PREFIX}log_${FILE_AINAME}.txt"
+if [ ! -e "$CHAT_LOG" ]
+then
+  touch "$CHAT_LOG"
+fi
+
+export MODEL=${MODEL:-$HOME/src/llama.cpp.models/llama2_70b_chat_uncensored.ggmlv3.q4_K_M.bin}
+export CHAT_SAVE_DIR="$STATEDIR"
+export PROMPT_HEADER="$PWD/${FILE_AINAME}_header.txt"
+export THREAD_COUNT=8
+./auto-quiz.sh "$@" -gqa 8 --temp "$LLM_TEMP"
+

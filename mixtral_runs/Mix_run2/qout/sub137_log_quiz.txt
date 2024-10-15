@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 26
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: 90 cents, because it was on sale.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 53%, but only for today’s prices.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I would guess that 98.7% will answer it wrong and think that the banana is $1, when really it is just cheaper at some stores or because there was a sale today.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: This problem depends on whether you know the cost of the pencil before buying or if they tell you after. If they told me afterwards, I would think about how my dad bought these kind of school supplies all throughout middle and high school and never paid full price for them because he was friends with the store owners so they would sell things like pencils and erasers and notebooks for really cheap sometimes. That being said, if it is just one pencil then I guess the eraser would be ten cents. But what if it is two pencils instead of just one? It might make a difference depending on how many items are purchased together since we don’t actually have enough information to solve this problem. In conclusion, I would say that the eraser is most likely either five cents or ten cents, but it could potentially be more based on outside factors like sales and relationships with store owners.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Only about 40%, since there were too many variables and uncertainties involved in solving this question.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Probably less than half of them got it right, especially those who did not consider whether they knew the price beforehand or after purchasing the items.

@@ -1,0 +1,1 @@
+Okay, so if the banana costs $x then the magazine will cost $x+2. So altogether they would be $x+$x+$2=$3+$x. That means $3+$x=$2.90, which simplifies to x=$2.90-$3=-$0.10. But that doesn't make sense, since we can't have negative prices. Therefore I must have done something wrong. Maybe I should try again with different numbers?

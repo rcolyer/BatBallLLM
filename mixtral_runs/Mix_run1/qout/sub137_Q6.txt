@@ -1,0 +1,1 @@
+Probably around 75%. It may seem obvious that they're looking for a fraction or decimal, but this problem requires a bit of logic.

@@ -1,0 +1,1 @@
+$.10 cents. The pencil is priced at $1 and the total price is $1.10, which leaves the eraser at $.10 cents.

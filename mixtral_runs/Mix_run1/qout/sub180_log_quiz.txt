@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 27
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10 cents, because if the pencil costs one dollar, then that leaves ninety cents for the eraser.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%.  I did hesitate slightly when initially thinking about the problem, but upon further reflection, it became clear.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: At least 80%.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: I am going to assume that the word “more” refers only to dollars, so if the magazine costs two more dollars than the banana, then the banana would cost thirty cents. If instead it is meant to say that the magazine is two dollars greater than the price of the banana, then it would mean the banana cost ninety cents. Either way, both options seem possible depending on interpretation.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: As far as the first answer is concerned, I am 90% certain because I know some might interpret the wording differently; with regard to my second answer, I am 80% sure because, while the question seems ambiguous, I think there's still a good chance that others will arrive at this same conclusion after considering what they believe was intended by the word "more."
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: With the first answer given, assuming everyone understands the question exactly like myself, I'd expect maybe 60% will answer correctly. With the second answer, again under those assumptions, perhaps 40%. However, considering the potential for differing understandings, it is hard to provide accurate estimates.

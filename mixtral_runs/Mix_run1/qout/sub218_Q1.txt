@@ -1,0 +1,1 @@
+Banana = $2.90 - $2.00 = $.90 (It was immediately obvious to me that I could solve this problem in one step.)

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 29
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: 0.10 (The cost of the eraser alone)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95% (Very confident that my answer is correct, but there might still be some tiny possibility that I am wrong.)
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 30% (I think many would assume that you add the total cost together when, instead, you have to calculate the difference between them).
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: 0.45 (Calculation involves solving an equation for a value greater than zero; I arrived at .45 by subtracting 2.00 from the total amount and then dividing it by 4 [since there were two items worth twice the price of the first], resulting in a decimal value, which represents the fractional price of one banana compared to a total price of 4.00).
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 65% (I feel somewhat unsure, though I used the given information accurately and followed mathematical rules as taught in school. I know some problems like this involve traps or incorrect assumptions, but I've tried hard not to fall into those.)
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 15% (This is based on my belief that most would assume incorrectly that you add the costs together, even after being presented with another question where this error was demonstrated. They may have been misled again, especially when confronted with new values that do not follow the previous pattern they've come to expect. Alternatively, others could simply be unable to solve these types of math problems altogether.)

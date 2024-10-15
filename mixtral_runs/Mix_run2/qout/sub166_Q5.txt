@@ -1,0 +1,1 @@
+I am totally confident about my answer (95%). There might always be some corner cases which could require more calculations, but most likely the solution would still stand correct.

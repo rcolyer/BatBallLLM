@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 25
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It's free, because if it wasn't they wouldn't need to say that the total price was $1.10.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am completely certain about my answer.  100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: At least half would know that if an item is discounted 90%, that means that it is now selling for a tenth of its original price.  50%.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Bananas usually don't sell at whole-dollar prices in stores.  If we assume that magazines are priced around $3, then that makes a reasonable banana price be around $.65 cents ($.45 less than the magazine).  However, when making an assumption like this, the question should have indicated that the numbers provided were accurate, so that one can make a reasonable estimation based on sound assumptions.  Therefore, the only possible answer is $.90 or some similar number.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am almost certain about my answer.  95%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I would hope that most people understand that the magazine is being discounted by the difference between its original price and the final price.  So, if we do not know exactly how much the original price of the magazine was, then it is difficult for us to solve this problem completely.  Because of that ambiguity, however, there are many possibilities for what the cost could be.  For example, if the final price was actually the result of a two-dollar discount applied to the magazine, then it might be cheaper than the banana.  So, even though most people will give different answers, they won't necessarily be wrong, and it all depends upon their interpretation of the information provided.  75% at the very least.

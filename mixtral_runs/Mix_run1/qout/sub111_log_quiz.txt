@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: I'm pretty sure it costs $.45 but when I first read the question, my mind immediately thought $1.05 for the magazine.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 90%, I had to think about it for a few minutes after writing down my first answer before coming up with this one.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I would hope at least 85%. I feel like this one is an easy trap to fall into since the question states that the magazine costs $2 more rather than "the total is $2.90 with the magazine being $2 more." But then again, maybe people see that the difference in price is .95, so they add .95 + $2 which comes out to be $2.95 and say no way could a banana cost over a dollar... or something along those lines. Either way I think it could go either way depending on whether or not people pick up on the phrasing of the question. So to sum it up, I'm really not sure.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: At least 85%. Again, this question has similar wording as the first one did except for the order things were written in, which is probably why most people answered it correctly. Once again though, I feel like the answer might vary because some people might forget that there was even an eraser after seeing the price of the pencil while others may understand the question just fine and figure out the correct solution right away. It also depends on how attentive they were when reading the question. If they weren't paying close enough attention, then they might think that the total is $1.00 rather than $1.10. But if they did pay attention, then they should be able to figure it out with ease since all they need to do is subtract the cost of the pencil from the total price given at the beginning of the question. So based off those possibilities, I would say around 90%.

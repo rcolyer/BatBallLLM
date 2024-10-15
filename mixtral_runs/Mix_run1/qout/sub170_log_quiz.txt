@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 24
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It can be a penny because it says together they cost $1.10, so the price for each item doesn't have to be different from that of others in order to fit the description of the problem. But I would like to think that the eraser costs 10 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am totally sure, or at least as sure as I could possibly be when there are more than one acceptable answer to this problem.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I feel that about 35% of people will give the correct answer, which is 10 cents. Most will go with my initial gut reaction. However, if there were an option that allows for both a pencil that costs $1 and another item that costs one cent, then most would be able to solve the problem correctly.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Based on the fact that the difference between the price of the magazine and banana is two dollars, we can subtract $2 from the total amount. So, $2.90 - $2 equals $.90 and that's the price of the banana.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am totally sure because I used simple math to come up with my answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Around 85%, maybe even 90%. The majority should get this correct but some may make a mistake when they do their calculations or misunderstand the problem.

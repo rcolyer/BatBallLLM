@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: 75 cents. I used this formula (B + M = 2.9) - (M - 2) to find a possible value for B, which would be the value of the banana. When that value is found, I will substitute it in my original equation to determine if the answer is valid by making sure all values fall into real number ranges and checking both sides of the equation to confirm they still equal one another.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 40%. Since it's only necessary to use basic algebra to solve it and because the majority of those taking a survey such as this have likely had at least high school math, I think approximately forty percent might know how to solve the problem even if they didn't do so due to carelessness or some other reason.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10. The eraser cannot possibly cost more than the pencil when the two items together cost less than the price of the pencil. Using basic reasoning allows for an immediate understanding that the eraser can be no pricier than a dime.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%. Again, there is no room for uncertainty given the logic behind my answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 85%, assuming all participants can count to ten cents or higher. If not, then perhaps 60%.

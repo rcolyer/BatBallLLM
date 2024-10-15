@@ -1,0 +1,1 @@
+$0.90. (magazine is 2 and total price is 2.9 so banana = 0.90)

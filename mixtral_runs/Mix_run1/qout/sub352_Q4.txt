@@ -1,0 +1,1 @@
+0.45 (Calculation involves solving an equation for a value greater than zero; I arrived at .45 by subtracting 2.00 from the total amount and then dividing it by 4 [since there were two items worth twice the price of the first], resulting in a decimal value, which represents the fractional price of one banana compared to a total price of 4.00).

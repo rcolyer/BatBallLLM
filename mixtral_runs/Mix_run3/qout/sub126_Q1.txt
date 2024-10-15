@@ -1,0 +1,1 @@
+75 cents. I used this formula (B + M = 2.9) - (M - 2) to find a possible value for B, which would be the value of the banana. When that value is found, I will substitute it in my original equation to determine if the answer is valid by making sure all values fall into real number ranges and checking both sides of the equation to confirm they still equal one another.

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 34
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Ten cents ($0.10). I was assuming they were sold separately but in a packaged deal, so no sales tax applies.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%. There's still some room for error due to me potentially overlooking something minor.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 78%. There could be various reasons that hold other participants back such as making an arithmetic mistake or simply misreading/misinterpreting the question.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: First off, we don't know the sales tax amount added onto this $2.90. So with only knowing these pieces of information, we have to make an assumption; let’s assume there's no sales tax added here. That said, if we consider the difference between their prices to equal two dollars, then we can figure out that one-quarter of this combined price would equal the cost of the banana, since the magazine costs four times more. Now we just divide 2.90 by 4. I got the answer: 72.5 cents (rounded to the nearest cent).
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am around 80% sure because it depends on whether there is sales tax applied to the combined cost of the items, which we do not know about. Without additional information regarding sales tax or some other factor, my answer might differ from reality. But assuming no tax applies, my reasoning seems correct to me.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Given that this problem requires both critical thinking and arithmetic calculations, plus considering people’s assumptions towards taxes, I believe approximately half of participants will solve it correctly – say 55%.

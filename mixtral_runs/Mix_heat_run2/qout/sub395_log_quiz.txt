@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10.  You said that the pencil costs $1, so if the total cost for both items is $1.10 then the eraser must be $.10.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%.  I am completely certain that my answer is correct.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 95%.  Most people know basic arithmetic and can solve this problem.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $.45.  If the magazine costs $2 more than the banana then the difference between the two prices is $2.  Therefore, the price of the banana must be half of the difference.  Half of $2 is $1, and half of $2 again would be $.50.  But since the total cost of the magazine and banana is $2.90, subtracting the magazine's cost ($2) leaves $.90 for the banana.  This is $.45 more than the first calculation so the actual cost of the banana should be $.45.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 60%.  I am pretty sure that my answer is correct but there is still some doubt because it seems like such an odd number.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 70%.  Some people might have trouble with the math and others may just guess at the answer.

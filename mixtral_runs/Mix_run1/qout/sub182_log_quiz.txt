@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 27
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: The banana costs $0.90.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm 100 percent positive that my answer is correct.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Based on my prior experience in classrooms, I would guess that about 85% or so of people might get it wrong. So I will estimate the population that has the correct answer at around 15%. However, if this were in a different context, say a group of mathematicians working on it, then I believe most of them would have gotten it right.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: This one takes some time for me because I can sense that it requires an algebraic way of thinking and also I think it is intended for you to be careful with word problems, as I am trying to do. If I take into account that "a pencil costs $1 more than the eraser" means "the pencil costs $1 plus whatever the eraser costs", then the difference between the two things gives the eraser's price. Then solving this system results in eraser = $0.10 and pencil = $1.10, which fits. The sum is 1.2 dollars but I don't understand where this comes from. It seems incorrect to me because the question asks specifically for how much each object costs individually and not their combined price. But maybe there's something I missed.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I feel very good about my solution, around 95%. But if I consider what others might say based on their interpretation of the problem, especially given how easily misinterpretations occur, then perhaps only 60-70% confidence would be appropriate.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: This is tricky because I think many will make common mistakes like assuming that the total cost must be distributed among objects or thinking they need to use subtraction instead of addition when considering differences. So I am guessing only about 30-40% will get it right. However, those who study mathematics may have a higher success rate.

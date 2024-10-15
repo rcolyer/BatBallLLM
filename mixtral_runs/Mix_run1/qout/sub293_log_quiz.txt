@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 24
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $0.90 cents (I solved for it).
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%, I just hesitated over the decimal point but then I remembered that a dime is ten cents so this works out perfectly.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I think at least half will get it wrong because most people will forget about tax and that sort of thing. So maybe like 65%. But hopefully more!
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Okay, now there’s an added condition here, it’s gonna make me re-consider things. If I want the pencil to be $1 more than the eraser, that means it has to be exactly a dollar so the eraser can be 10 cents. If this was a store then there would have to be tax included which wasn't specified in the first question either. Maybe they mean a wholesale price or something but for simplicity let me assume the given prices don't include tax. With that assumption, my answer is still $0.90 and $0.10.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Now, considering the additional information, I am absolutely positive my previous answer applies perfectly fine to these conditions as well. My confidence level is therefore at 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Well, I guess if people apply simple algebra then most should get it right, unlike before where many probably overlooked possible taxes. So maybe around 85% will solve it correctly now?

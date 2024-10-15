@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $.90 (My logic is subtraction; I figured it out by finding that if a magazine, which costs $2, was taken away from the total price, then only the banana remains)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100% (I am very confident because my answer is based on arithmetic operations, and the results could be verified through mathematical calculation)
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 80% (I suppose most people would use arithmetic reasoning rather than mental heuristics like availability or representativeness)
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: $.05 (Because if the pencil cost $1 more than the eraser and the pencil and eraser cost a combined $1.10, then the eraser must cost five cents)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100% (My confidence level is high because I made no assumptions and used simple arithmetic subtraction; there was no need for estimation or extrapolation.)
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 75% (Although most people should be able to figure out that the answer is five cents through addition and subtraction, I can imagine that some might incorrectly estimate instead or just guess without thinking at all. Maybe even less people will solve it as compared with previous question due to increased complexity).

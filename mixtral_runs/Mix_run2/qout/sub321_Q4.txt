@@ -1,0 +1,1 @@
+This is similar to the first problem. Let's assume that the eraser costs $x$. We know that the pencil costs $1$ more than the eraser, so $x + 1 = 1.10$, or $x = 0.10$. That means the eraser costs ten cents.

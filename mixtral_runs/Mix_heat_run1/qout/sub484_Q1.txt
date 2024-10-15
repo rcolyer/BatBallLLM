@@ -1,0 +1,1 @@
+Eraser costs $.05 because if you add .05 + 1 = $1.05, then the difference between $1.05 and $1.10 would be exactly $0.05 for the pencil.

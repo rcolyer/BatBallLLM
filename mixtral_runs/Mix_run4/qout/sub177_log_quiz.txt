@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 46
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Erasers cost $0.10 each. So, if I subtract what the pencil cost from the total ($1), the remaining amount would be $0.10 for an additional eraser (or just a single eraser that was originally $0.10).
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I’d give it about 85%. There’s always a chance there could have been some kind of miscommunication.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 60%. Maybe even more. It depends on whether or not the question was presented clearly enough so as to avoid misunderstanding.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Let B represent the price of the banana. That means the price of the magazine is B+$2. When added together they equal $2.90, right? Therefore, B+($2+B)=$2.90, which simplifies down to 2B=$0.90, dividing by 2 yields B=$0.45 for the banana, correct?
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Given my answer above, I’m around 70% certain.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: It really all depends on their ability to understand that there could be multiple ways to figure out the solution. There will always be some who give up after failing to solve it with one method or approach, so maybe just 25%.

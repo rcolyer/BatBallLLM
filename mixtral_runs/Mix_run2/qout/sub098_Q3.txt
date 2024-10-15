@@ -1,0 +1,1 @@
+50%, I assume since people often jump to conclusions with math and may add .05+1 instead of calculating outwardly as i did

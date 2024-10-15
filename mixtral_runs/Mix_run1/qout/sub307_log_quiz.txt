@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: 10 cents. I think the wording "together" led to my answer.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%. I'm almost certain but the question did cause me to think more than usual.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 75%. Although some might be misled by the wording or do the calculation incorrectly, the majority would realize that the price is given and simply subtract it.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: First, I assumed the magazine was $2 and the banana cost $.90. After re-reading the prompt, I realized the banana must be priced before adding the two together. So, $1 for the banana and $2 for the magazine.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%. I've double checked my math but still feel uncertain due to having second thoughts during the initial answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 65%. This question has multiple valid answers based on interpretation of "The magazine costs $2 more". While many will interpret it as intended and select $1 banana and $2 magazine, some may think both prices need an extra $2 added because the sentence says "more".

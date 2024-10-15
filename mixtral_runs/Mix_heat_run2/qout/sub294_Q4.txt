@@ -1,0 +1,1 @@
+Bananas generally cost less than magazines, but with no explicit indication of the cost difference we can only guess. Let x represent the cost of the banana, then the cost of the magazine must be (x+$2). Adding these costs together yields the total cost ($2.90): x + (x+$2) = $2.90. Solving for x, we find that x = $0.45. So, the banana costs $0.45 and the magazine costs $2.45.

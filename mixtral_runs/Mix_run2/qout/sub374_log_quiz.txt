@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 25
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: 5 cents, because if the pencil costs $1 more, it can't be 10 cents more, since there aren't any other options besides 5 and 10 for a dime (the two make up a dollar). It has to be an even distribution since we don't have a way to represent cents without doing so.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%, I think that makes perfect sense based on our numerical system.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 90%, I believe most people will understand the mathematical logic behind the problem once they see the solution, or realize there are only two viable options and pick one or the other based on which makes more sense (like me).
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: 90 cents, I just subtracted 2 from 2.9 and arrived at this answer.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 50%, I have no idea what the average person might think of this; I only know my reasoning, but I'd bet that most people who saw through the trap would solve it properly, too.

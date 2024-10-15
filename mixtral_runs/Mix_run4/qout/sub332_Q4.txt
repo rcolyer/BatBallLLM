@@ -1,0 +1,1 @@
+If we let x be the value of the banana, then the cost of the magazine will be x + 2 dollars. That said, we have that: $$x + (x + 2) = 2.9 \\ \text{and solving for } x \text{, we get:}\\ 2x+2 = 2.9\\ 2x = 0.9\\ x=0.45$$ Hence, the banana costs 45 cents.

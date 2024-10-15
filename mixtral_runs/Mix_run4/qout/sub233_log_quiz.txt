@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 28
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It is given that a pencil and an eraser cost $1.10, but only the price of the pencil has been revealed as $1.  This implies that the eraser alone would cost the balance price which is equal to the total minus the amount for the pencil.  In other words, $1.10 - $1 = $.10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 100 % sure.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Given its simplicity, I would estimate that around 95-100% of the population will solve the math question correctly.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Let B represent the cost of the Banana and M represent the cost of the Magazine.  We know two things about these quantities; firstly they add up to $2.90 so we can write an equation that says M + B = 2.90. Secondly we also know that the magazine costs $2 more than the banana which is written as M = 2 +B. By substitution, we find out that 4 + B = 2.90 or B = -1.10. However since we cannot have negative money values, this implies that there has been some inconsistency in the statement of the problem.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: While my calculation was correct and consistent with basic arithmetic concepts, it contradicts real world constraints. In fact, it appears likely that there may be some error in either the given information or my interpretation. I am thus less than 100 percent confident in my response.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: The majority would likely have assumed that the problem was well posed and attempted to solve it directly. Since this leads to contradictory results, I suspect that only about 15-25% of participants will respond as I did by questioning the validity of the question. Of those who accept the problem at face value, very few might arrive at an answer indicating awareness of logical inconsistencies.

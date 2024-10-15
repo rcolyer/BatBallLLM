@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: I know this is a trick question but my intuition is that it's .45 cents and that the question writers expect me to answer .90 cents or something like that so I'll go with .45 cents as my first response then consider other options, if any.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 75%.  While I'm pretty sure about this, there are still nagging doubts since I didn't actually do any calculations here...it was mostly an instinctive reaction based on having heard similar questions before where the trick is to set the value of the magazine at x and the banana at x -2 then sum to see if the two numbers match the given total price of $2.90; in this case that would be $2.10 + .80 = $2.90 so, assuming no errors in computation, I think I can trust the result though I'd like to see if others have different takes on it.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 85%.  My guess is that many will fall into the trap of simply subtracting $2 from the total cost and arriving at $0.90 for the banana which means they will overlook the need for subtraction when dealing with the prices rather than adding them directly; this seems more likely than not given previous experiences but then again, maybe not as some might get the answer right by chance or through calculation though I'd say the majority won't because most people don't naturally think about these things mathematically unless forced to do so...that said, perhaps those who aren't mathematically inclined are less likely to participate in surveys such as this one anyway.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: This one should be easy enough, just subtract the price of the pencil from the combined price.  So $1.10 - $1 = $.10.  While there could always be errors in computation, I'm fairly confident about this response.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%.  Barring any errors in computation, I feel very sure about this answer since it involves only basic arithmetic and no tricky wording like before.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 99%.  Given that this question is straightforward with no traps involved, I'd expect nearly everyone to get it right provided they understand basic addition and subtraction.  Of course, mistakes can still happen but given the simplicity of the problem, I think they would be quite rare compared to more complex questions involving multiple steps or requiring knowledge beyond simple arithmetic.

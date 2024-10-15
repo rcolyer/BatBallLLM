@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 29
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: .10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am completely confident that the eraser costs $0.10 cents.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 50%. Most people will see the trick and say "zero", but they didn't solve the problem correctly. I think maybe half of those who do solve the problem correctly also realize that there might be some confusion in the question, and thus would only estimate around half as being correct.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Well... First off, I noticed something with the previous question and suspect that you did that on purpose - because the words say 'the pencil costs one dollar', that suggests that it is just *that* item in focus, instead of saying "pencils typically cost this amount." If this same type of wording issue appears here, then a simple substitution of another fruit for "bananas" (at whatever the going market rate is) makes no difference; so if someone says "two dollars for the banana" or "five dollars for the banana" or "$x for the banana," they are still wrong. You need to change the sentence structure, and re-ask "a banana costs x amount less than a magazine which itself costs $y, where y is greater than x" (and use actual prices.)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: At first, my response was simply "no clue"; however, after further reflection I realized that you're asking specifically about the relationship between two different items. Given that, I would assume that both the banana and the magazine are commonly known commodities which have a certain market price. If the magazine costs two dollars more than the banana (for instance, four dollars and two dollars respectively), then the question is reasonable and easily answered. However... given your phrasing of it (especially since it's immediately following on from the other question which may have had people wondering whether *it* too was a trick question), it does seem rather odd; there is an assumption built into it which has me wonder why one wouldn't instead just say something like "The difference in price between a magazine and bananas together costs $2.90." That being said - if we take the question at face value as-is... assuming again that both items have their usual market rate - then
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 50% -- those who understand that this question isn't a trick one will solve it correctly. The rest probably won't understand what they're being asked for.

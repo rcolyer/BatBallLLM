@@ -1,0 +1,1 @@
+$.90 cents (the price of the banana includes the comma, so it's read correctly).

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: I am thinking.. Uh! .5 cents.. That's what I thought. Let me try that again... It can't be because then it would mean the pencil is 1.10+0.05 which would make the total greater than one dollar ten cents. Ohhh I got it! The eraser costs $.05, the pencil costs $.95 and plus the tax they are one dollar and ten cents!! Gotcha. :)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I have learned from this that sometimes if things seem too complicated it probably isn't right. So i am going to go with my last answer of .05 for the eraser, $1.10 total, so ima gonna say I feel about %85 confident on that response! Thank you :).
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: If there were any mathematical minds like mine out here (hey i consider myself to be smart when it comes down to numbers hehe :)) i might go along the lines of 35%.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: 90 cents! Yay!!!! Ok thanks! Have a wonderful night :)!
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Hey!! Got the answer right this time!! 100%!!! Lets see if ill get these extra credit points :D!!!!
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: If all participants are mathematically gifted I will say 87%. Hope that is good enough lol! Bye now!!! :)

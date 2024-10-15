@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 25
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: 10 cents. The question states that the cost of the two items totals 1.10 but never indicates they must be bought at a 10% discount. So, I don’t know why so many people automatically assume this is the case. Maybe it is because when they hear a ‘deal’ in a store that says “buy one get one for 10 cents” or something similar. However, just because two items have been sold as a ‘set’ for x amount of money doesn’t mean you can only purchase both as a set (unless there was specific language used that indicated as such). You could also purchase each item separately, which would make the price different. It just depends on the situation/circumstance.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Less than 50%, since most people will immediately jump to the conclusion that the eraser costs $0.10 and won't think about it any further.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $.45. If we add .45 (price of banana) + 2.45 (price of magainze = $2.00 more than banana) it equals 2.90 dollars.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%. I was very certain with my answer because it followed the same thought pattern as before, only this time there was actually a discrepancy in price for which I needed to solve.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: About 70%. Most people should be able to understand and follow the logic of my reasoning above. However, if they didn’t read carefully enough or didn’t fully process the information given then they might still come up with an incorrect answer like they did with the first question.

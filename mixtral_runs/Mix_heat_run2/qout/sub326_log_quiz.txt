@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: 70 cents. Because if the magazine costs 2 dollars more, then it would be $2.70 while the total amount of money paid would be $2.90, this means the difference between them is only 20 cents, therefore the banana would be 50 cents, because the magazine's price has to be $2 more, which would make it 70 cents, adding up to the total amount of $2.90. I believe this explanation covers why my answer is correct. Thank you for the question!
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%. Only reason I did not give a perfect score was simply due to unforeseen errors on my behalf that I am not aware of; other than that, the math is entirely correct based upon the provided information.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Around 60%, since the most common error appears to be when someone divides both values by two, believing that the value given about the magazine costs twice as much as the banana. However, if this were true then the magazine would cost $3.40 and the banana would be only 40 cents, totalling the sum at $3.80 instead of the provided $2.90, meaning such an answer does not fit the conditions stated here. I do expect quite many answers like these though, hence my relatively low estimation of the percentage of those who actually got the math right.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: 10 cents. This can easily be verified through basic arithmetic.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%. It is absolutely certain based on information provided.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Probably over 95%. This seems straightforward enough that anyone with basic knowledge of mathematics should have been able to solve it correctly. However, there still remains possibility for human error and misunderstanding, but since most of these would have been filtered out by previous questions, I feel confident saying over ninety-five percent of them could be expected to get the answer right.

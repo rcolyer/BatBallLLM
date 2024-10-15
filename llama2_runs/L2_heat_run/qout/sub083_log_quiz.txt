@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: $0.55 or, written as a dollar figure $0.55 or again as 55 cents.  So many different ways this can be put, but either 0.55 dollars (dolars? dolla)? dollars or as $0.55 on my cell.   In general currency terms, not in any cryptic manner.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I’m unsure that $1 plus whatever amount equals $0.10 or what ever amount that is needed added together equls to $0.65 which seems logical enough for an average middle-schooler or early high school.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Most individuals solve such things in about four minutes of time spent at most for such mathematical concepts or calculations which seem more simple than not for me anyways so...I do believe everyone would likely succeed on paper after thinking briefly about it
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $.9 cents  which i know seems rather intuitive yet i am having issues decoding this sentence into something like what was the total price before buying those items separately vs. After purchasing each item separately versus before making any purchase prior even looking through a magazine rack let alone actually seeing if either have been purchased anywhere nearby
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Very little to none actually because my confidence has diminished due to questioning the word choice that may potentially alter meaning drastically within just single sentences/phrases used throughout these particular set of questions so....
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Honestly cannot say accurately anymore whether they could solve these simple word problems completely accurately or otherwise

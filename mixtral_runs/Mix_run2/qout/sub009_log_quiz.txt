@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Banana cost .45 cents because if the Magazine cost 2 dollars more than the banana then that would be (2+.45) =$2.45, which equals $2.90 for both items.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 83% I'm pretty sure I solved it correctly but I just double checked my work so that why i have an 83% rather than a 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 65%, most of them will probably add 2 dollars straight up making it ($2.90) and divide it into two halves each costing ($1.45), thus making their mistake of getting the same amount for both the magazine and the banana.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10 because if the pencil cost $1 and they were together worth $1.10, then it must be .10 cents
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%, absolutely certain. I can solve it many times and will always get the same answer which is 10cents
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 85%, that's a really easy question to solve because even young kids who might not know the value of money would subtract the one dollar pencil from one dollar ten cents, so they will easily find out that the eraser costs ten cents.

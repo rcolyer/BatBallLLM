@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 26
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Ten cents because that's all it would take for both items to equal $1.10 if the pencil already costs a dollar.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 85% confident. While I do realize that there may be other scenarios where my answer might not be valid, it is still plausible in this specific question and situation presented by you.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 95%. This question seems pretty straightforward as long as they have an understanding of basic subtraction skills so most people will get the right answer.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: This one isn’t too difficult either. The banana only needs to cost enough such that when you add $2, it should come out to $2.90. To calculate this, we just need to figure out the difference between the two items: $2.90 - $2 = $.90. So, the banana would cost $.90.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 95% sure. With some simple arithmetic I arrived at this conclusion. While there might be some unusual situations where my answer doesn’t hold true but for normal circumstances, my answer is perfectly valid.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Since most people know basic addition and subtraction, I believe around 97%. It's even simpler than the previous question since all it takes is understanding the concept of equivalent equations.

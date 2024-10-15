@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 32
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $.90, I would think that if it said how much the banana was in relation to the magazine then all of the price is being used up by the magazine so the only thing left over is the amount for the banana.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 65%, my answer seems logical but the way its written makes me doubt myself a little bit.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 85%, maybe more since its a common logic problem but then again I could be wrong on how many people can solve it.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Eraser costs $.05 and the pencil costs $1.05; I did this one by looking at it backwards basically saying if the eraser costs x that means the pencil would have to cost a dollar plus x but you know that the total has an extra dime so you take out a nickel from both values and get your final values.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%, since it is basic arithmetic which I feel comfortable with doing I am fairly certain about my answer unless there was a mistake somewhere or if there is something i dont see yet.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 75%, a good portion of the population knows basic arithmetic even though there may be those who will make simple mistakes.

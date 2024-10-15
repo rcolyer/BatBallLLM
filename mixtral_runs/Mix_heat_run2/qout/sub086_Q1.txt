@@ -1,0 +1,1 @@
+$.45, because I solved it by setting up a simple equation where Banana=x (unknown). Then Magazine=Banana+2=(x+2), so .95 = x + 2; thus, -1.05 = x; ergo, 45 cents.

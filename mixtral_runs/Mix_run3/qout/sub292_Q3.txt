@@ -1,0 +1,1 @@
+About 85%.  Many people may think automatically about round numbers such as one dollar for the banana, which leaves only ninety cents for the magazine. This line of thinking causes errors with the arithmetic operations.

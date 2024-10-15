@@ -1,0 +1,1 @@
+This one seems easier!  You'd simply subtract the price of the pencil ($1) from the total price ($1.10).  Therefore, the eraser would cost $.10.

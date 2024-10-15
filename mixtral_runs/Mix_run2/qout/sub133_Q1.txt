@@ -1,0 +1,1 @@
+5 cents. (Pencil price = 1 dollar + Eraser Price; 1 = 5 cent eraser, so Pencil price = 1.05 + 5cents)

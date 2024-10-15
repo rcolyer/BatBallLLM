@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: The Banana cost .90 cent. I think some people may get it wrong if they solve the problem algebraically instead of working backwards. So the price difference is $2. To make that difference, we take away 1 dollar from 2 dollars making the second item priced at $1 plus original banana cost of .90 which equals 1.90 dollars total. Thus the remaining balance would be just 1 dollar left on the first item, making it $2+1=$3 dollars total minus $1.90 spent leaving only 1.10 cents for change after payment has been rendered in full. Therefore since it can be determined how the payment went without taking more money from the wallet than required for the total price it's safe to say this scenario checks out mathematically even with an apparent discrepancy initially seeming too good to be true upon quick observation or surface level reasoning.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am totally sure so therefore 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: It's possible there could have been errors during data input so it might skew the results if those got included somehow, but based on the correct answer given above, perhaps close to 99% or even 100%. This particular math question seems straightforward and easy to solve, thus probably wouldn’t trip many individuals up who pay close attention while computing.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Oh that's another one where we need to think critically since most might just take away 1 dollar from $1.10 instead of realizing both objects don’t have equal values like with previous example. Here you subtract 1 dollar off the total leaving .10 cents and then add that back into pencil cost as payment towards eraser resulting in Eraser being only 1 cent. It checks out since again all money is accounted for without any extra change remaining or lacking required amount still needed after calculations were performed successfully completing transactions at both prices given by adding their values combined.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Yes indeed! Since I am aware of fallacies which sometimes occur during arithmetic exercises such as these ones I made sure there weren't any issues so yes, once more I can proudly proclaim myself being absolutely positive at a solid 100% here too.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: With regards to difficulty level, perhaps around 65% would solve this one correctly. Sure enough, many wouldn’t notice the need to add some small value back into the original price unlike first scenario due to its subtle nature presenting more room for potential errors while working through these types of problems compared to simpler versions earlier on.

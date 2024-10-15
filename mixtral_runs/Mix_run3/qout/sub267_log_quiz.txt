@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Ten cents.  The question states that a PENCIL and ERASER cost $1.10, and then it goes on to state that the PENCIL ALONE is $1.00.  The wording leads me to believe the two items can be purchased for a total of $1.10; one item costing $1.00, and another costing $0.10.  So if the pencil cost $1.00, then the eraser cost $0.10.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%. I'm almost sure my answer is correct but because there was no option between male or female and only an option to input numbers in the previous questions I feel like something might have been wrong with that part.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 75%. Not everyone understands what is meant by "together," but most who read the problem carefully should arrive at the correct answer.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $.45. If we subtract $2.00 for the magazine from the total, it leaves us with $.90, which we can divide by two since there are still two items left over: .90 / 2 = .45.  This would mean the banana cost $.45 and the magazine, as stated, costs $2 more ($2 + .45 = $2.45) than the banana, leaving $2.00, the exact amount that the magazine cost.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%. I have done this kind of math before so I know where it comes from and that was exactly where my brain took me when reading it.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 30%, at best. Many don't read closely enough and get caught up in thinking the problem says that the banana is a dollar cheaper than the magazine or something.  There could be some confusion due to the way that last question ended.

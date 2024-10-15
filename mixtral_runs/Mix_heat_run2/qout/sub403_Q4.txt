@@ -1,0 +1,1 @@
+This one is tougher so lets start with what we do know.  First we know that if both items are purchased together the total cost equals $2.90.   Also that the difference in price between them is $2 ($Magazine - $Banana).   So if x is the price of the Banana then $Magazine would be ($x+2) since it costs two dollars more than the banana.

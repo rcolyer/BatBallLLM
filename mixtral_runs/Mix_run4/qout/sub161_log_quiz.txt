@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 42
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It would make more sense to answer this if I knew how big the pencil was, or the eraser, so we can see the ratio.  If we assume that their costs directly correlate to their size (i.e. the price of one equals its proportion of the total) then the pencil should be \$1 and the eraser \$0.10.  However, a store owner might have any reason for assigning those values, and it's difficult to guess what they might be.  If we go by what the question asks, without further context, then the eraser costs \$0.10.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 25-50%.  Even among mathematicians, I wouldn't be surprised if less than half of them got this right on first pass.  The way most math is taught emphasizes symbolic manipulation over reasoning about physical quantities, so most of us have never been trained to think in these terms.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: The key word here is 'more'.  That implies an additive relationship between two numbers (i.e., if a > b, then a = b + c for some nonnegative number c).  So the price of the magazine must be 2 + p, where p is the cost of the banana.  Since their sum is \$2.90, we can solve for p.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%.  Once you realize that there's an additive relationship being described, it becomes simple algebra.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: This question has fewer intuition-based pitfalls than the first, but I still wouldn't be surprised if less than half of respondents got it right on first pass.

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: 0.90 cents, because 2.9 - 2 = 0.90
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%. Because I used basic subtraction.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 75%. Mostly because many might forget about subtracting the price of the banana as well, leading them to give an incorrect answer like "1.9". But since there were several people who commented about their difficulty with the problem online, some of that might be due to unfamiliarity with subtracting fractions or decimals.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: This one was a trick question, too; most people would say that the eraser costs $0.10, but actually, if the pencil really did cost a full dollar, then the only way the pencil + eraser could have totaled just $1.10 is if the eraser was free. Otherwise, even at ten cents, the whole package should've been $1.20! It's possible the person selling these items made a mistake, and usually you can assume mistakes weren't made, but... I wouldn't trust my life on this conclusion haha!
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 75%. I can still make mistakes after all.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 25%. Not many people seem to realize that "the pencil costs $1 more than the eraser" actually means they're supposed to be subtracting that value rather than adding, which often makes them think that there are multiple correct solutions (of which there aren't any; since $1 is already being paid for the pencil, whatever amount the eraser cost must come from the remaining change).

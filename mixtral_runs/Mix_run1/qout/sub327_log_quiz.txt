@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 46
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $.90, or a more wordy answer would be "the difference between the total cost ($2.90) and what we know about the cost of one of the items ($2), which in this case leaves us with $.90 as the correct answer"
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%, or maybe if I were being truthful it would be slightly lower like 95%.  However, the phrasing of the question seemed to imply that I am supposed to give myself perfect credit here!
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: At least 80% I would guess.  Perhaps a lot more.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Oh gosh - just based on my recent experience this should be $0.05.  But let's see . . . if the pencil is $1 more, then the eraser must be $.10.  Yes, that's right.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Well, after solving the same type of problem recently I am going with a score of 99%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Hmmm. . . probably lower than the banana/magazine question.  Maybe something like 50%, but possibly less!

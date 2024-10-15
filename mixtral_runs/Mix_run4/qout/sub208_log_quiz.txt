@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 33
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Ten cents or $.10 because the eraser would be 10 cents if the pencil cost a dollar and was also on sale for ten cents less than its original price.  So, without the special deal on the pencil, it's normally $1.10 and the eraser, at full price, is therefore ten cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I think around 95%. It seems pretty straightforward, though I know some will struggle with lateral thinking problems. But then again, so did I when faced with my first one in a survey like this - that time I had to work out which direction I was facing by only looking at my shadow!
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Bananas usually sell for about 49 or 59 cents. If we add that sum to two dollars, we get three dollars and nine cents. That would leave eight cents as the difference between the total value and the price of the magazine. So, we must deduct eight cents from the original total of twenty-nine cents to arrive at our correct answer: forty-seven cents or $.47 for the banana.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Let me check my math. OK, here we go:
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Based on my earlier answer about the pencil and eraser question, I'm going to say around 93%.

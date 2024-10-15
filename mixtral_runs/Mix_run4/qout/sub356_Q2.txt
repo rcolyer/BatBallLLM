@@ -1,0 +1,1 @@
+99%. The solution comes from setting up two equations, x = the eraser and y = the pencil, and then solving for y-x=1 and x+y=1.1

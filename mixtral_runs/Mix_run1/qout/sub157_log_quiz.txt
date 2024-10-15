@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 29
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10 cents (I thought it was a trick question, but then I figured out the difference.)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 67% (because there's always a chance that someone screwed up the price on this item, although I did see this on another website for sale for $1.10.)
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I'd guess only 50-80% because a lot of people probably wouldn't think through the problem as carefully as necessary to figure it out. They might just assume it was some kind of joke or wording game and give up after their first attempt, whereas if they stuck with it longer, they could have discovered the solution.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: First instinct would be $.15 cents, but then my second thoughts were that maybe since the pencil cost less than the eraser that the same principle would apply here--the banana actually costing $1 and the magazine $1.90. So, I went back to .15 cents because even though I felt like I had done it wrong the first time I knew there couldn't really be two correct answers. But then in case that still wasn't right, I decided to put down the amount which is closest to $2 for each item and add them together--$1.40 and $1.50, making the banana cost $1.50. I'm not confident at all in this answer (and would like to know the actual answer.)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 1% - only because it seemed like the least worst option from several possibilities (although one doesn't seem "right" per se).
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Less than 50%. A lot of folks might make my initial mistake, but then those who took their time would likely end up with the second possible solution so many more people will guess incorrectly than those solving it on their first try.

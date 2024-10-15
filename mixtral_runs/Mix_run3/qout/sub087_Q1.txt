@@ -1,0 +1,1 @@
+$.45, because I set up the equation as follows (banana=x). Magazine is 2 dollars more so it must be x+2. Adding the two equations gives me x=$.45 or a banana costing this amount.

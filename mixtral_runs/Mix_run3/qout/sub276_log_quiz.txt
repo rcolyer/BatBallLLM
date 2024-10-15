@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 21
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: The answer that most people give is $0.10, because they think in terms of subtraction -- but this problem can also be solved using addition (e.g., if the pencil was on sale for $0.90, then the eraser would be $0.20). However, it's actually a free item: "if something is sold for what it's worth then it is given away". In other words, $1 + X = $1.10 means that $X is equal to zero dollars and cents. The answer therefore is nothing, or no money at all.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 67%, because I know I am correct about the principle behind the question, yet I might have misstated the actual price of the free item.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I believe only 5-10% of responders will solve this problem correctly without prompting.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Let's say B equals the price of the banana. If so, then the magazine costs $2+B. Thus, $B (banana) + $2+B (magazine) = $2.90, or 2B+$2=2.90. Solving for B (the price of the banana) yields an answer of $0.45 -- as opposed to the incorrect "obvious" response of $0.55 (i.e., subtract $2.40 from the total amount).
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 100% sure because there is only one correct mathematical answer; any other response would be incorrect.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Once again, only a very small percentage (perhaps between 5-10%) will solve it correctly without help, but when using trial and error methods the percentage might grow up to 50%.

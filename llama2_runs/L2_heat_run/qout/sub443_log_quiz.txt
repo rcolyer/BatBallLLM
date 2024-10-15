@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Rs 7.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I feel somewhat unsure about my answer, but maybe slightly leaning towards my response.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Atleast some got their answer wrong so not too confident but guessing an upper-intermediate range.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: I am not too certain because earlier also this question did not come to my mind straight. Still will have some idea like previous question
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Similar case.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: As mentioned for question related to magazine, I think people get more interested with solving worded maths questions that give real situations or at least give relatable comparisons and I hope that this type is well thought after reading by all who can participate! I would suggest not to increase number further more since participants already feel low when knowing their mistake while solving questions such as magazine where they can remember a simpler version! Maybe next level questions for 4 digit problems like these, if still felt by researchers required for research, after initial stage!

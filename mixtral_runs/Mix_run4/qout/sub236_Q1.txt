@@ -1,0 +1,1 @@
+.10 cents because the eraser is .90 cheaper than the pencil, making it 90 cents but when combined with the total amount it becomes 110 cents so we subtract 100 from that number to get the original value, thus resulting in .10 cents as our answer for the price of an eraser

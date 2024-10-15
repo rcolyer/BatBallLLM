@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: The banana costs $0.90 cents because $2 + $0.90 = $2.90 and there are no other costs.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 95% percent sure my answer is correct, it could only be wrong if another component that is less than or equal to 90 cents was present but this hasn't been indicated so far.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: About 99% because even though some may have initially misread or made errors with the calculations most people would recognize their error.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: If the pencil costs one dollar more than the eraser then let's assume the eraser costs E and therefore the pencil must be 1+E. So now we have: E + 1+E= 1.10 -> 2E + 1 = 1.10 -> 2E = .10 -> E = .05. 
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 98 percent percent sure my answer is correct as there were no mistakes made in solving the question and thus, unless new information becomes available, I believe this is accurate.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: About 75%, it's an easy math question but I can understand where some might get confused due to reading quickly or being thrown off by having both numbers in the same equation, but if they think through it they should come up with the right solution.

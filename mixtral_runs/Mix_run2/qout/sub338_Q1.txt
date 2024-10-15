@@ -1,0 +1,1 @@
+It is given that a pencil and eraser cost $1.10 when bought together, and the pencil on its own costs $1. If we subtract the price of the pencil from the total cost, then it follows that the eraser costs $1.10 - $1 = $.10 (or ten cents).

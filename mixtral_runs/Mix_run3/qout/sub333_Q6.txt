@@ -1,0 +1,1 @@
+It's almost identical to the first question, except we know the cost of one of the items beforehand.   I think maybe 55% get this correct initially, rising to over 90% after thinking about the problem or having wrong answers pointed out.

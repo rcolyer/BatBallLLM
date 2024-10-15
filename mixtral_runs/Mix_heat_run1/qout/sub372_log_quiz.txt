@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: $0.05 because if the pencil costs $1 more than the eraser then 1 = .05 + E where E is the cost of the eraser and so E = .95 which means the eraser costs five cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 70%, but some might give up or say they are unsure.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $.90. It would seem simple enough if I just subtracted the cost of the magazine, but initially, my brain defaulted to assuming that since the previous problem had an answer of five cents, the pattern would continue here. Then, I remembered that it was only because the difference between the pencil and the eraser happened to be one dollar and therefore, made the arithmetic work out as it did for the eraser price. After reminding myself that each situation will have its own differences that must be taken into consideration, I came upon the correct answer which is ninety cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%, I am mostly confident however, I double-checked after initially making what would’ve been the wrong decision, due to a pattern in the first question influencing this second one.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe around 45-60%. Given that this question could be interpreted incorrectly based on prior information given by the first problem.

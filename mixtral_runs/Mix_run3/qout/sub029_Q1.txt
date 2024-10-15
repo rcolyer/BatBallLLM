@@ -1,0 +1,1 @@
+Banana cost $.45 cents, Magazine cost $2.45. (Calculating by subtracting $.45 from $2.90 to get $2.45.)

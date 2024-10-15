@@ -1,0 +1,1 @@
+40%. It's actually not a difficult problem once you understand the concept being tested. But it also requires logical reasoning and isn't immediately obvious which tends to trip many people up, so while some will get the right answer, others won't due to misunderstanding.

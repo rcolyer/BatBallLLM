@@ -1,0 +1,1 @@
+Considering that all one needs to solve this problem is recognize the need to reverse the numbers from the first example due to its similarity, I'd say roughly 80-90% will get it correct. It seems obvious that the eraser, being the less expensive item in this case, should cost far less than a dime.

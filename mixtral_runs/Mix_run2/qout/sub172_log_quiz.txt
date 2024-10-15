@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: 0.90
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 50
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Eraser = 10 cents. Pencil = 1.10 - .10 = $1. So $1 is one dollar more expensive then .10 cents. This seems off because it doesn't fit our common sense notion of "more." We might assume that when we hear something like "$x more" we think of an increase from the original price, so something like $0.60 (which would mean a pencil costing $1.70). But that's incorrect here since the total cost of both items combined isn't included. Here is another way to arrive at this answer: let x be the value of the eraser and y be the value of the pencil. Then x + y = 1.1. Also, y = x + 1 (pencil is one dollar more than the eraser), so we can rearrange the equation to find y=2x (subtract x from both sides
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 90
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 30

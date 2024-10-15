@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 21
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $.90 cents, as it's a trick question. You may not realize at first, but I did because it said 'magazine' in singular form so there's only one magazine and hence one banana, which would cost $0.90.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%. I mean I calculated it, but then again maybe there's something else that could affect the answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe around 60%, because it seems like a fairly common type of trick question where they add unnecessary information or use specific phrasing to distract from the real question.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Eraser is $.05 cents, pencil is $1.05 cents. This one was easier for me because there were two things with separate prices instead of just one thing as in the previous question.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%. I calculated it and double-checked my work.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Around 75%, since this one wasn't too difficult if you paid attention to both items' prices and did some basic addition.

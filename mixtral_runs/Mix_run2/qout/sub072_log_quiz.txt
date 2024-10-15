@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 20
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Firstly, we have to find the cost of the Magazine by subtracting Banana’s price from the total amount (i.e., $2.90-$X). Given that the difference between Magazine’s cost and Banana’s cost is $2, it can be represented as follows: ($2.90-$X)=$2 => $X= $0.90. Hence, the Banana costs 90 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am totally sure, so 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I believe more than half the participants would solve it correctly. So, approximately 60%.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Firstly, there seems to be an error with the problem statement since the combined cost should be greater than or equal to the price of either of them individually. Nevertheless, if we assume it to be true then it implies that the Eraser’s cost is negative which is impossible. Therefore, no solution exists for this problem as stated.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: As explained earlier, the problem statement appears flawed. However, based on traditional mathematical principles, I am 100% certain that no valid solution exists for this problem.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Given the inherent error in the question, I doubt many people could arrive at a correct answer. Hence, I would estimate only about 5-10%.

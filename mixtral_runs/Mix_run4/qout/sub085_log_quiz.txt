@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $0.10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%.  I know exactly what each thing costs.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I would expect almost everybody to get that correct. I think maybe only those who don't have full mastery over decimal math could possibly answer incorrectly. Maybe like 5%, at most.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: This time there isn't enough information because we aren't given any idea about what percent or proportion the magazine and banana respectively represent out of the total $2.90 price. If they want me to guess then I would say something close to half for both, with the banana costing like $1.30-$1.45. But without some kind of clue as to their respective weights in the $2.90 combination, I can't give an exact figure.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Well I did say my answer is just a rough guess since there wasn't enough info provided. So on a scale from 0-100%, I would say around 20%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Since there was insufficient info provided, I think probably only about 5-10% of people might have guessed right. Maybe less, who knows...

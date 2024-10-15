@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 21
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: The banana costs $.45 cents. I set up the following equation:  (M = m +2). I then set up another equation based on the total cost, so M+m= 2.90. Given this information, I was able to determine that m has to be $.45 and M has to be $.95.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant:  85%. I did just do it quickly without double checking my work, but am confident that there isn't anything else it could reasonably be.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 70%, since it is straightforward if they understand that it asks for the price of the banana and know how to manipulate basic algebraic equations. However, those who may have entered in an answer directly without solving or manipulating the numbers provided might enter incorrect values.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10. That is because 1 + .10 = 1.10.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%. My reasoning was very simple. It took me less than 3 seconds to think it out.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 85%. This one seems more intuitive. There is no need to set up equations since only one value fits. Therefore, I assume that most people will be able to get it correct.

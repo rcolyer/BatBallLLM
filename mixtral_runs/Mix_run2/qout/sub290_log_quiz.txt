@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 29
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: 50 cents (0.5)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I would say that I'm very confident. My answer is based on my first instinct, which usually turns out to be correct in cases such as this one where the numbers are quite simple. 90%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Since I can't predict exactly how many people answered the question correctly, but am still required to provide an estimate, I think about 50%, if not slightly lower since the problem involves subtraction, which some people find difficult for no apparent reason. But I do believe most will at least come close to the actual solution.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: 10 cents (0.1)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Much more confident than with the first problem. My answer feels right almost instantly. I would rate my confidence at 99%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Considering that all one needs to solve this problem is recognize the need to reverse the numbers from the first example due to its similarity, I'd say roughly 80-90% will get it correct. It seems obvious that the eraser, being the less expensive item in this case, should cost far less than a dime.

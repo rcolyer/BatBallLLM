@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Banana costs $.45, because if you take away $2 from the total (magazine + banana = 2.90) it leaves you .45 which is the price of the banana.  I arrived at that answer through simple subtraction and by thinking about what a realistic price would be for something like a banana or a magazine.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm pretty sure my answer is correct, so I would rate my confidence around 90%.  That being said, there is still a possibility for human error in calculations or otherwise, even with such a simple problem.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: If all participants had received an education equivalent to mine up until college and were given adequate time to think about their answer, then I think over half will solve this problem correctly.  If you consider groups that do not have as good of access to quality education however, then I think only a small portion might solve the problem accurately.  67%.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Eraser costs $.10.  Same way as before; take away the price of one thing from the total cost of both items and find what remains.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Once again, pretty confident but not totally certain.  Confidence level of approximately 95%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Most people should be able to understand the process required to solve this type of question since it's so similar to the first one, which is why I would estimate around 80% accuracy for this question among participants with equivalent educational backgrounds. 45%.

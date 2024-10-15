@@ -1,0 +1,1 @@
+If the pencil costs one dollar more than the eraser then let's assume the eraser costs E and therefore the pencil must be 1+E. So now we have: E + 1+E= 1.10 -> 2E + 1 = 1.10 -> 2E = .10 -> E = .05.

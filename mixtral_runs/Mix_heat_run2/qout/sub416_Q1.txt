@@ -1,0 +1,1 @@
+It seems like a trick question. But if we say that the store offers special deals, it's possible that buying both items might be cheaper than buying them separately. So let's see... If the pencil costs $1, then the only way for the total to be $1.10 is if the eraser is $0.10. But I think the answer they want is $0.05.

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 36
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $.45. Magazines usually cost a little more then a dollar, so it would make sense for the magazine to be around two dollars if that were true. That leaves fifty cents left over, which makes sense because they said the magazine is two dollars more than the banana. So it only makes sense that the banana would cost forty five cents in this situation. I don't really know how else you would get it unless it was by mistake or something. I just tried adding them up and got twenty nine cents as well as one dollar ninety cents, neither of those were correct.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100% confident that my answer is correct. If there is any other possible answer that isn't what I gave then someone will have to explain it to me and prove it to be true before i change my mind. I could see where someone might think it was a trick question or something though but its actually pretty easy to figure out.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Probably around half maybe a little more. I mean it seems like everyone should get it if they aren't thinking about something weird or making an obvious mistake with math but then again some people probably will and that's why i said half or so because honestly i couldn't tell you for sure whether most people are going to solve it or not because sometimes even really simple questions can trip people up for whatever reason.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Ten cents. That's what it says right there on the screen, one dollar minus ten cents equals ninety cents which leaves just ten cents left over after subtracting the price of the pencil from the total amount. It's all laid out very clearly so there shouldn't be any confusion here unless someone doesn't know how to do basic arithmetic or thinks this is another trick question. But i think most people will get this one too.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%. I feel pretty certain that my answer is correct based on everything i just explained. If there was any other possible solution then someone would need to explain it to me before i changed my mind but until then i'm sticking with this one because its what makes sense given the information provided.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Probably like 95% or so because it really is a pretty easy question once you look at it and see how simple the math is. Like i said earlier sometimes even really simple questions can trip people up for whatever reason but i think most people who take the time to actually read what it says should have no problem getting this one right.

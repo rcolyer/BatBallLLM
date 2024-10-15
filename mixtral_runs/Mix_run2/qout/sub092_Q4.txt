@@ -1,0 +1,1 @@
+$.45 for the banana. If the magazine costs $2 more, then if you add their costs together, the sum should be equivalent to the cost of the magazine plus $2. This works out to $3.35, but since they cost $2.90 instead, there must be a mistake. But if we use this reasoning, the total would come out as expected, so there probably was no mistake.

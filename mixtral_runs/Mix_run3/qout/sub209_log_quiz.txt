@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 38
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $0.45
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am pretty certain that my answer is correct because when I first read it, it seemed very intuitive, and after trying several other possible values for both items, I could not come up with an answer that added up to $2.90. However, as soon as I submitted my answer, I thought about an alternate solution where you might use some multiplication or division between prices. While that would not be logical to me from the phrasing of the problem, I do not want my confidence rating to be influenced by this doubt so I will still rate myself 90%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: It seems like there can only be two groups of respondents: those who solve the problem intuitively with subtraction ($2.45-$2.00=$0.45) and others who think too deeply about the problem and use division or multiplication ($2.90/$3.00=.97*$3.00=$2.91). Therefore I would estimate around half, so 50%, although this may vary based on education level, background and how they tend to process problems (analytically vs instinctively.)
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Although the phrasing is slightly different than the previous question, my initial solution came up immediately as being .10, because the price difference was given directly in dollars rather than an indirect reference using subtraction. That's why I feel more secure in my answer here compared to the previous question. I would rate myself 95%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Given that the difference between the total price and pencil price is stated explicitly ($1.10-$1.00=$.10), I believe most people will give the correct response. Therefore, I estimate about 85-90%.

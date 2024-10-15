@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 30
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Eraser cost .10 cents or .1 dollar because it's one dollar difference between a pencil that cost 1$ and eraser+pencil cost which equal 1.10$.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%. I am pretty sure but maybe there is something missing from this puzzle that might change my answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I think about 60% of people will solve it correct way. Most of those who answer incorrectly would add one dollar to eraser price thinking that pencil has 1$ profit over eraser. But that's not true because they do not add both prices together before subtracting one.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Banana cost 0.90 dollars or 90 cents because a magazine costs 2$ and total sum is 2.90$ so there is .90 difference between those two values.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95% - This question seems quite easy for me after solving previous one, and I did not make any calculations error.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Around 85%. Some may still add 2$ value to banana price but most should get right answer since this one is simpler than first question.

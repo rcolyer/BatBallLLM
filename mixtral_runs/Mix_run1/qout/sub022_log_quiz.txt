@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: The banana costs $0.90, because the total price ($2.90) minus the magazine's price ($2.00) leaves only the price for the banana ($0.90).
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 100% confident that my answer ($0.90) is correct.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Approximately 98% of people would solve this problem correctly if they had confidence in their basic arithmetic abilities.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: If the pencil costs $1 more than the eraser, then the eraser must cost a certain amount less than the pencil. The total sum ($1.10) can be split into two portions -- one portion being the price for the eraser plus some quantity 'x' which equals the difference in value between the pencil and the eraser. Using basic algebra, x+$0.05=$1. Thus, the eraser costs five cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 100% confident that my answer (five cents) is correct.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Approximately 30% of people would solve this problem correctly because many individuals do not trust their algebraic abilities or they assume that there are errors with the wording of the problem.

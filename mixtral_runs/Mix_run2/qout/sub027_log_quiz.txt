@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $.90, the magazine costed $2 which means that whatever amount it left will be for the banana which makes the price of the banana to be $.90
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%, I used subtraction as a way to get my answer and the two numbers that were given where subtracted from each other which is the only logical thing to do.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I believe about 50% to 60% of the population would know the right answer.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: This question is trickier then the last one because we must add and also find out the value of one dollar over the eraser. Let me try this. If the pencil cost a dollar, then that will make the eraser $0.10, so if its $1 more expensive than that, then the eraser costs nothing. It's free with purchase of a pen.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I think 90%, there could be some way to look at it differently but my interpretation seems sound
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe less than half. Because for most people, when they hear the word 'more' they usually interpret that as an addition rather than subtraction

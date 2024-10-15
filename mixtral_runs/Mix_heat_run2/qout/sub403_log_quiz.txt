@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: The eraser would cost $0.10 cents because if the pencil cost a dollar than the total cost for the two items must be $1.10.  Answer=$.10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am totally sure of my answer. So 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Based on similar surveys, I estimate that approximately 60-75% of adults can solve this particular question without hesitation. So between 60% and 75% could answer correctly.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: This one is tougher so lets start with what we do know.  First we know that if both items are purchased together the total cost equals $2.90.   Also that the difference in price between them is $2 ($Magazine - $Banana).   So if x is the price of the Banana then $Magazine would be ($x+2) since it costs two dollars more than the banana.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Honestly this one has me stumped for the moment but I think its just a mental block as I keep coming up against the same point while working it out.   Given enough time and no distractions I should be able to solve it with ease so at present, probably only 65%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: My first thoughts are maybe around half can get this because there’s often a mental hurdle to jump through when presented with an algebraic question even though once the basic tenets are grasped there's no reason why most adults couldn’t do this calculation. So maybe about 55%.

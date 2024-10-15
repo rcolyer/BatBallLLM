@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Ten cents. I got the dollar from the price of the pencil, so the other item can only cost a dime.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I’m completely certain about this answer! I would give it a solid 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Given that my logic was pretty straightforward, I imagine a lot of people will come up with the same correct answer I did. I’d estimate 95%.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Let me see now…$1.40 for the banana and $1.50 for the mag…oh wait!! That makes $2.90! This one is trickier, but once you know that the first example involved rounding down, then the rest should make sense too!
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Since my answer made complete logical sense to me, I can be absolutely certain that I have arrived at the right conclusion here! So, let’s call that a 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Hmmm, well, this is somewhat difficult as compared to the last question because this time there was no clear round-down solution offered as an obvious choice. Nevertheless, those with strong mathematical skills should still arrive at the correct answer. As such, perhaps around 80%.

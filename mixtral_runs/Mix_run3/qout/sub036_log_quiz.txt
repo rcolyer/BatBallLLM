@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: 0.50 cents, or 70 pence if that is a more familiar form of currency in your region. (Around here [England], we mostly use pounds, but I'm assuming that the dollar price given implies that it will be somewhere less developed.)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Around 80%, as although I believe my answer to be correct, there may be some factors that can alter it; for example, sales tax, which, if present, would slightly affect my answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: At least 50%, based on other answers and an estimate of math proficiency, combined with an assumption that those who read "percentage" as meaning "amount as decimal/fraction", i.e. without any multiplication by 100 required, might have got a different value entirely (assuming the question asks about decimal or fraction values).
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It seems rather obvious, but the eraser still costs 10 cents (or 6 pence), as indicated in the first scenario's solution.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Around 99%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Over 90%, for similar reasons stated before, with a slight reduction due to assumptions made when reading the question and minor errors which could arise; however, I believe most will get this right.

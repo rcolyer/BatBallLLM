@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Eraser = 10 cents, Pencil = $1.00 + (5*0) = $1.00
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm 100% positive that this solution works as long as we are talking about round figures for cents. I cannot think of any other plausible answer given the information provided.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I would like to say "a majority of" people but I don't actually know so I will just take a wild guess here and go with 60%. That being said, if my estimate was off then there must be many folks who have trouble solving seemingly simple math problems like these or those who were too hasty in making decisions and went on autopilot without checking their results carefully before submitting. Either way, this is quite sad...
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Banana = 90 cents - (3 * 0) = 90 cents
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: My confidence level is at 100%, as there should only be one correct solution based upon the information provided.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Considering that everyone can do basic addition/subtraction, I would expect at least 75% to get this right. However, given that most people don't even bother to read things thoroughly before jumping straight into solutions, I guess my estimate might still be too optimistic after all…

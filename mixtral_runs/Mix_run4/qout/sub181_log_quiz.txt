@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 36
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: 90 cents. I'm thinking the magazine is $2, so $2.90 - $2 leaves me with 90 cents for the banana.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%. I would be more sure if I could put it as .90 or .9, but I am pretty sure that I can't do either one in this situation. I can easily divide by 10 to figure out tenths of a dollar, though!
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I'd say 75-80% answered correctly because there seems to be some confusion over whether pennies can be considered. When working a simple arithmetic problem like this one, I automatically round all my answers down to the nearest whole number, and consider that I have paid an extra cent rather than rounded up. There may also be individuals who don't understand that dollars can be broken down into decimal points--but that wouldn't make much sense considering that most people probably handle money daily, and see dollar amounts expressed in decimals often.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: $.05. I know that sounds really cheap for an eraser, but let me walk through it with you. If the pencil is $1 more expensive than the eraser, then we have to first subtract the price of the eraser from the combined price to figure out the cost of the pencil (so, $1.10 - E = P; where P stands for the price of the pencil and E stands for the price of the eraser), and then once we find the value for P we would want to solve this equation for E: P - E = 1. Using substitution (or common sense!), we can then say .95 - E = 1. Solving for E will yield our final answer.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm 87% positive. My calculations seem accurate, so my only uncertainty is whether the prices given in the problem might be rounded to the nearest dime or quarter due to a lack of pennies available--but the same could be said for any situation involving money, really.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: About 65%. While I've noticed that more individuals tend to give the right answer for simple math problems like these ones, I often see their reasoning falter when there aren't clearly-defined steps leading to an easy conclusion (as seen in Problem #3). The wording also plays a huge role in the likelihood of someone getting the correct answer, too!

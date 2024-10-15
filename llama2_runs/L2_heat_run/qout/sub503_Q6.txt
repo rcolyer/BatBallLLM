@@ -1,0 +1,1 @@
+Many got that problem correct because the magazine price wasn’t rounded. Therefore, 89% should be able to get the right answer easily.

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: $.05
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 80%. I feel pretty sure, but it's just been so long since I have done that kind of problem!
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe around 60-70%, but honestly I'm not sure because it seems like such an easy question. I guess if there were other factors making the answer unclear then it could be less. But I hope my friends can get it right lol.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $.90
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%. It was very easy; the price of the pencil is simply $1.05. So the eraser costs $1.05 - $1 = $.05. And since the price difference between both items is given, we do not need to know their actual values or prices; thus, we don't need any additional information in order to solve this.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Close to 100% for certain. Maybe there will always be someone who did something wrong, but honestly, anyone with basic algebraic skills should have been able to figure out the solution. Even if you were using your intuition alone, it seems like this shouldn't take more than one try at most!

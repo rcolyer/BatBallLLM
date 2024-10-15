@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Bananas cost $0.75 and a magazine costs $2.15
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 100% positive that this problem has no solution as stated because one variable can’t be determined unless we know something else like tax rates, magazine titles or brand names etc.. In other words, the answer could change depending on those variables which weren’t given so I can only guess based upon average prices. However, if we assume an average price for both items then my previous answer would stand but since no such information was provided, I cannot provide an exact figure with absolute certainty. So, I would say I am about 90% confident in my response given the assumptions made above.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Based on the fact that most people will probably solve for X without considering any external factors, I would estimate that around 50% of responders might get it right by chance alone. But again, that depends on their interpretation of the question and whether they consider additional variables beyond just simple algebraic substitution. Therefore, I think somewhere between 30-70% is more likely.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: This time, however, we are told explicitly that the pencil costs $1. That means the eraser must be the remaining amount which is $0.10. Confidence level = 100%.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: As explained earlier, I am absolutely certain that the eraser costs $0.10 because all necessary information was provided in the question. Therefore, my confidence level is 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Given that this problem is straightforward and requires only basic addition, I would expect over 90% of responders to get it right. Perhaps even as high as 95-98%.

@@ -1,0 +1,1 @@
+Banana costs $.90. This is calculated by subtracting the price of the magazine ($2) from the total cost ($2.90).

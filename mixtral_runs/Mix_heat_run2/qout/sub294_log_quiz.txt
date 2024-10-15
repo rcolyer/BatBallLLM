@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $0.10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am totally sure my answer is correct, so 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I believe that at least 75% or more of people would solve this problem correctly, since the first instinct is usually to subtract one from the other. However, some people might be thrown off if they assume that both items have to cost the same amount, which isn't stated explicitly.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Bananas generally cost less than magazines, but with no explicit indication of the cost difference we can only guess. Let x represent the cost of the banana, then the cost of the magazine must be (x+$2). Adding these costs together yields the total cost ($2.90): x + (x+$2) = $2.90. Solving for x, we find that x = $0.45. So, the banana costs $0.45 and the magazine costs $2.45.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am totally sure my answer is correct, so 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: This question requires algebraic manipulation which not everyone has taken or remembers well enough to solve. Still, since those who took algebra should know the process I would estimate at least half of participants will arrive at a solution.

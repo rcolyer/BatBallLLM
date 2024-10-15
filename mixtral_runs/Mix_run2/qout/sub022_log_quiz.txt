@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: The banana cost $0.90
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%.  It was pretty straight forward so I'm mostly sure that my answer is correct.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I think around 90% of people answered it correctly. It wasn't that difficult.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: If the pencil costs $1 more than the eraser then the eraser costs $.50 and the pencil would be $1.50 but the total cost for both items would only be $1.10 so something doesn't add up here.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Well, I know there's an issue with the numbers because they don't work out right but assuming everything works as it should then the eraser cost would have been $0.35 if the statement about the relationship between their individual cost was true but since they don't add up to what's expected, I'm at 45%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: This seems like an impossible math problem. Only a small fraction of people would come to a correct solution so maybe around 25-30%.  It doesn't make sense that the answer is expected to equal $1.10 so my guess is most folks just give up and pick some arbitrary amount for the eraser and hope the pencil matches up.

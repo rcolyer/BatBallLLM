@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 21
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: The answer that the eraser costs ten cents is implied by giving a specific price for the pencil, but I could see how one might be confused if this information was not provided or otherwise overlooked.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 65%
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: My immediate assumption upon reading this question was that 'more' in the context of the magazine costing twice as much meant an actual difference between the prices rather than the magazine costing $2 *more* than the banana. This is reflected in my response. However, with further thought on the matter, I now understand the intended meaning and can answer properly.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%, but less than before because there is still some confusion surrounding what 'more expensive' actually means
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 60%. Again, assuming they interpret 'more expensive' to mean 'actually more expensive' and do not take into consideration what 'twice' implies

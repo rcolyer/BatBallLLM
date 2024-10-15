@@ -1,0 +1,1 @@
+The Banana would cost $0.90.  The price is given, no need to calculate it.

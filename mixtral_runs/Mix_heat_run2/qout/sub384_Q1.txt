@@ -1,0 +1,1 @@
+$.05, I subtracted the extra cost from the total price then divided that number by two because the answer has to be symmetric or something like that.

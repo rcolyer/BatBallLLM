@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It doesn't say that there are only one pencil and eraser. They could have many of them at that price or be selling them as a bundle deal where normally an eraser would be more expensive on its own. Without further details, we don't know. But if we go off what it says exactly then the answer would be that the eraser is $0.10, as 1 dollar for a pencil plus 10 cents for an eraser adds up to their given amount.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am about 85% sure. While I do feel that my interpretation of their question was the most reasonable conclusion, I acknowledge the fact that without further information, my response contains some level of assumption. So while I do stand by my interpretation and believe it was likely intended as such, it would still leave a margin of doubt due to a lack of complete data regarding other possible factors which might affect the pricing scenario they provided.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I believe 45% - 50% of people answered correctly based upon typical interpretations of problems.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: To calculate the answer, we can set the price of the banana equal to B. That makes the cost of the magazine B+$2 since it's two dollars pricier. When we add them both up, our total price is now B+(B+$2), or twice the cost of a single banana plus two dollars, and we know it's equivalent to $2.90 in all. Now if we rearrange and isolate our banana variable on one side we end up with B = $(2.90-($2+B)), then solve for B by setting B to the opposite side as shown here: (2*B)+(2) = 2.9. We proceed with our algebra and subtract two from both sides so that B ends up on the left alone again; 2*B=0.9 and divide B out once more until its value remains; thus we arrive at B = $(0.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 95% sure based on calculations and interpretation.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 80% - 85%. I think most individuals will use simple subtraction here because they tend not to overanalyze easy questions and focus instead on getting through them quickly. That said, I suspect about one in ten won't calculate accurately or else misunderstands the instructions.

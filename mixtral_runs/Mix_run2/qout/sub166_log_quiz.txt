@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 25
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Banana = (total - magazine) / 3, because there's a "thinking tax". So, let's first find out how many times higher than banana is a magazine. Banana = 1 dollar, so magazine = banana + 2 dollars = 3 dollars. And if banana = 1 dollar, then the magazine was worth exactly what it cost in our calculations. I see the question as an interesting challenge, and it takes me about 6 seconds to solve it.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am quite sure (~75%) that this solution is correct. Maybe it makes sense for other people too, but I cannot be 100% sure without seeing their thought process and math.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: About 30%. People often tend to quickly look at the given data, ignore certain nuances, or overcomplicate things by dividing the total amount by three right away.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Eraser = 10 cents. I didn't even think twice on this one. It just took less than 1 second to solve the problem, since the difference between total price and pencil cost is evident here.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am totally confident about my answer (95%). There might always be some corner cases which could require more calculations, but most likely the solution would still stand correct.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Approximately 70%, maybe even more, as it is quite simple.

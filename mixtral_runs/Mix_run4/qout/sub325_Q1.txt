@@ -1,0 +1,1 @@
+$.90, because 2 + .9 = 2.9 (and the question states that "together" they cost $2.90).

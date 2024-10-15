@@ -1,0 +1,1 @@
+Banana = .90, Mag = 2 + .90 = $2.90; Mag - Banana = $2 / ($2.90-.90) = 70%. So, Mag price was distorted by $0.42 => Banana = 2.90 - 2 - 0.42 = $.58

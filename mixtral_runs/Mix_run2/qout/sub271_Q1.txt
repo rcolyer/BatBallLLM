@@ -1,0 +1,1 @@
+$.05 (I calculated it out, not immediately apparent)

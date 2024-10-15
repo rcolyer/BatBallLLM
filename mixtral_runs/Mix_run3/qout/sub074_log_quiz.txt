@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It would be ten cents for the eraser because that's what you have left over from paying a dollar.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am pretty certain.  90%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I feel like if I get it right then maybe most other people will too, but I don't know about everyone so I'll say 75%.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Bananas are usually under a dollar, right? So if the mag is two dollars more than the banana then the mag must be around three or four dollars, which adds up to almost three dollars...wait, no, let me see...the mag is 2.90-banana so...so if the mag was one dollar then the banana would be 1.90! But that's not right because the mag has to cost more than the banana by at least a dollar. Oh, I get it now! It should have been the other way around...one dollar for the banana and two dollars for the mag!
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Yeah, I got this one.  100%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Well, some folks might get thrown off like I did, but still, I think most people will figure out the trick here.  Let's say 85%.

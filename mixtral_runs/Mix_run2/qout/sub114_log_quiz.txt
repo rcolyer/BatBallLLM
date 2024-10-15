@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: .10 or ten cents. The question asks for the eraser cost, not how much extra the two items cost together.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%. I had to think about it for a few seconds, but that was more because of my initial confusion at reading "together cost" rather than "$1.10". It's an easy problem when properly worded.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: At least 75%. Even with the awkward wording I would expect most people to get it right.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: To find the cost of the banana subtract the price of the magazine from the total cost and then account for the fact that the banana is cheaper by $2.  So $.90 - $2 = -$1.10 which means the banana is $1.10 less than the $2 dollar magazine. Answer: the banana costs $1.80.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%. Once I realized I had misread the first part I was pretty sure about it.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe 65% because the initial confusion over "more" rather than "$2 difference" might throw some people off. But if they catch it and think through it logically they should be able to solve it.

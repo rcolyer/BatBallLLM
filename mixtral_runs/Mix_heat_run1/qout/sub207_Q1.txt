@@ -1,0 +1,1 @@
+$.45, since it says "the magazine cost $2 **more** than the banana". I've seen people do it incorrectly because they thought the total was the price for both, when it's actually separate items priced individually.

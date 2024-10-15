@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: The banana costs .90 dollars since the total of .90 + $2 = $2.90, the correct total cost
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am totally confident about this question as it's simply just basic addition.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I believe that upwards to 65 percent would get this answer correct, since I can only think of one way to solve it which means those who think differently from me have made a mistake or didn't solve it like I did
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Since there are so many different ways to look at this situation, let’s take the first glance – “A pencil costs $1” and then add another dollar because it says that a pencil is worth $1 “more” than the eraser, giving us an answer of $2. This would mean however that they don't follow the summed cost stated above! Thus we should instead break down both items by considering the word "more" in its definition; if something has been increased by $1, subtract $1 to find original amount = .10c, thus solving this riddle as being 10 cents each, not two dollars as previously assumed!
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: After careful deliberation, I feel relatively secure about my second guess since it is derived directly from the text, rather than simply using assumptions or applying basic mathematical rules like I did initially. Hence I believe around 75%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Since it appears complicated, some might assume that their initial responses were accurate but failed when checking them against context provided later in question itself-making errors less likely here though still possible-and others will overcomplicate matters due linguistic interpretation, making it tough for many responders so I estimate maybe 40% tops

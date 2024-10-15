@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: .90 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am pretty sure that it is $.90, maybe about 95% positive.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: It's a pretty straightforward question. So I would assume at least around 75%, but if there were a lot of really young children answering, or older adults with Alzheimer's disease or something like that, then probably more towards 65%.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: The eraser would have to cost 10 cents then because otherwise the pencil would have to be negative, which wouldn't make any sense. I am totally sure about that answer, so I say 100% confident.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100% confident!
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Most of the people taking the survey will likely answer it correctly as well; although there could still be some that are confused about how to interpret 'one more dollar' than a particular price point. But for now I think the right answer is going around pretty fast; I guess most will know that the answer should be somewhere between $.01 and $1. Maybe a bit lower though - say around 90%.

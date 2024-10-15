@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: The eraser would cost ten cents if they follow the "a pencil plus an eraser makes one dollar eleven" scenario. But there was a catch, and that's why this problem was designed to trick people into believing it has to do with adding instead of subtracting. I can see that now but before I did not. So, the eraser cost ten cents in my first response and then fifty cents on my second attempt after rethinking the question carefully.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: My first answer would have been 95% but since I figured out the riddle and re-answered correctly, I feel very confident that it's right at 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: This is difficult because while most adults could solve this simple math problem, some may fall for the trick and add instead of subtract. I'll give them a 75% chance of getting it right.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Ten cents, which means the magazine costs $2.80.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Based on my calculations, I am 100% positive this answer is correct.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Once again, the same principle as before applies here; however, since the math might be a little bit more complicated this time around, I think only about half of the respondents will come up with the correct solution. I would say that 50% got it right.

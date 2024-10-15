@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 21
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: The Banana costs $.90
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 95% confident in my answer because there is still the possibility that the prices could be different in some places due to taxes.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I believe around 90% would solve this problem correctly since only basic addition skills are required.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: This is where things get tricky for most people. My initial response was $.30 for the eraser, but upon thinking about it more thoroughly, I realized I had subconsciously multiplied the first answer by a factor of ten. In order to avoid making the same mistake again, let's break down the problem into smaller parts. If we assume the price of the pencil to be X dollars, then the price of the eraser must be X - 1 dollar (since the pencil costs one dollar more). Adding these two amounts should give us the total of $1.10. Thus, X + (X-1) = 1.1, which means that X = 1.1 / 2 + 0.5 = $0.60 for the pencil, leaving us with $0.50 for the eraser. So, my final answer is that the eraser costs $0.50.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Given the effort I put into solving this question and double-checking my calculations, I would say my confidence level is at around 99%. However, there might still be some slight chance for error due to possible oversight or misunderstanding of the problem itself.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Considering the complexity of the problem compared to the previous one, I believe only about 60% to 70% of participants will solve it correctly without making any mistakes. Many might overlook the necessity of breaking down the problem like I did, leading them to incorrect initial responses.

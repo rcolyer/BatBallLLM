@@ -1,0 +1,1 @@
+Eraser= $.05 cents and pencil = $1.05 cents.  Same as above, just requires reversing the numbers from $1.05 back down to .05 cents.

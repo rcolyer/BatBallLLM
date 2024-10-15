@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: ten cents (because that is all I would have left to buy it)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 65% because it feels like something is off about it but at the same time I am sure the problem asked for price only... so I guess i could be more wrong?? idk tbh.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 20%. Not everyone realizes you need change when giving the dollar or knows money conversion between different units... But also many are smart enough to know its possible so... I think thats fair! :)
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: twenty cents
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 99%. Because that is what I calculated it would cost in order for them to match what they asked, so if im reading things right then yes haha
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 50%, maybe even a bit less... some people may do simple addition without realizing their answer contradicts information provided within question... which is frustrating because why put useless details like "magazine cost two dollars more" but idk I guess they assume all will solve math part properly so don't care about providing sufficient logical links :/

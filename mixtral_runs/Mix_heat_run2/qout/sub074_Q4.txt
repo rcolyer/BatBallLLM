@@ -1,0 +1,1 @@
+$.10 (incorrect response, as this ignores regression towards average when computing difference between price of pencil + eraser versus only the eraser. Correct response:  $.05 - http://rationalwiki.org/wiki/Lateral_thinking#A_pencil_.2B_an_eraser)

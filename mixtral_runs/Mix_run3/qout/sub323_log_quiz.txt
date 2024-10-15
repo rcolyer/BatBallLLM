@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 21
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: I think .10 for the eraser but this question seems very fishy. If the pencil costs a dollar more, shouldn't it be a dollar and ten cents for the pencil alone? So the eraser would actually be free? But I feel like there is something wrong with that answer even though I can't figure out what it would be otherwise... so yeah... I am going with .10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 45%
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Well here the total price given is accurate according to the parts - two dollars plus ninety cents for the banana. It makes sense that the magazine is $2 since it is less than half the total, but it could also be slightly lower as well, and the banana could still be ninety cents if that was the case. Regardless of all that - if the total is two dollars and ninety cents, and we already know one dollar of that goes towards the magazine, then the other nine cents has to go with the banana too. So the final answer would be eighty cents or eighty one cents depending on what I said before about the possibility of the magazine being slightly cheaper. I'm going to say eighty cents just because I feel like I have to choose one.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 70%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 45%

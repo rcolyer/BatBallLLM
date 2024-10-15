@@ -1,0 +1,1 @@
+$.45 cents because you would subtract two dollars from the total amount, leaving you with .90 cents, then divide by two in order to find out how much each item costs individually.

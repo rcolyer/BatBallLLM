@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: The banana costs $0.45, the magazine is $2.45.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: About 50%. I don't think many would solve this problem as quickly and easily as I did, but I expect that most would come up with the correct answer after taking some time to calculate or work out the problem.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Oh dear, I fell for another classic trap question! The first part is just bait and serves no relevance for the second part at all... My bad. So an eraser then would cost $0.10.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: After my blunder on the previous problem, I better double-check! But yes, I am now quite sure that I got it right. Maybe about 90% confidence level?
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Perhaps even less than 50%, since I myself initially fell into the same trap that has probably snared many others too. However, I suspect that when asked again, those who made errors the first time may realize their mistakes. So maybe around 60%.

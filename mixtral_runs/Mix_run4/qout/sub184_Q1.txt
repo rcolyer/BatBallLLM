@@ -1,0 +1,1 @@
+Banana = $.40 (Price of Mag + Price of Banana = $2.90, Mag = 2*Banana; thus Banana = $.40)

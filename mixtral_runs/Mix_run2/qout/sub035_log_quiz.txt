@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Ten cents, because the question states that a pencil and an eraser cost one dollar ten cents total and the pencil costs a dollar alone, so the eraser must be worth the remainder.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 100% confident in my answer because the problem explicitly gave two prices, which led me to subtract the smaller price from the larger price.  I cannot fathom another way to correctly approach this problem other than what I have described.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I suspect at least 90% answered correctly. I do believe some participants will assume that there is some sort of hidden trick involved with this problem, or may solve the problem using incorrect methods, such as dividing one dollar by twelve-hundredths of a dollar instead of simple subtraction.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: This time I’d say that the banana costs fifty cents, while the magazine then costs $2.50. That is, I know the difference in their individual costs must be exactly two dollars; the most straightforward calculation for finding both answers would involve solving twenty-five divided by five. I suppose my rationale for answering in this way has been influenced somewhat by the previous problem—as I am already aware the answer to the first question must involve a simple calculation involving decimals and whole numbers.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: As I have just mentioned, the solution for the previous problem appears to have informed this one. Even without this influence, however, I still believe I arrived at the correct answer due to basic knowledge of mathematics and my understanding of word problems. I feel quite confident, then—perhaps around 85%, give or take.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Based on past experience with similar sorts of questions, I think at least half of the participants will arrive at the right answer. Because of certain assumptions made about the values involved—namely, that they represent the same currency—I’d be tempted to suggest as many as three-quarters. However, some individuals might be confused regarding the value of the magazine and banana, perhaps mistakenly believing there exists some other relationship between their costs; for these reasons, then, I shall play it safe and say maybe sixty percent.

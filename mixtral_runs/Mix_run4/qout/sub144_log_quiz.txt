@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 28
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: 10 cents.  If you add a dollar to that, then you get $1.10 for both items.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 90 percent sure of my answer because there may be something tricky that I don't see here, but I think it works out pretty well.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Well, I don't know if they solve it as easily as I do or if they are tricked into thinking that one of those things should be free...I'd say maybe 50 percent of them will come up with the correct solution.  Some may even guess wildly without thinking about it.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: The banana costs 90 cents because when you subtract $2 for the magazine from the total cost, you arrive at that answer.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I feel very confident; this seems like a straight forward question, so I give myself a rating of 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Again, there might be some who guess randomly and not really think through the situation.  However, many others will probably figure it out correctly.  So, I would guess maybe 80 percent of them got it right.

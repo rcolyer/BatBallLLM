@@ -1,0 +1,1 @@
+$.45 (I used an equation based on the magazine being $2 more, so I set up the following equation: b + 2 = 2.90;  b = .45)

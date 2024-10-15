@@ -1,0 +1,1 @@
+Eraser cost $.05. Pencil cost $1.05. I figured this out by trying different values until one worked, since a difference in prices did not have to be a whole number.

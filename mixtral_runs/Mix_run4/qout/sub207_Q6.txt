@@ -1,0 +1,1 @@
+85%. This one is harder than the first because of its similarity with the last example, which had an incorrect solution floating around. I think more people will miss this one.

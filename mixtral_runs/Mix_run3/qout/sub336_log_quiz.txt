@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 24
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $.45, because if a magazine ($2.45) plus a banana cost $2.90 then that would mean the difference in price for the two items equals $2.90-$2.45=$0.45 or 45 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 78%, because I am pretty sure I did the calculations correctly but there’s always that chance something went wrong along the way so it’s not entirely foolproof.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 64%, just because it seems like math problems like these are typically tricky for many people, especially when dealing with money values and addition/subtraction so maybe some will mess up somewhere.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10, because the question states that a pencil and an eraser together cost $1.10 but also says that the pencil itself is priced at $1 which leaves only $.10 left for the eraser price.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%, as this time I was extra careful making sure I didn't make any mistakes and feel quite positive about my answer being right.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 83%, since generally people tend to do better on easier math questions compared to those involving more complicated calculations or multiple steps.

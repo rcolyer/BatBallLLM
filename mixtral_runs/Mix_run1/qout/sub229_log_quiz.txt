@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Eraser=$.05, Pencil=$1.05
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 64%. It was obvious after I figured out my initial mistake
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Probably above 70%, but below 85%. Many might think that there can't be a profit margin for the store owner by selling such items at such prices, however they seem to forget about the possibility of additional taxes on the items or perhaps even just the concept of a loss leader pricing strategy. So while most people get that you divide $.10 by the difference in price ($1) to find the eraser cost, many do not recognize their own error when contemplating why the store would sell things in such a way that is seemingly non-profitable
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Banana=$.90
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%, unless there were hidden costs or something else involved which was unaccounted for. However, based upon my initial calculations I see no reason why any other answer would be necessary or valid
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 85% to 95%. Most will have figured out that since the mag has already cost them $2, leaving $0.90 left over to pay for the banana. They may think it's a trick question or some type of sales tax or VAT might be involved but if they think about it logically then it should become obvious that the answer is simply $.90

@@ -1,0 +1,1 @@
+$.05, I divided by 2 to find that they would be evenly distributed. Then took one away from each total to account for the price difference mentioned in the question.

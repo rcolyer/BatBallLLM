@@ -1,0 +1,1 @@
+Eraser costs $.05, Pencil costs $1.05.  It's a trick question because it doesn't say that they only have a dime for change.  So I added .05 to the pencil to make it one dollar more expensive.

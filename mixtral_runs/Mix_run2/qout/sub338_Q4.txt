@@ -1,0 +1,1 @@
+To solve for the cost of the banana, let B represent the price of the banana. From the question, the magazine is priced at $2 + B. Together they cost $2.90; hence, their combined cost is $(2+B)+B=$2.90. Solving this equation yields B = $0.45 or 45 cents.

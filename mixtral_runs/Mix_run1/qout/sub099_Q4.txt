@@ -1,0 +1,1 @@
+This one’s pretty simple actually- if you add two numbers together and their total is $2.90, then subtracting any amount will give you the price of one of the things. For example, if we take off the cost of the magazine ($2) from $2.90 we get $0.90 which is the price of the banana.

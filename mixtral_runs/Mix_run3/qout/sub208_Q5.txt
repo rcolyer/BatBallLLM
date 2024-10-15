@@ -1,0 +1,1 @@
+99%. (It feels solid based on my understanding of the math involved; if someone can explain why their calculation is different, I'd love to hear it.)

@@ -1,0 +1,1 @@
+$.10.  You said that the pencil costs $1, so if the total cost for both items is $1.10 then the eraser must be $.10.

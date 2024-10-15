@@ -1,0 +1,1 @@
+$.05 because if you add $1.05 and $.05 you get $1.10.

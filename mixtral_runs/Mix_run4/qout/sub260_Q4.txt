@@ -1,0 +1,1 @@
+If we call the price of the banana X, then the price of the magazine becomes X + $2. Together, they should equal $2.90. This means we have to solve the equation: X + (X+$2) = $2.90 => X=$0.70. Therefore, the banana costs $0.70 cents.

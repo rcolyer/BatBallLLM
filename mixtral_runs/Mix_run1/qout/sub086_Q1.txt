@@ -1,0 +1,1 @@
+$.90 (My logic is subtraction; I figured it out by finding that if a magazine, which costs $2, was taken away from the total price, then only the banana remains)

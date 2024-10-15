@@ -1,0 +1,1 @@
+$.05, because if the pencil ($1) costs $1 more than the eraser, then the eraser must be priced at a nickel ($.05).

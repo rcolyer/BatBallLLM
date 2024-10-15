@@ -1,0 +1,1 @@
+I don't know how much the eraser cost. Let me calculate... If the pencil costs $1 more than the eraser, then if x is the price of the eraser, the pencil would be (x+1). So, we have: x + (x+1) = 1.10. Solving this gives us x=0.55. So, the eraser costs $0.55.

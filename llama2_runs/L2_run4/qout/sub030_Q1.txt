@@ -1,0 +1,1 @@
+Eraser cost = $0.50, Pencil cost = $1.50

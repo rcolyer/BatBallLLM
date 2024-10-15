@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 24
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: The banana costs $0.70 and the magazine costs $2.20. I calculated it this way: If the magazine costs $2.00 more, then x (magazine) = b (banana) + $2.00 and then solving for x yields the solution: x=b+$2.00. Substituting into the equation a second time we get $2.90 = b + ($2.00). Solving for b gives us the solution above.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 85% confident in my response. This problem was difficult because the first answer that came to mind would be the banana price; however, upon closer inspection it became clear that both had to have been increased by two dollars since one was greater than the other by only two dollars. Therefore there was some hesitation which diminished my confidence slightly.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I believe around 30% answered this question correctly due to the trickery involved with word problems and mathematical reasoning. Most might think they could simply subtract or divide without considering additional factors.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Based on the previous example, at first glance I wanted to say $0.10 for the eraser. However, if we assume that the pencil's value is double that of the eraser then the equation becomes x (pencil) = 2 * y (eraser), and thus substituting yields $1 = 2y. Solving for y results in an eraser costing $0.50 cents. This seems more plausible as well given typical pricing structures of such items.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Given my newfound understanding of these types of math problems I am about 98% confident in my answer. Although there still remains some doubt because this situation seems too simplistic.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Perhaps upwards of 70-75% answered this question correctly since it was simpler than the first one presented. Nonetheless, some may have fallen victim to assuming simple subtraction or division again.

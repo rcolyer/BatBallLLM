@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: The Banana costs $.45 ($2.90-$2.45=$0.45).  It makes sense because when you take away the cost of the Magizine, which is $2.45 from the total, this leaves a cost for the banana at $0.45.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe around 80 or 90% because even though this one may be confusing because if the Magazine was say only $0.50 cents more instead of $2.00 dollars, it could trip people up but since its easy math I think a large percent will solve this correctly.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: The Eraser would cost $0.10. If the Pencil costed $1 then all there would have left to make up $1.10 would be that last dime to get $0.10 cents to cover the Eraser which means the eraser is ten cents!
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I feel I'm totally correct with an answer of 100% because with simple subtraction math here shows that after buying a Pencil at $1 there's only $0.10 left which is what an eraser should cost when combined for the total sum.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: With similarities as to why those same 80 or 90% were right on the previous one, its again the math involved makes sense to most of us here so again maybe even close to 100%, perhaps 85%+ to even 90% of responses are likely correct and more.

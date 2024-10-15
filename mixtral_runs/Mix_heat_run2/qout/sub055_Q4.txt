@@ -1,0 +1,1 @@
+This requires some simple algebra. Let X equal the cost of the banana.  The magazine then would cost X + $2, or $2.90 - X. So X plus 2 equals 2.90 minus X, which yields X = .45. Therefore, the banana costs $.45.

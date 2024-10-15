@@ -1,0 +1,1 @@
+$.05 (this was the right answer, most people enter .10 because they think in terms of splitting the difference)

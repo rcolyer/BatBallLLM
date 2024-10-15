@@ -1,0 +1,1 @@
+$.45, I used $b for banana price in terms of the $m magazine price so that I could set up $m = b +$2 and $b+m=2.90$.  Solving this system gives $b = .45.

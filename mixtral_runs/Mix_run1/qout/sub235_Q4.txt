@@ -1,0 +1,1 @@
+Eraser = x; Pencil = x+1 => 1.1=2x, which means x = .55 so answer is .55 for eraser and 1.10- .55 or 0.55 for pencil

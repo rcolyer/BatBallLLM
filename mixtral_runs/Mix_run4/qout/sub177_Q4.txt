@@ -1,0 +1,1 @@
+Let B represent the price of the banana. That means the price of the magazine is B+$2. When added together they equal $2.90, right? Therefore, B+($2+B)=$2.90, which simplifies down to 2B=$0.90, dividing by 2 yields B=$0.45 for the banana, correct?

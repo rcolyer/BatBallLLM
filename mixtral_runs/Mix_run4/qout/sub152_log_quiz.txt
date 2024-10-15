@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 32
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: .90 cents, because I did the subtraction as 1-.10 and didn't consider that there were other price options that would add up to $1.10.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 90%.  After some consideration I do realize I could have done different calculations to get this answer, but am pretty confident with my initial one.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: About 50%.  There has been many studies conducted where simple math questions like this have stumped a lot of adults and children due to misinterpretation or thinking the question requires complex thinking.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Correctly answers 90 cents, since this question was presented after he had already considered his error in previous question.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%, as long as we can assume that these items cost full dollar increments.  If they don't then there is no way to tell.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I would guess around 75%.  Most adults who can add single digits should get this answer pretty easily and quickly once they figure out what information is given for each item.

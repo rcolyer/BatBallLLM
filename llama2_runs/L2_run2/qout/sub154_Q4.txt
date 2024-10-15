@@ -1,0 +1,1 @@
+It must cost less than $1, because if it was $1 or more, then the total cost would exceed $1.10. But I don’t know exactly how much it is.

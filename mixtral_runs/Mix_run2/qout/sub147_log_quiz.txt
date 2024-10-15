@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 27
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $0.90
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I think most would be correct since this answer can seem obvious or intuitive, but there might also be those who are misled by the $2.90 being divided into the two items so they end up thinking that the difference between the total amount and the price of the magazine represents half the value for each item; then some would think that half of that price represents the price of the banana... But still, I'd estimate at least around 85-90%.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: The eraser is $0.05 and the pencil is $1.05
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Given its nature and the typical way one tends to analyze these problems, I wouldn't be surprised if only about 40% get the correct answer since most would intuitively assign equal or almost equal values to both objects in their minds due to common sense heuristics. However, given that we're dealing with a survey here where people have time to process things rationally and slowly, I might dare to estimate maybe around 60%, although I remain uncertain.

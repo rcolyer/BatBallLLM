@@ -1,0 +1,1 @@
+15 cents, if X equals the cost of the banana in cents and Y equals the cost of the magaine then (X + 30) = Y and so 290/Y - 30/Y = .90 or 260/Y = .90 and so Y = 260 / .90 which equals approximately 288.9 cents but since a cent cannot be split this means that the magagine costs exactly $2 and therefore the banana must cost 15 cents.

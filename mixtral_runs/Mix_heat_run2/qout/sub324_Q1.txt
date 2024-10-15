@@ -1,0 +1,1 @@
+Banana costs 45 cents, Magazine costs 2 dollars and 45 cents.  To get this answer I subtracted 45 (the amount given for the banana in the previous question) from 2.90, then subtracted that number (2.45) from 2.90 again, giving me 45 cents.

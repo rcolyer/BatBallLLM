@@ -1,0 +1,1 @@
+$.10 cents (answer was recorded as "0.1" because participant only typed in $.10)

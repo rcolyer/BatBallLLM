@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: $5, since a pencil is normally between $6 to $12 (usd). If $1 less then I am going towards a very common, standard item and pennies or quarters won't add up for this so I take $6 and deduct the amount that a cheap eraser may be which would likely not be under 1USD therefore $0.80 plus my pencils estimated price brings me down by around one hundred pennies of the correct total making $5 left from one USD coin. That is to say $1-$0.80=$.2$ USD plus one dime($.1$)+one quarter ($0.25$)=$0.35+$.9$ (dollar ninety five cents)$+0.$10 =$1.35 - (or) $2.65-.45=(+) .8$, which isn't the final
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 24
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 46
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Around fifty six. If they can pay twenty one then for a half that must be about forty seven which is two less than that making up a sum equivalent.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 49
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 33

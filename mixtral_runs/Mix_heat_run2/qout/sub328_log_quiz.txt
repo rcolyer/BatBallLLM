@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: I know, this one gets me too - It's 50c for the Banana, then if that cost $X, it'd be X + $2 for the Magazine so X + $2 = $2.90 hence X = $2.90 - $2.00 which equals 50c.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 99%, there can only really be one correct answer here, right?
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Probably at least 90%. It's kind of hard to get wrong.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Ummm.. ok... $1 - 10c makes 90c, plus 10 cents because you have to buy them together brings us up to $1, leaving just 10c spare for the eraser.. That has to be correct doesn't it? I mean... otherwise, if we had thought about it properly... then $1 for the pencil and say 10c for the eraser would have made $1.10 altogether which is what they cost in the first place! Arrrg! Nope, wait.... I got that totally wrong first time, didn't I. OK. Here goes.  If we assume that they both cost the same amount then they will add up to $1.10 when bought as a pair. So 55c each makes $1.10 when added together, right?! Yay! Got it!!!
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Ha haaaaaaa!!!!  55%. There is absolutely NO WAY on God's earth anyone else figured that out either!!! None at all..... Right??
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Probably less than half a percent. Most will get stuck on the fact there's only a $1 difference like last time but actually, they're different items here so needn't necessarily cost the same amount. They just need to make up the full $1.10 when bought together! Simple once you realise!!!

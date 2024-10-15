@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 29
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Bananas cost $0.45, Magazines cost $2.45 (0.45 + 2 = 2.45)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Confident at 63%. I didn’t actually calculate that out but I think it’s right.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I want to say around 75%, since if they did get the answer right then their confidence level would be high enough to state it definitively and those who were off wouldn't be so sure.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: An Eraser is typically less than a dollar, so when the Pencil is already 91 cents ($1 – 0.09) and with the total being $1.10, it means an eraser costs $0.10.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Highly confident because even though it says $1, subtracting the total by the pencils gives you .10¢ as the value for the eraser.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: About 98% of the people answered both problems correctly because I believe most people understand basic arithmetic. If they don’t have a calculator on hand or their phone then that could impact their confidence level but as far as solving them, I think almost everyone can answer these two questions correctly.

@@ -1,0 +1,1 @@
+Banana = $0.45; Magazine = $2.45 (cost difference) + $0.45 = $2.90

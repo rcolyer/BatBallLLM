@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 25
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10. I took away the $1 for the pencil from $1.10, leaving $.10 as the cost for the eraser.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%. I am very sure that the eraser costs $.10; however, it’s possible that there might have been another error or an exception.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 90%. It seems straightforward, but maybe someone will try to do something clever, like divide $.10 by two items instead of just one, thus coming up with an incorrect answer of $.05. However, the question asked “how much does the eraser cost,” so each individual person can only make a single item purchase for $.10. This is why my confidence level is at 85%; though most will arrive at the correct answer, there is room for error among some.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $0.45 for banana. Subtract $2.00 from $2.90, and you get $.90. Divide the remainder ($0.90) in half because the magazine is twice as expensive, which gives us $0.45 for the banana and $0.45 for half the difference.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 70%. Although I arrived at the correct answer, it took me quite a while to figure this problem out. Also, my math might be wrong if I made any errors in subtraction or division.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 30%. Most will incorrectly assume that the difference between the total price and magazine cost must be split equally by both the magazine and the banana. Thus, their solution will have two parts of $0.95 each, with one going toward the banana and the other to the magazine. However, if they carefully consider what has been stated in the question, then some might realize that only half the difference actually goes to the banana’s cost. Due to most assuming incorrectly, I set my confidence level lower than usual.

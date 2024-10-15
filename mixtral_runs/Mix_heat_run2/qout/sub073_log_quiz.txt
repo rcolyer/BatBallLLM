@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $.45 ($.95/.05)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 87%. I would be less unsure if it did not specify an actual price for both. I would have been able to provide more certain answer, if just provided percentages of total value and asked for the relative part assigned to banana and magagine as variables. I don't think that the actual value matters in this question; just proportions/percentage ratio.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 62%. The fact that 2 items must equal some total makes it simple enough but only when explicitly presented as equation. With dollar amounts I had trouble concentrating on one variable, despite knowing the other value, thus overlooking solution due to bias and having to recalculate my initial results after giving incorrect response. However, without explicit prompting that would likely stump many who also overlooked basic solution, perhaps even those that consider themselves good at solving similar problems, because of inherent assumptions or contextual influence on focus points. This would be interesting to test against same problem framed with variables and no numbers at all, asking people to solve equations rather than given dollars amount (in which case participants might expect "trick" questions). It will also be insightful to observe whether they use different reasoning in different settings of the same problem - as variables or prices are introduced and switched between.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 96%. In this question the specific amount for both items makes it simple and direct to get final answer immediately upon receiving data from stimulus (which is what we want from a clear task that doesn't require extra calculations based on relative amounts). Participant: 18 female
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 75% if same problem is repeated. Since in this form there aren't additional contextual hints like $2 total value, many people who previously were unsure should get it right if tested again, but overall, if not aware that first one was a trap (even unknowingly) I would think slightly over half will miss due to distractions or preconceptions about prices being rounded whole dollars etc. But if presented with new problems they won't repeat these mistakes and probably be closer to 95% accurate since framing remains consistent throughout the survey.

@@ -1,0 +1,1 @@
+$.45. Since the difference in price is $2, then if x is the cost of the banana, $(x+2) must be the cost of the magazine. Together, these cost $2.90; therefore, $x+(x+2)=$2.90, or 2x+2=$2.90, which simplifies to x=$1.25 (banana), $(3.25=magazine).

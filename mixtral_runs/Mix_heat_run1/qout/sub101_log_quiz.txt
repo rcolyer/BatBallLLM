@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: 0.90
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 100% sure about my answer because it is simply adding two numbers which I just answered correctly so if they can do arithmetic they would get the same answer, but there may be more questions that might cause me to hesitate or change my answer based on their complexity or format.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Since it’s simple arithmetic, I think most people would answer this question correctly, so maybe like 95%. But since some people have been known to make silly mistakes when computing something as easy as subtracting numbers or performing division, sometimes even intelligent ones who know the basic concepts, perhaps it would be slightly less, say 90%. And also, sometimes the way these problems are presented can throw someone off.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Oh, wow. That changes everything. The difference between the total cost of $1.10 and the price of one item ($1) must mean that the eraser costs only ten cents, because otherwise I was thrown for a loop. I need to rethink that previous problem too now! Maybe they’re trying to trip us up here by making two separate questions out of one problem. Or am I missing something else? Hmmm. Well anyway, if my new calculation is right, then I would estimate that perhaps only about half the population (50%) will figure out this second question without needing additional information or prompting from someone else, given how counterintuitive it seems at first glance, but again that’s just an educated guess on my part based on past experience with similar types of logic puzzles.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Well, I was caught off guard initially by the wording of the second question but after recalculating I believe my answer is correct so I feel more secure than before, although still not as much as I did when answering the first question since this one was trickier to solve. Let me see...I guess I'd put it around 80%, which leaves room for error due to uncertainty regarding potential flaws in my reasoning process even though everything appears logically sound at the moment.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Given its deceptive nature, probably less than half (40%) will get it right immediately without outside help or making any assumptions beyond what has been explicitly stated in the problem itself. However, if people are given enough time to ponder it carefully and think deeply about their strategy, then perhaps up to two thirds (67%) might eventually arrive at the correct conclusion, although there would likely be considerable variation depending on individual differences such as prior knowledge, mental abilities, motivation level, etc.

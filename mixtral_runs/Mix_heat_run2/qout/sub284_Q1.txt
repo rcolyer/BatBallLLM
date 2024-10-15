@@ -1,0 +1,1 @@
+$.10, the price on the package just states it as one item rather than listing them individually

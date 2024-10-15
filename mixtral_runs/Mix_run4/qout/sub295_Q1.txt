@@ -1,0 +1,1 @@
+The banana costs $.90 because that’s how much it would be if both items costed $2.90 in total, but there was a mistake in your problem since the price of the banana doesn’t really change based off of what the magazine is priced at.

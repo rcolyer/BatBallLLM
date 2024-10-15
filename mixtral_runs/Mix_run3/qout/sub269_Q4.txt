@@ -1,0 +1,1 @@
+Hmm. So let's first find out the price of the magazine. Magazine cost = Banana + 2. The total cost is $2.90. Plugging those values into the equation we get: Banana + 2 = $2.90 => Banana = $2.90 - $2 = $.90. Therefore, the banana costs $.90.

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 28
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $.90 cents. The first question asked how old I was, but now there is a different context asking for the price of an item. At first, my brain wants to respond as if it is asking me about age, which doesn't make sense so my brain corrects itself by making the comparison between $2.00 and $2.90 rather than just trying to guess what the actual price might be from looking at a single price tag in a vacuum without any reference.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 90%. This seemed like a relatively easy problem compared to others.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 75%. Most people should get this right because they would think similarly to how I did, especially if they read my explanation. However, some may still struggle due to distractions or difficulty understanding the instructions.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: The eraser costs $.05 cents, the pencil costs $1.05 cents. At first glance, I thought it was an even split, but then remembered that the pencil costs $1 more so subtracted $0.95 from $1.10 for the correct answer.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 80%. This question was slightly harder because it required subtraction rather than simple addition.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 60%. Many people will assume an equal split like before, making them choose wrong answers. But others should be able to figure out the correct one if they pay attention to details.

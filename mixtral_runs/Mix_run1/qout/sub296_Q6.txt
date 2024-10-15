@@ -1,0 +1,1 @@
+Hmm...I would think that most people wouldn't notice the inconsistency and just plug in numbers like before, perhaps assuming it's another arithmetic sequence. But I doubt many will have figured out that no answer is possible without knowing that there was a mistake made when asking the original question, so let's estimate at only 25%.

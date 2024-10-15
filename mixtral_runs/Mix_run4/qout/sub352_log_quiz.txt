@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 29
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: The eraser cost $.10 cents. You give $1 for the pencil and $.10 cents for the eraser, so in total they equal $1.10. I would assume if the question said a pencil and eraser together cost $1.10, that the pencil was $1 plus some amount less than or equal to .10, otherwise it would not be "together" as stated in the question. But this would contradict what is explicitly stated about the price of the pencil. So we know the eraser has to cost exactly $.10 to add up to $1.10.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%. I am fairly sure, but there is still room for me being mistaken here because it goes against what is explicitly stated about the price of the pencil.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe 30-40% based off previous studies I have read where most responders tend to get this sort of thing wrong.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: The banana costs $.45 cents. If the magazine costs two dollars more then the banana that means the difference between them equals two dollars. If they both equal two dollars ninety cents combined, you can divide two by four to figure out that the difference equals fifty cents. So if the banana is fifty cents less than the magazine that means the banana costs forty five cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%. There is still some uncertainty since there could be other ways to approach the problem. It seems straightforward with my answer however.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 60-70%. People seem more likely to understand the wording of this question compared to the last one, but they might struggle to find the right approach without doing math calculations directly in their head or writing them down on paper which isn't an option here.

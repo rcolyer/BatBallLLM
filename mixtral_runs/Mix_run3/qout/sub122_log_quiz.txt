@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: 75 cents, because the magazine would then be worth $2.25 and it would fit the description of "costing $2 more."
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%, I am positive that the solution fits the given problem constraints but still there might have been an error while doing this exercise which was not identified by me yet.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 45%. Many people just think about half of the price or less since they only consider whole numbers as possible solutions. However, if one looks at the question carefully and uses some logical thinking, he should be able to arrive at the right answer.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: This seems to follow the pattern from the last question, so my first response is ten cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 75%. The value could be slightly different due to some unidentified errors on my part or due to rounding, otherwise it appears correct.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 30%, most likely lower than for the previous question because the solution isn't an exact match with the last question but still quite obvious.

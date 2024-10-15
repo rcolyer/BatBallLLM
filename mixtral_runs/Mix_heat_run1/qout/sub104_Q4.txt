@@ -1,0 +1,1 @@
+Eraser = $0.05 and pencil=$1.05; no wait! If you think about the fact that they state the price for the two things as one unit and say "A pencil" when describing just the single piece that it doesn't make any sense because you can't have less then zero for an object... so eraser = $0.10, pencil = $1.00.

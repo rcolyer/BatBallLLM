@@ -1,0 +1,1 @@
+The key word here is 'more'.  That implies an additive relationship between two numbers (i.e., if a > b, then a = b + c for some nonnegative number c).  So the price of the magazine must be 2 + p, where p is the cost of the banana.  Since their sum is \$2.90, we can solve for p.

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 39
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $.90, because 2 + .9 = 2.9 (and the question states that "together" they cost $2.90).
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 80%
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: This one requires an assumption, which may explain why respondents might differ on their answer. But if we assume that $1 refers to only a dollar, then I believe the eraser costs $.05; thus the pencil would be $1.05 for a total of $1.10.  If by "$1 more," the author meant that the difference between pencil price and eraser price should add up to exactly a dollar (for example: $1.15 and $.15 respectively), then my calculation would be incorrect. But that's not explicitly stated anywhere here; therefore, my best estimate is $.05 for the eraser based solely on what IS written.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 90%, as this required me to make some assumptions about what "one dollar more" means.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Less than 70%. I suspect many people didn't understand how to interpret the phrase "one dollar more."

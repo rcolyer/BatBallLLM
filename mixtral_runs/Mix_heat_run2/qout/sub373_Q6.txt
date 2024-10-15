@@ -1,0 +1,1 @@
+95%; a very straightforward math problem which should have no difficulty in being calculated by the majority.

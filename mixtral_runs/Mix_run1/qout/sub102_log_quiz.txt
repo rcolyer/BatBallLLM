@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: 10 cents. Most people tend to forget that if you subtract the 1 dollar from the 1.10, it leaves you with 10 cents for the eraser, but my immediate response was still the right one because I saw how it equaled out.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 80%. I'm pretty confident, but then again maybe there's something more complicated about the problem than I thought. Maybe there's an additional step to get to the final answer. But as far as what I know about subtraction and addition...I feel good about it.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I would hope at least 80-90% solve it right. It's a pretty easy question if they just take their time or think through it before impulsively putting down the first thing that comes to mind. People rush too much in the name of saving time; sometimes it can make them do things without thinking clearly, which could result in incorrect answers on these kinds of questions.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Hmm, so we have $2.90 total minus the $2 magazine equals $0.90 for the banana? No, wait -- it has to be less because the difference between the two is only $2, but then it isn't adding up for me anymore. Let me see again. If I add the $2 and the $0.90 together, then I don't get $2.90 like I need to, so maybe the banana actually costs a little bit more than that. Is there a typo somewhere here? Maybe it was supposed to say something different about how much the magazine costs relative to the banana. Yeah, this one feels wrong somehow.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Only about 40%. I wasn't expecting the numbers to work out this way after doing some simple addition and subtraction. There seems like something missing from this question or maybe I just completely misunderstood what they were asking me to do with these numbers. Either way, I can't say that I feel super secure about my answer right now.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Well, considering I didn't solve it right myself, I would guess less than half -- probably around 30-40%. This seemed like a tricky question at first glance, and even though I tried to work through it logically, it still didn't add up for me. So I wouldn't be surprised if many other people felt similarly confused when trying to figure out the correct answer here.

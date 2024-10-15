@@ -1,0 +1,1 @@
+Eraser must cost $0.05 because if the pencil cost $1 more, then it would cost $1.05 total, so the eraser must be $0.05.

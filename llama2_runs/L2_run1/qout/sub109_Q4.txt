@@ -1,0 +1,1 @@
+If the magazine costs $2 more than the banana, then the magazine must be at least $2. The cheapest combination would be if the magazine costs $3 and the banana costs $1. So the banana costs $1. But there could be other possibilities too.

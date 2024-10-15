@@ -1,0 +1,1 @@
+50%. While many may solve it correctly, some still struggle with adding cents.

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Banana = $.45, Magazine = $2.45, Total Cost = $2.90
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 70%.  It has been a long time since I have worked out a problem like this.  The answer seems reasonable so far as my knowledge goes but it may be incorrect.  Also I am slightly worried about other potential influences which may effect my result.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 80%. Most will get it correct or at least very close, even if they cannot explain exactly why that particular amount is the right one.  Others would likely be confused by the phrasing or not understand what is being asked.  Some will guess an amount based on the first question though their reasoning may lead them astray.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Eraser = $.10, Pencil = $1.00, Total Cost = $1.10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%. This feels like a more basic math problem compared with the last one.  However it seems reasonable to double-check any numbers and ensure nothing has been forgotten.  I do not have an eraser at hand so cannot visually confirm this result but my previous answer still feels accurate.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 85%. More individuals should answer this correctly than previously because it is simpler, yet they might make similar mistakes as before if they become overconfident or distracted.  Some answers could be slightly off due to simple numerical errors like adding or subtracting when subtraction or addition is required instead respectively.

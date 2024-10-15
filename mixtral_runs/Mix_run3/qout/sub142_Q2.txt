@@ -1,0 +1,1 @@
+100%. I know that two items whose combined cost is known, and one item's cost is also known, allows me to determine the other item's cost by subtracting its price from the total sum. In this case, I determined that the banana costs $0.90 ($2.90 - $2 = $0.90 or 90 cents), thus am certain of my response.

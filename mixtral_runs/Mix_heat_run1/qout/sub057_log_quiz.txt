@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $0.10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 99%. I'm only subtracting 1 because I was slightly caught off guard by this question, but there can be no doubt in my mind that this is correct.  It is even obvious to me what kind of question would have caused such an error as it could only be one which did not present itself correctly.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Well, based on your phrasing, "what percentage," I am going to assume that you expect a single number for every case where all individuals would agree, or nearly so; meaning, that some might say more than half if they consider themselves part of the minority that solved it correctly, others less.   Thusly, if we presume that individuals who were confused by your question answered incorrectly, then they probably do not consider their own answers to be correct; thus, it could be possible to get an accurate assessment of everyone else by taking the answer and assuming everyone except me falls into this category.  Assuming all other things equal, therefore,  I am estimating 25-30%; though with all that I said above, I will admit I don't know how you intend to analyze these numbers.  You didn't mention whether or not you intended to use them in any way other than to gather information about my perception, which is why I feel comfortable
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Again, it seems simple enough at first glance, but let me double check.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: As before, I am 99% sure because once again, I was momentarily caught off guard; but even so, there is still absolutely no doubt in my mind as to what the correct answer is.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Hm...this time around, assuming that everyone who gets confused by your wording made errors similar to those made earlier, then we can probably add another 5-10%. That brings us up to around 30-40%.  Of course, that's only speculative conjecture on my part, based solely upon my assumptions about others' thought processes.

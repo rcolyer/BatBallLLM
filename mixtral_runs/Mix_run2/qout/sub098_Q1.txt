@@ -1,0 +1,1 @@
+$.05, because if the pencil is one dollar more expensive than the eraser and they total $1.10, then subtracting the erasers price from that would make the pencil $1.05 and meet the criteria in the prompt

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: 5 cents, since if the eraser is 5 cents, then the pencil will be 60 cents (5 cents plus $1), for a total cost of $1.10.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95% (I did say that I am "pretty sure")
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Around 75%, since I imagine most adults know how to solve such simple problems with algebra, but some may just guess randomly
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: 90 cents, since if the magazine is 2 dollars, then the banana must be 90 cents, for a total cost of 2.90 dollars.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am totally sure - 100% confidence. This one was quite straightforward.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: More than 85%. Again, the majority of adults should know how to do simple subtraction.

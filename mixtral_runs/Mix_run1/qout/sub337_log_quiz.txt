@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 29
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: 0.10 or 10 cents because when subtracted from a total of 1.10 it equals .10 in either case (when expressed as decimal or percentage).
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 98% - only leaving some doubt about whether the answer was actually expressed as "10 cents" rather than "$0.10."
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe around 50%, although there are those who will answer incorrectly with their gut instincts and then refuse to listen to reasoning which would reveal their errors.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: This one is easy enough; simply divide the $2.90 into two parts. Then since the mag has been priced at $2 above the banana's price, subtract that amount ($2) from the higher part of the initial division. You'll end up with a price of $.45 for the banana.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am completely confident. If my calculations were incorrect, I hope someone will explain them to me so I can correct my mistake and increase my understanding of simple arithmetic.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe closer to 60%. Although there may be some who still give wrong answers due to mental blocks or overconfidence in intuition without considering the logical solution.

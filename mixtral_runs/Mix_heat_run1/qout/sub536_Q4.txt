@@ -1,0 +1,1 @@
+Banana = x; Magazine = x + 2.  So, x+2 + x = 2.90, thus x=0.45. The banana costs 45 cents.

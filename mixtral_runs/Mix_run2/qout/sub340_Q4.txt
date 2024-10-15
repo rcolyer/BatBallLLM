@@ -1,0 +1,1 @@
+Eraser Cost $0.10 because when added up with the Pencil it gives us the total value which matches the given information i.e 1 + 0.1 = 1.1

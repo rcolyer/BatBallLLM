@@ -1,0 +1,1 @@
+It is clear for me that this problem doesn’t make any sense since if we subtract a price of an eraser from the sum of prices then we get $-0.10. Therefore, this puzzle appears incorrect and does not contain sufficient data for its solution.

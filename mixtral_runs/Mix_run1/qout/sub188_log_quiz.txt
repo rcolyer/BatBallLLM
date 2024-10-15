@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 35
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: The banana costs 90 cents, or .90 dollars.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 100
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: I think it would be logical to assume that the questioner meant to say the pencil and eraser together cost $1.10 plus an additional amount equal to the price of one of the items. I do not want to assume this though because that would involve me making a decision for them, and I was just given a straight forward math problem. If the question is as written, then mathematically the answer can't possibly be correct because the pencil cannot cost $1. It will either cost less if both items cost $1.10 or more if both items plus another equals $1.10. Since this question has inconsistencies with basic mathematical principles, I don't feel comfortable giving an incorrect answer so I choose not to respond.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Not applicable as I did not provide an answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I don't know. It depends on whether they gave the same answer as me or chose to interpret it differently than as it is written and provided a different response.

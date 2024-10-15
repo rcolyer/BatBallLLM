@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 20
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Banana costs 45 cents and magazine costs 2 dollars and 45 cents which totals up to 2 dollars and 90 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm totally sure of my answer because it makes logical sense and is mathematically correct.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Probably around 30%. Some people don't understand logic or mathematical principles required for solving this kind of question. Others may overlook an alternative interpretation and only focus on one aspect. For example, some would consider only the monetary value ignoring that there could be additional factors at play such as taxes etc.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: This seems like a trick question but if we stick with the provided information, then eraser must cost 10 cents since the difference between the total cost of pencil + eraser and cost of pencil alone amounts to 10 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: My confidence level remains high for this question as well since it's based on simple addition.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Given that the second question is more straightforward than the first, I believe approximately 50% might have solved it correctly. Again, there are always those who fail to consider all aspects of the problem or misinterpret the information given.

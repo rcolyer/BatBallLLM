@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 21
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Eraser costs $.10, Pencil costs $1.10 - $.10 = $1.00
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm very confident because if we apply basic arithmetic it turns out that eraser costs $.10, which makes total value $1.10, and then if we add extra $1 to the price of pencil as required in question, it will result in pencil's cost being $1+$1=$2. However, I know that pencil's actual value isn't $2. That discrepancy tells me that this is just a mathematical puzzle or a trick question where final value should be less than $2. But anyhow, my confidence level remains high as this is one of those classic riddles with predictable answers!
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Given how popular such riddles are among broad population groups and considering its seemingly simple nature, I would say that about 50-60% of people might get it right. This estimate comes from some previous experience with similar problems during math competitions back when I was still in school. Also, there are always some who refuse to play along due to suspicion regarding potential hidden tricks.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Banana costs $0.90. Simple subtraction shows it since we know the magazine's price ($2) and the combined price ($2.90).
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm completely sure because this time around no additional conditions were provided like before. So, I calculated straightforwardly based on the given data. If anything, my confidence level could be even higher if I considered myself an expert mathematician rather than just an average person trying to solve math problems correctly.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Given that most people can perform basic arithmetic operations, I would estimate that over 90% of people should get this right. Even those with only rudimentary math knowledge would likely arrive at the correct answer. But again, some might hesitate due to mistrust or doubt.

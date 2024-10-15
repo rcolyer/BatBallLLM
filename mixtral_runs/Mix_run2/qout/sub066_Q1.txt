@@ -1,0 +1,1 @@
+Banana costs $.45, because if you take away $2 from the total (magazine + banana = 2.90) it leaves you .45 which is the price of the banana.  I arrived at that answer through simple subtraction and by thinking about what a realistic price would be for something like a banana or a magazine.

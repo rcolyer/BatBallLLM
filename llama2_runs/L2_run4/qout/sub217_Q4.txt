@@ -1,0 +1,1 @@
+Let b be the cost of the banana. Then we know that b + 2 = 2.90. We can solve for b by subtracting 2 from both sides: b = 0.90. Therefore, the banana costs $0.90.

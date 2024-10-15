@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 20
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $.45, I used $b for banana price in terms of the $m magazine price so that I could set up $m = b +$2 and $b+m=2.90$.  Solving this system gives $b = .45.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%, I am pretty sure that my solution to this problem is correct; however, I realize that there can be a rare instance where my assumptions do not apply.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I believe that only a small fraction of people understand these types of problems, especially those without training in math or logic. Therefore, I think less than 1% will solve the problem.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $0.10, This problem has the same structure as the last one except with different numbers.  So, after finding that the answer to the first question was $.45 I could find the second answer by just taking $1.10-$1=$0.10 for an eraser.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%, because the numbers are different here I cannot make the same error I made on the previous problem.  Here the solution is simple so there should be no doubt.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I am very confident in my own understanding of this concept but believe that many people might struggle with this problem since it is counter-intuitive.  Because most people would only get part of this correct I would predict only about 30% will have the right answer.

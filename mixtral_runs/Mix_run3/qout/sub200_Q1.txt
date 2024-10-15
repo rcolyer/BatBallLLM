@@ -1,0 +1,1 @@
+Banana costs $0.45, Magazines cost $2.45.  Answer keyed in: 0.45

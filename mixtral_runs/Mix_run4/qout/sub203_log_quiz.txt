@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 42
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: I am assuming that the problem states, "A pen and eraser..." in which case if you have a total of $1.10, the pen would be $1 and the eraser .10 or one dime, thus answering the question correctly as long as it says 'pen'. If this were a trick question, please let me know.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 60%. People are often led astray by these types of problems
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Well now, since we already know the cost of the magazine, then the difference between the $2.90 would be for the banana. Thus, $2.90 - $2 = $.90, making the answer easy to find without any mathematical tricks or assumptions.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am absolutely sure that my answer is correct. I had no need to assume anything, so there should be no mistake with the numbers provided. I'd give myself 100%, although knowing humans as well as I do, something could always go wrong!
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Since we were given exact prices, and did not have to make an assumption regarding a word choice issue such as 'pen', which was corrected, I believe that this time more people will arrive at the right answer, probably around 75%. Of course I'm being generous. The truth might very well be lower due to human nature.

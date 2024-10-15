@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 24
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 100% certain that the answer is .10, as given by standard arithmetic.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Approximately 95%.  However, there may be an unusual situation where the participant thinks outside the box or interprets the question differently.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $.45.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: My first thought was to assume that the wording would require the answer to be a whole number, but I recognized that it could also be possible that it might not, so I went back and did the calculation again without the assumption, arriving at $.45 as my final answer, which seems right to me; therefore, I am 100% sure that this is the correct answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Given that there is a common tendency to want to round numbers, I think that only about 60%-80% of responders will get it correct; however, if I am correct in my initial interpretation of the question requiring the answer to be a whole number, then the percentage of correct responses may increase significantly due to responders’ intuitive desire to make a simple answer to an otherwise simple question.

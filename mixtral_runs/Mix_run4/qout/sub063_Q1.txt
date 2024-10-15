@@ -1,0 +1,1 @@
+$.45 (This answer comes from solving: x + (x+$2) = $2.90, so that $2x + $2 = $2.90, and thus $2x = $0.90, so that x = $.45)

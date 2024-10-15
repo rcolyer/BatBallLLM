@@ -1,0 +1,1 @@
+Banana costs $0.45 (found by solving for x where the Magazine is priced as (x+$2) and therefore the price of a banana would be ($2.90-$2.45)).

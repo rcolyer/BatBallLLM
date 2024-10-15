@@ -1,0 +1,1 @@
+The banana costs $0.70 and the magazine costs $2.20. I calculated it this way: If the magazine costs $2.00 more, then x (magazine) = b (banana) + $2.00 and then solving for x yields the solution: x=b+$2.00. Substituting into the equation a second time we get $2.90 = b + ($2.00). Solving for b gives us the solution above.

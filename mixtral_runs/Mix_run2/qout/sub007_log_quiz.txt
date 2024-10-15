@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: The eraser would cost ten cents because 1 dollar for a pencil + 10 cents for an eraser = 1 dollar and 10 cents together.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 90%, I am very confident in this answer, but I do realize it can be misconstrued since you could interpret a price as including tax.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 70%. I believe most people solve this problem correctly once they understand that we are just dealing with straight up costs and no additives such as sales tax or tip.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: The banana would cost fifty cents. If the magazine cost two dollars more than the banana then the magazine is worth twenty nine dollars and subtracting the two dollars leaves us with twenty seven dollars. Two dollars and seventy dollars are the costs before anything like tax is included so divide by half to get the cost of the banana which is fifty cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%, I am very confident because the question stated that it was dealing with the actual price of the items and not after any additives had been added so I feel that there isn’t an alternative answer that fits.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 60%. People have issues sometimes figuring out numbers especially when they’re told that one thing is some amount more or less than another, but once they understand exactly how many dollars are being discussed then they will likely be able to solve the problem correctly.

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 30
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: .10 (I used subtraction, not multiplication)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I would be totally sure if I hadn't just read that this question is testing me on my multiplication skills. Since I can only assume it wasn't really testing my arithmetic abilities, but rather something related to psychology or perception (or some other such field which I have no expertise in) then I am only fairly confident because of my misgivings about the purpose behind the problem.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 95%, as it seems a large majority could figure it out with simple addition/subtraction (though they may feel compelled to enter something else due to similar psychological or perceptive factors).
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $.90 (multiplied by two for comparison's sake)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I felt absolutely positive. This one made perfect sense.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Over 90%, but slightly less than last time. Most will answer correctly due to simplicity and intuition (at least compared to the first question).

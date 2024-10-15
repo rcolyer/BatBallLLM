@@ -1,0 +1,1 @@
+$0.10, This problem has the same structure as the last one except with different numbers.  So, after finding that the answer to the first question was $.45 I could find the second answer by just taking $1.10-$1=$0.10 for an eraser.

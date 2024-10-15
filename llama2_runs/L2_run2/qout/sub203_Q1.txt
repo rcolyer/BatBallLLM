@@ -1,0 +1,1 @@
+Let the price of the eraser be $x. Then the cost of the pencil will be $(x+1). Since the pencil costs $1 more than the eraser, we can write x + 1 = x + 1. So x = 1/2. Thus, the cost of the eraser is $1/2 or 50 cents.

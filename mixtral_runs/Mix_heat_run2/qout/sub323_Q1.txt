@@ -1,0 +1,1 @@
+The banana costs $.45, because if the magazine is $2.45 (which is $2 more than the banana), then the difference between the total price and the magazine price will give the banana price ($2.90 - $2.45 = $.45)

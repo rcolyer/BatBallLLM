@@ -1,0 +1,1 @@
+The banana costs 45 cents ($0.45) because if the banana cost X dollars then the magazine would be worth 3X and adding those values together equals $2.90.  To find out X, we just need to solve the equation where X + 3X = 2.90 (or 4X = 2.90) and divide by 4.   This leaves us with X = .73 which is then rounded down because pennies don’t exist in our society.

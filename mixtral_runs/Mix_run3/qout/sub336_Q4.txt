@@ -1,0 +1,1 @@
+$.10, because the question states that a pencil and an eraser together cost $1.10 but also says that the pencil itself is priced at $1 which leaves only $.10 left for the eraser price.

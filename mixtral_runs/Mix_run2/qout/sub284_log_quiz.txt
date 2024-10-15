@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 24
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It doesn't state that the eraser cost $.10. The answer isn't possible unless explicitly stated that the eraser cost $.10, in which case it would be $.10. Otherwise I don't think this question has a definitive answer without more information.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 75% because there was a trick possibility. If someone specified that it costs $0.10 then I would have said 100%. Since there was no specifics I had some doubt.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 35-55%. Most people would likely realize the trick aspect but wouldn't know if it was specifically asked for or just assumed, so they might second guess themselves on the answer and give an answer with lower certainty or possibly even a different answer altogether.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Banana = X dollars. Magazine is X + 2 dollars. MagX = BanX + 2 --> MagX - BanX = 2 --> X + 2 - X = 2 --> Answer is $.50
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%. I went through the math step by step and calculated the correct answer, making me very confident in my answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Around 75-80%. I feel like many people could make a simple algebraic equation or calculate out the difference between the total amount and the magazine cost. However if people don't realize that there needs to be an algebraic relationship between the two objects, they might have issues getting the right answer and may end up guessing instead, so therefore there will likely still be around a quarter who aren't able to get the question correct.

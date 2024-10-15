@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It depends on the initial price of the pencil and eraser as a unit before tax, but if it was $1.10 for both before tax, then the eraser would cost $.10 since taxes cannot change the cost of the objects individually. However, this question is ambiguous in its current state so I am unsure whether there were additional fees applied beforehand that I am not aware of.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 70%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 50%
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: The banana costs $.45 because if you add the two prices together ($2 + x = $2.90$) and subtract the cost of the magazine ($2 - $2 = 0$), then the cost of the banana would be $0.90. If the magazine is $2 more expensive, however, that means the banana originally cost $0.90 - $2 = -$.10 cents. This makes no sense as negative values cannot exist in terms of price so I assume it's a trick question or typo; therefore, my answer must be incorrect.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 0% due to the error in calculation.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Less than 20%. It seems most participants did not account for the discrepancy in their calculations.

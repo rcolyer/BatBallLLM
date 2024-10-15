@@ -1,0 +1,1 @@
+90 cents, because when you add the prices together you have to include the decimal points (in this case .9) instead of simply adding whole numbers.

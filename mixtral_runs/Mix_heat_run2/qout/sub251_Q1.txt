@@ -1,0 +1,1 @@
+Eraser costs $.05, because if Pencil=Eraser +1, then let Eraser = X so Pencil = X+1 =>X+1=1, hence, X = $0.05

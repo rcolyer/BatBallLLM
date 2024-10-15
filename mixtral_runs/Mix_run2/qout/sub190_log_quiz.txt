@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 26
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Ten cents ($.10) because the question states that a pencil and eraser together cost $1.10, so it only needs ten more cents for the total cost. If the pencil already costs $1 then the remaining amount must be how much the eraser costs.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am very confident. My answer is 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe 75% would solve it correctly but even then, some might second guess themselves after getting an obvious answer such as this.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Bananas normally cost less than magazines which usually come close to or over $3. So if the magazine costs $2 more than the banana it's easy to determine the cost by adding these two amounts up. This will equal the total cost stated in the problem. Since the total cost is $2.90, the value of $2 can easily be subtracted from that which will leave us with 90 cents ($.90). Thus, this must be the cost for the banana.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am very confident in my ability to get a right answer to this question based on the reasoning provided above. My answer is again 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Once more, some people might second guess themselves and therefore choose the wrong answer despite having determined its actual price. The correct answer here should still reach at least 65% however.

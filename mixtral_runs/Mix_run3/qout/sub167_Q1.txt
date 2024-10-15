@@ -1,0 +1,1 @@
+Eraser Costs $.05, Pencil costs $1.05. I arrived at this by setting up a simple equation 1 = x + y where x is the eraser cost and y is the pencil cost. Since the pencil costs $1.00 more then you subtract that amount from one which equals negative $.95. So the eraser must be positive $.05, and since the pencil costs $1.05 more, the pencil would cost $1.05.

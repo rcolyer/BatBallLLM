@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $0.10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 99%. I'm pretty sure that if they ask for the price of both, it would be $1.10.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: About 50%, depending on how carefully they read/understand the question. Some may assume both items together have the same price.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: It's hard to tell because they did not give information about either of their prices. However, assuming they did give enough information: Banana = X. Magazine is X+2. So 3X=6.3 or 3(x)=2.1 or x=$2.10/3. So x=$0.70. That makes Magazine=$0.70+$2.00. Mag=$2.70
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Well I did that math pretty fast. Probably around 95%. If it wasn't right, then at least one part had a mistake, and if there was an error, maybe someone can point it out so we all learn something from this.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Again, it depends on carefulness and comprehension ability, but maybe only 20-30%. Many will add up the costs without realizing that difference of $2 between magazine & banana, others just make algebra mistakes. It is hard for some because of how it presents the data, especially with multiple numbers thrown in as answers rather than separate questions with simple addition or subtraction involved.

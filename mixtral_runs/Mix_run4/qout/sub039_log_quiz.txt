@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: .10 or 10 cents. I know it seems like an obvious answer but when thinking in dollars, you usually don't think about decimals unless otherwise specified so I feel that sometimes, people forget there might be a smaller decimal value to add up. It also depends on how the question was phrased if this would be your response though.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 80%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 50%. While many may solve it correctly, some still struggle with adding cents.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: 45 cents because if you subtract two dollars from the total price, you get one dollar and ninety cents, and then divide by half again, getting thirty eight cents for each half which equals seventy six cents altogether minus forty five cents remaining for the banana. This problem took me longer to figure out than the last one as math is generally not my strongest suit but I made an educated guess and got it right.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 60%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 30%. There's more complexity involved here so less people would get it right.

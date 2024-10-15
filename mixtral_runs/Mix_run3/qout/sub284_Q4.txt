@@ -1,0 +1,1 @@
+Bananas can't cost negative amounts! (That was my initial thought upon seeing the question, but then I realized that there was nothing stopping me from using negatives, which resulted in an answer of $.45 cents for the banana.)

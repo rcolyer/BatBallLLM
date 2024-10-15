@@ -1,0 +1,1 @@
+Let p equal the cost of a pencil and e equal the cost of an eraser.  Therefore, 1.10 = p - e + p + e or 2p - 2e = 1.10 or p = .55 and e = 0.55 or e=$0.55

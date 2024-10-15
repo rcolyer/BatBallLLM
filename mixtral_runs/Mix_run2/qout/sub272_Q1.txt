@@ -1,0 +1,1 @@
+10 cents. It says that in the question that a pencil and an eraser together cost $1.10, but if the pencil costs $1 alone then obviously the eraser must only be 10 cents by itself since it’s just the remaining amount from the total price.

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $.45, because if I solve this in my head it comes out that if I take away $2 from the total cost, which makes the remaining amount equal to the magazine’s price (which was mentioned to be two dollars greater than the banana), it turns into $0.90 for both, meaning a ratio of three bananas (total) per $2. So then it just makes sense for each individual object (banana and magazine) to divide those $0.90 by 3, which results in thirty cents for one object (in this case banana) and ninety for another (magazine). But now since the banana has only cost me 30 cents so far, but needs to have 90 cents added onto it in order to balance with the magazines final price ($1.80 plus bananas 30 cents equals $2.10). In result, an additional charge on top of that thirty cent initial fee
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 80
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I’m actually rather unsure about the answer as a whole here; it seems to be pretty unrealistic to say what percentages of people might have answered correctly because it is more than likely determined by factors such as mathematical experience or level of education attained at some point prior in their lives, therefore, making generalization near impossible, though if forced I would probably place it around 70%, due mainly to high school level education being quite ubiquitous
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $0.10, since the previous answer had established my solution process with adding whatever extra was needed after taking into account subtracting $2 from $2.90, then continuing said procedure when applied here for an opposite result
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Assuming these questions follow similar distribution of responses found previously within the context presented above, perhaps upwards of ninety percent given simplicity compared against the first question

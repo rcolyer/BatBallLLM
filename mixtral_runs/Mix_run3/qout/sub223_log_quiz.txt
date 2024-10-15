@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 34
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10, because if the pencil alone is $1 then obviously the only thing left that it could have cost would be .10 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%, because even though I know the answer there's still like this little tiny fraction of a doubt in my mind for no particular reason... I guess just second-guessing myself!
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 75%. While some people might get it right they may also question themselves. Or, others who didn't think too hard or were in a rush could easily answer incorrectly. So I guess I feel like maybe around 25% won't answer correctly. But generally speaking I feel pretty good about this one - 3/4 correct.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Well I know this isn't going to be easy. If we work backwards then the magazine is $2.90 - $2 = .90 cents. And since the magazine costs $2 more than the banana that means the banana would need to cost .90 - 2 = -$1.10. But that doesn't make any sense because you can't have negative prices! So something must be wrong here. Maybe there was a mistake on my part? Let me think about this...
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 60%, I just don't know what to say anymore. Something has got to be wrong because a banana can't cost -$1.10! It might even be zero dollars if they gave it away with purchase, but definitely not negative! This one is confusing as hell though so maybe others will also be unsure too.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Well, I didn't get it right. I only got 4 out of every 10 questions correct last year when taking standardized tests - and these types of problems were included! Plus, sometimes people guess or misread. So yeah, probably like 15%-20%. These kinds of problems seem really hard.

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 28
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $0.10, it seems like the price would be the same as listed unless otherwise specified, so I went off the .10 being what remained after taking a dollar off of 1.10, so $1+$0.10=$1.10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 75%, although this answer might seem low for an objective question it was calculated because I second guessed whether my assumption was right or wrong because no other context was given but if it were an actual purchase then that's just what you pay, but since no information was provided I took a more conservative approach.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 95%
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $.45, this one was calculated by figuring out the difference between the $2 the mag. Costs and what is left after subtracting it from total price, $2.90- $2=$.90, divided into half as each item should be priced equally so $.90/2=$.45 each
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%, it is pretty clear cut that both items should have equal cost for the question asked and so the calculation follows suit
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 80%, it's an assumption but I feel like some might just assume it works like before because no other context or specific information is given unless they understand the math behind it

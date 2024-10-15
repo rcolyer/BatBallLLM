@@ -1,0 +1,1 @@
+This one seems tricky since usually an eraser is included for free with a pencil. But if we assume they cost separately, then it should be $0.10, because 1 + E = 1.10 -> E = 0.10.

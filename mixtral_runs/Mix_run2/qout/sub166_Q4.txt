@@ -1,0 +1,1 @@
+Eraser = 10 cents. I didn't even think twice on this one. It just took less than 1 second to solve the problem, since the difference between total price and pencil cost is evident here.

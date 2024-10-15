@@ -1,0 +1,1 @@
+At least 50%, based on other answers and an estimate of math proficiency, combined with an assumption that those who read "percentage" as meaning "amount as decimal/fraction", i.e. without any multiplication by 100 required, might have got a different value entirely (assuming the question asks about decimal or fraction values).

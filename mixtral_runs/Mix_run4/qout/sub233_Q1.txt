@@ -1,0 +1,1 @@
+It is given that a pencil and an eraser cost $1.10, but only the price of the pencil has been revealed as $1.  This implies that the eraser alone would cost the balance price which is equal to the total minus the amount for the pencil.  In other words, $1.10 - $1 = $.10

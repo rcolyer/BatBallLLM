@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 23
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: I'd say that the banana costs $0.45. To check, if we assume that the banana costs $x$ dollars, then we know from the problem statement that the magazine must be $x+2$. Together they add up to $2.90, so: x+(x+2)=2.90, or, 2x + 2 = 2.90, or x = (2.90 - 2)/2 = 0.45$, which confirms our answer.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am very close to being 100% certain about my answer to this question.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Based on my personal experience with math problems and similar issues I've seen others struggle with, I think most people would solve this one incorrectly; probably less than half will solve it right away. So my guess is about 30%.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: This is similar to the first problem. Let's assume that the eraser costs $x$. We know that the pencil costs $1$ more than the eraser, so $x + 1 = 1.10$, or $x = 0.10$. That means the eraser costs ten cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Just as before, I am virtually certain about this answer too.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I think many people should get this right since there is no trick involved, just straightforward subtraction. Maybe 75-80%.

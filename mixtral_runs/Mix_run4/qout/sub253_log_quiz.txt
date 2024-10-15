@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 28
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Eraser = .10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%. I know it's unusual to give such a high confidence level for such an easy problem, but my brain tends to like working through things logically until there's no question that something can be any other way. I think this one might just be me though as most people probably would have given less of a percentage if anything at all, since there's little reason to second guess oneself when dealing with numbers so small. It was only when I started looking at the answers afterwards that I noticed quite a few were different from mine, which surprised me since it seemed obvious to me what the correct answer should be. That said, while my initial thought process did involve checking to see if it was possible for the pencil price to be a whole number above $1, as well as confirming whether or not a zero-cent value could exist for either object before settling on my final answer, I'm fairly certain these weren't factors taken into consideration by
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe around 20%. However, considering how much time has passed since first seeing it and the fact that others might not approach it the same way I do, who knows? Perhaps even less than half will end up getting it right...
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Banana = $.90
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%. Once again, logic wins out over any potential uncertainty regarding unconventional pricing schemes involving perishable goods like fruit. This one seems rather straightforward too though; maybe more so than the last question since there's less room for interpretation here due to only two items being mentioned instead of three.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Probably close to 60%, given how simple it is compared to the previous question. But then again, people can be weird about prices when shopping, especially if they think they're getting ripped off, which could lead some to make mistakes. So perhaps slightly lower, but still well above 50%.

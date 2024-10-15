@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: .10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm completely certain.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Almost certainly most people will get this right because it has been seen as a trick question before and many have been warned against such misconceptions so I believe close to everyone if not all.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: It depends on the type of banana and also its condition, freshness...and maybe size..But in this situation just by observing their prices when shopping we know that magazines aren't too cheap while bananas might be affordable due to promotional sales thus it can range but an average estimate is approximately $0.45-.05 based off other products with similar value.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Pretty unsure at the time being; I can be corrected or informed to alter my initial thought since I cannot confirm anything as fact yet unless presented evidence otherwise.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Given different mathematical backgrounds for individuals worldwide there isn't a clear cut answer; however taking into account simple logic & intuitive reasoning capabilities then perhaps around 35-45% correct answers can be expected although I personally hope many do indeed solve it properly!

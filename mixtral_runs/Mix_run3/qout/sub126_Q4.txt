@@ -1,0 +1,1 @@
+$.10. The eraser cannot possibly cost more than the pencil when the two items together cost less than the price of the pencil. Using basic reasoning allows for an immediate understanding that the eraser can be no pricier than a dime.

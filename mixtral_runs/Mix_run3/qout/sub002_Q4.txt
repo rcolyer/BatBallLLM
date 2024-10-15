@@ -1,0 +1,1 @@
+Banana = x; Magazine = 2

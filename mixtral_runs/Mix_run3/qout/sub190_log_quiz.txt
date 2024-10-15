@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 26
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It is often said that this problem makes people feel a bit silly for missing something so obvious, but if you think about it in terms of price ratios the answer is straightforward. The eraser can't be $0.10 because then the total would only be $1.00, not $1.10. But the eraser also cannot be free, or else there would be no need for anyone to charge for one; if they did, they would have charged some small amount instead. Thus, the only logical solution (even though most people aren't very logical when confronted by questions like this) is that the eraser has to cost $0.05 to meet both constraints simultaneously.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Less than 30%, as per several sources.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: First off, let's find out what "x" stands for, by substituting it into the equation. "The magazine costs x dollars more than the banana" can be written mathematically as M = B + x. Therefore, our goal now is to isolate B so we know its value. To do that, we substitute our first equation into the second one. We get 2.90 = B + x. Since we also know that x = 2, we replace 'x' with '2'. Our final equation becomes 2.90 = B + 2. Solving for B gives us a result of B = 0.90, which means the banana costs $0.90 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%. I applied basic algebraic principles here, though it has been a few years since I took high school math. But still, my memory serves me well.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Less than 60%, because even though there's no trick involved like before, it requires some understanding of mathematics or ability to reason through abstract problems logically.

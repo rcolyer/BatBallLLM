@@ -1,0 +1,1 @@
+About 42% or lower would solve it incorrectly, and I'm assuming around 57% would answer it correctly because people think outside of the box here and realize the solution.

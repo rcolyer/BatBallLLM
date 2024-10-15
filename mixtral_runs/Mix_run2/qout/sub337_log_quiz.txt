@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 29
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: .10 cents
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 50% confident that this answer is correct because I just calculated it, but then I feel like the real answer might be 1 cent, so my confidence level is now around 40%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe 80% - I think people might overlook the fact that you can use the information provided in the question itself and they just try to come up with an arbitrary amount that seems logical.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: To figure out the price of the magazine we do $2 + BananaCost. And then since that's equal to $2.90, we subtract the $2 for the magazine, leaving us with whatever the price of the banana was supposed to be: $.90. Answer = .90 cents
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am very confident in this answer because it seemed to make sense logically and after I figured it out using the formula mentioned above I ran the calculations again on paper to confirm my results. So yeah, probably like 75%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 60-65%, maybe even higher if people paid enough attention or remembered doing similar problems before. I also feel that certain ages might perform better than others - such as older kids who have learned about equations and stuff like that in school would get it right more often compared to younger children. But again, it's just a feeling... I don't know for sure.

@@ -1,0 +1,1 @@
+To figure out the price of the magazine we do $2 + BananaCost. And then since that's equal to $2.90, we subtract the $2 for the magazine, leaving us with whatever the price of the banana was supposed to be: $.90. Answer = .90 cents

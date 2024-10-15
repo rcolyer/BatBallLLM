@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 37
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: $.05 (this was the right answer, most people enter .10 because they think in terms of splitting the difference)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am very confident.  If this were an interview for a job in math, then I might have second guessed myself and come up with $0.10 cents as my final answer instead of the $0.05 cents that I knew was the right answer!
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I believe that less than half of the participants answered this question correctly because when people first hear of this type of scenario, their mind immediately goes to divide or split the $1.10 amount evenly which results in incorrect thinking!
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $.90
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I feel confident in my response, but not completely certain because I did hesitate for a moment while trying to remember if I had any change or small bills left on me to purchase the magazine and a banana if I were shopping at the check out counter in a store!  If I did not have enough money to buy both items then there would be no reason to add them up to know the price total of these two things!
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Over 50%, but less than 75%.

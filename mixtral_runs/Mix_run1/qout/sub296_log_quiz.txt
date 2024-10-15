@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 23
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $.45
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I would say that I am about 75% confident in my answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I would think about 50-60 percent because some may make calculation mistakes or may guess if they don't know the actual solution.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: This seems like an error in the wording, but if we assume that the first sentence was supposed to be "A magazine and banana together cost $1.10," then .10 cents, or ten cents, as originally intended for the eraser price. But assuming that the initial statement was meant to remain, I suppose the answer would be a negative value. However, this isn't possible in reality since erasers can only cost positive values. So, with all this consideration, there is no solution since the statement defies logic.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Well, if we were to consider the scenario presented, which included an incorrect question format, I'd say around 35%, but given my knowledge of mathematical principles, I'm going to rate myself at about 90%. It really depends on what you're looking for here, though - am I simply applying logical reasoning based on what has been asked, or am I analyzing whether or not such questions should make sense at all in order to produce an answer? In either case, it seems as though the first problem has a valid numerical answer, while this second problem does not due to poor construction, so one must decide which criteria to evaluate confidence by.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Hmm...I would think that most people wouldn't notice the inconsistency and just plug in numbers like before, perhaps assuming it's another arithmetic sequence. But I doubt many will have figured out that no answer is possible without knowing that there was a mistake made when asking the original question, so let's estimate at only 25%.

@@ -1,0 +1,1 @@
+.90 cents. I arrived at this solution by subtracting the price of the magzine ($2) from the combined price ($2.90) then divided it by the price of the magazine ($2). Then I multiplied that decimal answer with the price of the magazine to arrive at the correct answer.

@@ -1,0 +1,1 @@
+$.10 because if we again denote the price of the eraser by x then the price of the pencil is x+.10 (due to sales tax), so x + .10 = 1 -> x = $.10.

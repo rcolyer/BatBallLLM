@@ -1,0 +1,1 @@
+At least 80% will give the answer as stated by me, but another part may use an alternative approach where they calculate how much of the whole should be assigned to the eraser based on the price of the pencil, which also gives $0.10 as a result, just calculated differently.

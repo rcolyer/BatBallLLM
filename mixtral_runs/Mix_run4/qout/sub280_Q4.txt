@@ -1,0 +1,1 @@
+Eraser = $1.10 (total cost) - $1 (pencil cost); Eraser = $0.10

@@ -1,0 +1,1 @@
+Let b be the price of the banana, then b-0.5+1 = b*1.43/30.511, i.e., b= 23/3.

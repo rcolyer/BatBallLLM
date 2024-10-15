@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 24
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: 90 cents, because that is what I am used to seeing in this problem type. However, if the magazine costs more than half of the total price, it could be argued that you need to take out one cent from each so the magazine costs $2.01 and then the banana would be $0.89. But that's not how I usually do it.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 50%, as long as there isn't anything wrong with my understanding. However, since it seems there was an alternative method, I wouldn't feel too sure about this particular example.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: About 75%. This problem has been discussed in other forums and many people get confused by it.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Eraser - 10 cents; Pencil - $1.10 (that is $1.10 minus 10 cents). This means that the total cost of the two items is equal to their sum: 10 cents plus $1.10. This would also mean that the pencil does not cost a dollar more than the eraser in absolute terms but rather in relative terms because they make up $1.10 between them. If that sounds like cheating or reinterpretation, then let me tell you that I got that answer after reading through the forum on that particular question. Usually, if I see that the pencil costs one dollar more than the eraser, I subtract 90 cents from that dollar figure to come up with a dime for the eraser.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Around 75%, based on what other people have discussed. It was surprising to learn about another interpretation.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: About 50%.

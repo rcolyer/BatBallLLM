@@ -1,0 +1,1 @@
+Let x be the price of a banana, then a magazine costs x+2 dollars. Accordingly, the sum of their cost is x + (x+2)=2.9. Solving for x, we have x = 0.95 dollars. That's my answer.

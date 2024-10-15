@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 24
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: I am thinking the answer is 10 cents because then the pencil would cost a dollar plus the ten cents making the total amount paid 1.10. I can't imagine an alternative scenario for this question that works out the same. If the eraser was a dime, as I initially thought, the pencil would have to be a dollar and ten cents which is not reasonable given my understanding of prices in stores where such items are sold. My answer is still tentative however as other alternatives may exist. Is this what you were looking for in terms of how I think about the problem and arrive at a solution.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I suspect roughly half of those who responded will provide the right answer. Many individuals may think the eraser costs only ten cents or, alternatively, that the eraser costs twenty cents and the pencil is therefore one dollar even though the latter alternative does not quite fit the conditions specified in the prompt. Based on my past experience, I do believe that around fifty percent of respondents should be able to work through the logic needed here and give the right solution.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: The banana is ninety cents because when added to the price of the magazine ($2) the total becomes $2.90 as requested. The difference between this question and the first one asked about a pencil and an eraser is that both amounts mentioned in the scenario add up properly to equal $2.90 whereas in the first situation the pencil's cost at $1 plus the eraser's ten cent cost did not seem reasonable so I had to figure out another solution. In the present instance no such reasoning was necessary given that all numbers simply add up correctly.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I feel 100% sure that my answer for the problem with the magazine and banana is correct.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Probably almost everyone will be able to get the right solution here given that everything just adds up properly without any need to think through alternative scenarios. There should not be much room for error unless someone mistakenly multiplies rather than adding numbers or misreads something but those cases ought to be relatively rare. Therefore, perhaps eighty five percent or more of respondents should arrive at the proper answer here.

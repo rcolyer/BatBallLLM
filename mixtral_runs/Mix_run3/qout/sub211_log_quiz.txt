@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 28
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: 90 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I'd guess 50% since sometimes I find myself getting distracted by seemingly irrelevant information and end up overlooking something basic like forgetting to account for tax or soemthing. But then again if it were a simple addition mistake like that it would probably be pretty obvious when reviewing one's answer afterwords... 75% might be closer then.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: The eraser costs ten cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 90%, but mostly just because I think its really easy for mistakes on problems involving numbers and even with all the time in the world sometimes things get missed... It seems obvious now though and I can't imagine being wrong unless I somehow accidentally transposed some digits or messed up my arithmetic.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: At least 90%. This seems incredibly straight forward since there aren't many opportunities for confusion here compared to other types of questions like ones about wording where information is given in English paragraphs or something, so if someone managed to make a mistake here I would guess they were probably distracted by something or maybe not fully paying attention...

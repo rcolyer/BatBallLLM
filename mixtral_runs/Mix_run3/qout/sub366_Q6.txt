@@ -1,0 +1,1 @@
+95%. This wasn't too bad but sometimes people can forget that they need to subtract and then get the wrong answer, or maybe add instead, which will also give an incorrect result. That happens enough that maybe only about 95% of people solve it right.

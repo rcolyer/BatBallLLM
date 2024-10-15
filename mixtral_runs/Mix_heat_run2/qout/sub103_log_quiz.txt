@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: 90 cents (0.9) or just 90 if that’s possible.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I was very unsure but after checking other places, i feel quite confident with my answer now. It is an easy problem, so probably at least 85%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: After some searching around on other blogs, etc., i have learned that most people do not think of change. Most get caught up in rounding, as the title of the problem seems to lead one there. So maybe 60-75%, unless those blogs are cherry-picked answers and then probably closer to 45%.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: $0.05 or 5 cents. Because $1 plus anything will equal above $1.10 unless it's 0.05 because of subtraction rather than addition.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 93% confident after I had double checked my math.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: This seems like an obvious answer when explained. If it was only obvious due to my explanation, maybe about 35%. If the thought process was simple to arrive at, maybe 85% or even 95%, as the first question with the magazine and banana proved difficult for so many people.

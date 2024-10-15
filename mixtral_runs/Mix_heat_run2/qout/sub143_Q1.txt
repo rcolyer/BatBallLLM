@@ -1,0 +1,1 @@
+$.05, I subtracted one from the total then divided by two to find the individual prices.

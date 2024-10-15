@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: If we solve it out step by step: The cost of a pencil - $ x; and Cost of an eraser – x minus some cents Let say that amount cents for eraseer (the cost) would be “c” (c=cost) So, when combining eraser’ and the price $x- c will cost us the value in this problem – i.e., $1 Therefore: (a)$X-$c= 1; We solve further step to bring “cost- c- 1”. Now substituting for X from one above formula and adding one. Ergo, x + x-(1) + x (the pencil): the two terms will result in $(3) + the remaining constant ‘(1). To summarize we get : Pencil price - cost = $3 ; Costs per piece pencils or an erase will not include costs: (C)=c/cost - cost So
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 80 %
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: About (70%)
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Bananas will be cheaper since I guess. Since this is a test that’s being given as a whole there was a good bit of emphasis in knowing if there's some logical errors to solve this and so my answer could have more logic errors in comparison with a typical day. So, it appears to me like there will definitely have been lots questions on logic which means one probably needs plenty time for these particular kind ones especially when they don’t require thinking so very fast- it does require much longer time due mostly lack knowledge or lack memory! Question might make no sense at first glace, but as soon read again one must comprehend the true implications
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: about(55 %) .The main problem why many questions get asked are: either they think question difficult or even impossible to grasp their understanding because those kind problems generally involves long list items need some type mathematics manipulation. Or sometimes people simply can never solve such tricky problems within short time limit. Also depends how far we willing push ourselves for solving any certain amount types issues in limited amount hours during normal day-to
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: maybe(63)  % will able find out quickly correct responses whereas some people probably didn't fully grasp everything written regarding solution method behind given information. So overall percent may remain somewhat uncertain until full analysis completed afterwards and compare scores of all students after examination ends !  So these type situations come out with high variability in solutions hence resulting in big ranges like [89-92].

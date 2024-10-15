@@ -1,0 +1,1 @@
+60%. While there will be some who solve this one right off the bat, there will also be those who round up or down. For instance, if they assume that a banana can't possibly be worth more than $1 then they would never consider that the magazine costs less than $2. They will think that it has to be at least $2 for their sum to come out correct, and thus end with a wrong solution.

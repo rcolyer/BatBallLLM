@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: 90 cents or 9/10ths or .9 or just .90 because they are different ways to write out a single concept...just as one would not say that '5' (written out as the number 5) is more than 'five.'
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100 percent
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I don’t know...perhaps 33%. Not knowing anything about those responding here...that percentage might change if the respondents were, for example, first year psychology students! But who knows. I might be totally wrong. If asked to predict percentages from some demographic sampling study, my answer would have been quite different...but that isn't relevant here so no point in attempting a guess.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Well...the first question was kind-of similar, but used money values for a magazine and banana. I had thought that maybe money might follow a specific logic of sorts--it did with regard to subtraction....$1 plus an amount greater or less would still yield whole dollar values only....not so here as $1.00 is involved along with smaller decimal portions. However...given the "costs $1 more," we are still working within integer values even if they are smaller ones than found on the dollar scale (involving dollars and cents). I didn’t really think hard, it took all of one minute and this is what occurred: P + E = 1.1; and P= E+1 ...from those two equations, we find E = .05; which checks out with both equations, because now, P = 1.05 ...so there you have it...but just realized it says the “eraser costs
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 75%. Maybe this has some math logic reason where it won’t hold true when tested but for my initial response it was intuitive, quick & felt pretty sure...then thought about the possibility of different outcomes...I wonder how others will respond
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Probably lower percentages than the previous problem--less people seem to be mathematically inclined (at least based upon self-reports when they include things like "hate algebra/math," "bad at numbers/equations etc.")

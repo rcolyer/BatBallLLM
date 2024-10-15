@@ -1,0 +1,1 @@
+Eraser= 0.05; Pencil= 1.05.  This seems unreasonable as an answer but I can't figure out another one.  Maybe I need to re-read it.

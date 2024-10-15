@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: (pauses) I guess fifty cents ($0.50)? Nope. Maybe it’s thirty cents? Ah! I got confused for a minute; that’d be 80 cents? Is this like one of those brain puzzles? But then shouldn't one plus five, you know what i mean…? Sorry let me rephrase: So basically they would both cost a dollar and ten cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Eighty percent or something
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Thirty? (I have no clue.) Um, ninety maybe...
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: What does a magazine and a banana even have in common with each other? Why would these questions just pop up out of nowhere without being prefaced as a series of brain teasers. They remind me so much of this TV show episode of Grey's Anatomy where they put on these puzzle competitions during meetings, kind of reminiscent. Uh.. Anyway yeah the first thought that comes to my head is seventy five cents (thirty plus two) since 29-75 equals two hundred right? Wait though maybe like there’d be like tax added? Is that what it is... Like thirty plus the fifty for some random fee added… And twenty is like what 6%? I should probably calculate things out... Yeah I feel like 6 percent because you get more when the base increases as well which would mean it'll also make sense for the difference of their values in terms of currency also not equal
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Ninety, close to a hundred. It’s really similar to the last question… I do remember learning something like this in algebra? Nope it was trig; you had like all sorts of different types of equations so then I could easily find missing measurements/values etc., given all that you just have to know or rather understand and see like how and where stuff fits with everything else to answer. The questions now make so much sense and connect the dots between math concepts like solving word problems using systems of linear equation which I've been working on these past couple months as part of my calculus class requirements… It feels a bit like déjà vu in that regard..
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Like ninety five I’d say but even more since people should definitely recognize patterns from their math experiences too if they take math regularly...

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: The banana costs $0.90, because $2 for the magazine plus $0.90 for the banana equals $2.90.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%, because I double checked my answer before submitting it.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Approximately 80%, but that is just an estimate.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: If the pencil costs $1 more than the eraser then it will cost $1.10. However, the entire price of these two items is only $1.10. That would mean that the eraser costs zero dollars, which makes no sense, as an item cannot cost nothing when there are other things affecting its value. Therefore, I will enter -$0.10 for my response, meaning the pencil must also cost a negative amount. It is impossible for anything to cost a negative amount; thus, the problem is invalid.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 0%. The question is ambiguous, because there is a contradiction between the overall cost and the individual items' values.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: At most, 5%. This is just speculation based on the wording of the problem, but I am pretty confident in my guess.

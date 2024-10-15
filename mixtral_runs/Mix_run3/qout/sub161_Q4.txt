@@ -1,0 +1,1 @@
+Banana = x; Magazine = x + 2. The total sum should equal $2.90; hence: x + x + 2 = 2.90. After solving for "x," I obtain: x = (2.90 - 2)/2 = .45. So, the banana costs $.45, while the magazine costs $2.45.

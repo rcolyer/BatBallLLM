@@ -1,0 +1,1 @@
+The Banana costs $0.90, if we add the $0.40 difference between $2.90 and $2.50 (the price after rounding) to the cost of the magazine ($2).

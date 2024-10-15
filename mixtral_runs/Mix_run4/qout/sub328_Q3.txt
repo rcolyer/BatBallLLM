@@ -1,0 +1,1 @@
+If they were able to solve for X in the equation (pencil price = x + eraser price, .1 = x - eraser price; adding these equations yields .1 + eraser price = x) then I think around 75-80%, assuming basic algebra skills. However, if people just estimated the difference between two numbers, without calculating it out explicitly, perhaps 50%.

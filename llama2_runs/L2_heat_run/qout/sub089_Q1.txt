@@ -1,0 +1,1 @@
+R, if $p denotes the cost of an eraser then $1 < 0 since the cost of pencil and eraser is > $1 and this violates transitivity for < relation so it should be irrational value like $root -7 and I just pick any one.

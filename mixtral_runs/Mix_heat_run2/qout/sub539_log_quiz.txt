@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: 10 cents
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%. It's clear from the wording of the problem that we don't have any additional information about either item other than the prices provided, so I based my answer on that information alone.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe like 65%. That seems optimistic though.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Ok this one I need paper for because fractions were never really my strong point... If the mag cost 2 dollars more then the equation would be X(mag)+Y(banana)=$2.90 with X being two more then Y right? Then divide by 3 since we're working in cents to get rid of those pesky decimals so... Y=$0.30 + Y/3=1 Y=30 cents... huh wait a second.... Yep it checks out!
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Well considering the logic I just went through there I feel pretty good about myself, 90% maybe? There could always something stupid I overlooked.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Considering most folks probably did some variation on simple addition and subtraction that they learned in third grade instead of algebraic division like me I'd guess less than 50%. Not sure how much though, call it an even 40%.

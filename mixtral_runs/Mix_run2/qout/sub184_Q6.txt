@@ -1,0 +1,1 @@
+80%. This seems pretty straight forward as long as you remember to subtract the cost of the pencil from the total price when calculating the price of the eraser.

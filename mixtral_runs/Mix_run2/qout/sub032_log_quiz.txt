@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10. Most people answer this question as quickly as the first one because they use intuitive thinking to add 1 and .10, however the real answer is that there was a sale so both items were actually marked down.  The store owner wanted to get rid of some merchandise. You can see this if you start to consider all possibilities and think more critically about it instead of jumping to an obvious conclusion.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%. I'm very good at critical thinking when presented with math problems like these.  My score on my ACT test for Math was a 32, which is in the top percentile for scores on standardized tests.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 98%, unless they don't read or understand the directions and skip over it.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $.45 cents because you would subtract two dollars from the total amount, leaving you with .90 cents, then divide by two in order to find out how much each item costs individually.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%. This type of math problem has been taught in schools for decades now, so even if someone doesn't have formal education beyond high school, they should still be able to solve this question without any issues whatsoever as long as they paid attention during their algebra classes.  It is basic algebra and I am quite proficient at it.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: At least 95%, provided that all participants took their time and thought critically about solving the problem instead of rushing through it.  Some people might make simple arithmetic errors due to carelessness but those mistakes can easily be corrected once pointed out.

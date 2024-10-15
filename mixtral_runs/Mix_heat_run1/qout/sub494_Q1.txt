@@ -1,0 +1,1 @@
+Eraser cost 10 cents, because if Pencil price= 1+Eraser, and Total cost = 1+10cents + 1 eraser= 1.1 then E = .1

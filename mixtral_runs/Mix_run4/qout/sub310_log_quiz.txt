@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 24
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: 30 cents because if it cost .10 then the magazine would be 3 dollars not 2 more than 30 cents but when I read this aloud to someone they said that's wrong so I did it a different way by setting up an equation and solved for x which means that the banana cost x dollars, thus the magazine was two dollars plus whatever the banana was worth, or 2+x, and since we know the total amount we can set it equal to the sum of both items: 2+x=2.9, solving for x tells me that x=.9 which means the banana costs ninety cents but I thought maybe you guys wouldn't want me to do it this way. So I just added 2 to .10 to get the price of the mag and subtracted the mag from $2.9 to find that the banana is indeed thirty cents, even though that method seems flawed because
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 67
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Ten cents. If the pencil was one dollar and the total was eleven dollars then ten cents must be remaining for the eraser, right? But again, I felt like something wasn't quite right with this solution so I set up another equation where the eraser was y dollars and used substitution because that's all I remember about algebraic expressions. This gave me Y=.1 and proved my first answer correct without having to rely on intuition or logic. It just kind of bugs me though when there aren't enough variables to solve for something because it feels like guesswork but maybe that's part of cognition too? Maybe sometimes we have to guess even if we don't want to?
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 98
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 85

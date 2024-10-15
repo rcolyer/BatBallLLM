@@ -1,0 +1,1 @@
+(a) Eraser = 50 cents, Pencil = $1.50; (b) Eraser = 45 cents, Pencil = $1.55; (c) Eraser = 60 cents, Pencil = $1.70; (d) Eraser = 80 cents, Pencil = $2.30

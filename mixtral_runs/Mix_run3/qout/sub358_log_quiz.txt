@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 21
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Banana = (Magazine - $2) --> $2.90 - $2 = $.90, Banana = $2 - $2 = $0. So, a free banana!
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm very certain that my answer is correct because the total cost of both items minus the price of one equals the cost of the other item left over. Confidence: 98%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I believe that many people who solve the problem incorrectly tend to subtract $2 directly from the price of the combined purchases instead of considering individual prices first. Given time limits or pressure, they might make mistakes and choose an option like $0.70 or $0.60. I would estimate that about 50-60% of respondents answer accurately if they think carefully before solving this type of question. However, under real conditions like exams where students feel stressed or rushed, the proportion of right answers could be significantly lower due to mistakes caused by haste and anxiety. It is important to remember that understanding the reasoning behind problems increases accuracy in decision making, which helps achieve more accurate results overall. If there were no time constraints at all, I expect that most participants would get it correct since everyone learns addition, subtraction, and logic concepts during their primary school education regardless of background or nationality. In summary, my best guess for an estimated percentage of
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Eraser = (Total - Pencil), So $.10 cents
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm very certain my answer is correct because it follows the same formula as above, taking away the price of one object from the total price. Confidence level: 98%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Given its simplicity, I would say around 90-95% of respondents can solve this question accurately if they pay close attention to it. But again, depending on test conditions or cognitive pressure, these numbers could change considerably due to human error induced by haste or anxiety. For instance, students who fail to understand mathematical concepts thoroughly during their formative years might struggle with problems like these under high-stress situations even if they grasp them well enough without any time limits. Therefore, accuracy rates could vary widely based on multiple factors, including educational background, familiarity with math problems, test-taking skills, mental health, etc. Considering all these variables, though, I believe that most people will get this right given adequate time and consideration. Estimated percentage: 93%.

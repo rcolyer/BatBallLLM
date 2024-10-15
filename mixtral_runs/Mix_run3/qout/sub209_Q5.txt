@@ -1,0 +1,1 @@
+Although the phrasing is slightly different than the previous question, my initial solution came up immediately as being .10, because the price difference was given directly in dollars rather than an indirect reference using subtraction. That's why I feel more secure in my answer here compared to the previous question. I would rate myself 95%.

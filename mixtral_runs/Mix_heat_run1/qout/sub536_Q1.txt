@@ -1,0 +1,1 @@
+10 cents. The price of the pencil was already mentioned, so it shouldn't be counted in this case.

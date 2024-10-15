@@ -1,0 +1,1 @@
+Eraser = $.05 Pencil = $.10 (this is one I've had trouble with since middle school and I still sometimes need to think twice about the logic).

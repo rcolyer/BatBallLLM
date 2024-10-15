@@ -1,0 +1,1 @@
+$0.90, Subtracted the magazine total from the total amount due

@@ -1,0 +1,1 @@
+$.05 (5 cents). The eraser is obviously less than one dollar because it only costs $1.10 total, so we know right away that 1-cents won't work since it would still be too much for the total, leaving .05 as the only alternative.

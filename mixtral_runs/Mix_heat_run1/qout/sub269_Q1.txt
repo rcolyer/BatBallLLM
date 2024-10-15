@@ -1,0 +1,1 @@
+.10 cents (or .1 dollars). If we let x represent the cost of an eraser then pencil=x+$1 which adds up to be equal to $1.10

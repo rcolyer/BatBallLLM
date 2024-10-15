@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 29
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: .10 cents, because if you add the one dollar for the pencil, then that's what it equals in total. I had to think about it for a little bit!
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I would say 85%. It took me a second to wrap my head around it and think through the logic but once I did, I was pretty convinced I had come up with the right answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Well I hope everyone else who got asked the question is as smart as I am haha...but in all honesty I bet some people might overlook the part where the pencil costs one more dollar than the eraser. Maybe 85%.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Easy. Ninety cents. The magazine costs two dollars and the banana has to be ninety cents for them to total up to 2.90.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Very confident! I'm getting good at these problems now that I have done a few of them. I would say 95%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Probably higher than the other problem because its a lot simpler but then again some people don't think logically even when its staring them right in the face. Idk maybe 75-80%

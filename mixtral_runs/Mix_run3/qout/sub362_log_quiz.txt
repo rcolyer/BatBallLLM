@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 27
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $.45 (because if a magazine costs $2.00 more than a banana, then they would cost $2.00+$0.45=$2.45 total.)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 100% positive that my answer is correct.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I believe 90% of those answering will get it right because it’s a pretty straightforward problem with one definitive correct answer.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: This question appears to have been designed similarly to the previous question, so the answer should be $0.10. However, that would mean there was no profit involved ($1.10 – $1 = $0.10). The store probably doesn’t sell anything for free, though, so an additional dime must be included somehow; therefore, both items cost a dime each: $.10 + $.10 = $0.20.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: My level of confidence has decreased significantly compared to the first question. I feel around 50-60% certain about my answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Because many people fall into traps set by misleading questions like these, I believe only half or less than half of them will solve it rightly—probably around 40%.

@@ -1,0 +1,1 @@
+I believe that at least 75% or more of people would solve this problem correctly, since the first instinct is usually to subtract one from the other. However, some people might be thrown off if they assume that both items have to cost the same amount, which isn't stated explicitly.

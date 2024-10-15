@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 25
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm totally sure that .10 cents would make up the difference between the price of a pencil and an eraser at a total of $1.10.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Based on my experience being asked similar questions in classes or when speaking to individuals, about 95% of people will say that the answer to this question is .10 cents.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Well since the magazine costs $2 more, you add $2 onto the $1 for the pencil and get $3, but we know the total cost is only $2.90. Therefore the banana must cost less than a dollar so that after adding the cost of the banana with $2, which should be greater than the sum, can equal out to the actual sum. So the banana must cost $.90.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am extremely confident in my response. If you try the math out step by step, you'll find that my answer makes perfect sense. It took some time, but if one works it out patiently they will discover why it is that the banana costs $.90.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Most individuals would be likely to make an incorrect guess at the price of the banana without even taking the extra effort to understand the true solution as I did. With this being said, perhaps 5-10 percent might solve it right off, maybe 40% given enough time or hints, and about 50-60% probably won't be able to figure it out, depending on their ability level with mathematics.

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 32
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: The eraser costs $.05. If a pencil is one dollar ($1) then that leaves fifty cents ($.50). If the eraser is five cents ($.05), then it makes sense because that's what the prompt says "the pencil costs one dollar ($1) more than the eraser."
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 97%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 30% or maybe less. I know some smart people who would answer wrong.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: It sounds like there's an implied discount if you buy both items at once; otherwise the question doesn't make any sense. You need the price for each item individually before you can add them up to figure out the total combined amount, but here they're only giving us prices for when we buy them as a set. So I'd say, assuming a fair price was involved: magazine $2, banana $.90. But given the wording in the question, I could easily be off by twenty cents either way depending on whether there were hidden charges (like tax) included in one price but not the other.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 75% because my logic is sound even though I have no idea what kind of store these things are being purchased from so it could potentially alter the outcome.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Less than half, maybe around 40%. It's tricky and most people don't read carefully enough.

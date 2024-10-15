@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Let p = price of pen, e=price of eraser Then p + e = $1.10 (equation 1) Also p -e = $1 (since we have been given that) (equation 2) Solving equation 1 for e gives e= $0.55 Substituting value of e in Equation 2 then gives 0+0.55 - e =$1 which leads to e= 0.45 Eraser therefore costs 0.45 cents while Pen costs a dollar plus another forty five cents, making its total price a dollar and forty five cents as well. Thus Pen-Eraser = $(1+(0.45/100))-(0.45) =$0.905.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 83
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Let magazine be m and banana be b. We know that m + b = 2.90, now since magazines cost two dollars, they have to cost twice the amount of the other fruit. This is because we have been told this information, so it follows that their ratio must be proportional with regard to the whole number given i.e 2. In order to solve for m first then b , we need to equate b with another variable such as x. Hence we know the equation for this case to be m+x=2.90. Since we want the difference between the magazines price, let’s subtract 2 which leads us to the equation m-2 =$0.90 . Solving for m we find it equals to $2.10 Thus m + b = 2.90 whereby B=$0.80 and M=$2.10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 73
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 54

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10 cents, because if the pencil alone was $1, then a dime would bring that up to the full amount of $1.10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I don't have a precise answer to this question. I would guess somewhere around 95%.  Most adults know their multiplication facts.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: 45 cents. Because if you subtract the 2 dollar price of the magazine from 2.90 dollars, that leaves you with 90 cents which is three times as much as one quarter, meaning it takes four quarters for 90 cents and one quarter equals 25 cents so one quarter of .90 divided by 3 equals 45 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'd say about 87%.  My arithmetic may be correct, but I'm not certain I've interpreted the instructions correctly.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: That's another tough question. It really depends on how many of them can do basic algebra and arithmetic accurately, plus whether or not they understand how to solve simultaneous equations. If these are high school students who have completed an algebra course, perhaps 80%. For adults without recent mathematical experience, maybe closer to 60%.

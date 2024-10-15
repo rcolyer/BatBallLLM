@@ -1,0 +1,1 @@
+If we can assume that the magazine and banana total up to be $2.90 and that the magazine costs $2 more than the banana then we know that $x + x + $2 = $2.90.  Therefore solving for $x, we find that $x=$0.45 and that the banana costs $0.45 and the magazine costs $2.45.

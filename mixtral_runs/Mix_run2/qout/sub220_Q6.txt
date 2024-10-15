@@ -1,0 +1,1 @@
+Less than 50%. The change in phrasing might cause some confusion among those who simply subtracted $2 from the total amount and got the wrong answer due to misinterpreting the word 'and'. Plus, the problem itself seems somewhat more complex compared to the previous one.

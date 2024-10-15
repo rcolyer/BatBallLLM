@@ -1,0 +1,1 @@
+It's like a proportion ratio problem so it'll be half since if one is $1 then the other is half at $.10 but due to decimal points rounding will occur as .10 goes up by .90 the original .10 becomes 0 because rounding takes place after you calculate the amount needed for both items making 0 be the price of the eraser but mathematically speaking its still $0.10.

@@ -1,0 +1,1 @@
+The banana costs $.45, while the magazine costs $3.45 ($2 more). This is calculated by taking $2.90 - $.45 = $2.45, which equals $2 overpriced for the magazine if the banana costs exactly $.45, hence, why the magazine should actually cost $2.45 less to match the sum. If it cost $2 extra, then $2.45 + $2 = $4.45, not meeting our condition.

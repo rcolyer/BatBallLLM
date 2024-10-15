@@ -1,0 +1,1 @@
+$.05, because if the pencil cost $1.05 then it would be $1 more than the eraser which was stated as costing $.05 in total

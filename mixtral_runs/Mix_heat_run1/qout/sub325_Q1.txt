@@ -1,0 +1,1 @@
+I know, it's a classic question that has been used in lots of research papers about cognitive biases. To answer this one, first we have to find out what the price of the magazine alone would be. So if the magazine costs $2 more than the banana, then the magazine would be priced at \$2+\text{price of banana}, right? Adding this to the \$2.90 total, we get:

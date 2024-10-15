@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: .10 cents
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm about 63% confident that this is the right answer, although if it had been described differently as $1 for both together instead of an initial total I might have seen things another way
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Based on what I know about other people, my estimate would be somewhere around 15%. But given my answer I guess there will now be fewer :)
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: I know they told us beforehand how much extra it costs for one over another but I honestly can’t remember exactly so I'll take my best shot at it again…the answer seems pretty simple just looking for a round number..maybe .90?
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I think this answer is closer to correct than my first answer was...it feels more like a solid intuitive feeling behind this decision so maybe about 84%, just slightly less so because if you did give me those same instructions about costs as earlier it might change up what numbers come to mind...but that wouldn’t make this an incorrect thought process by any means
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Just based off how hard I found both of these problems even with all the information presented up front, I'd put it at around 50%.

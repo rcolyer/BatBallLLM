@@ -1,0 +1,1 @@
+I believe approximately 75% of people answered the question correctly. Most people seem to be able to figure out that since both items cannot have a positive price without exceeding the total amount given, one must be zero or negative, which would still leave us with the required sum. However, I can understand if some people thought about this differently and concluded otherwise.

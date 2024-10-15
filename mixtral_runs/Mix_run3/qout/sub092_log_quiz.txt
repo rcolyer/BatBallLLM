@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Ten cents because the pencil already cost $1 which makes up the dollar eleven part of the price.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am pretty certain that I answered this right, but as my grade for mathematics has been declining rapidly in the past year, there could be a possibility that I have made an error. So, maybe something like 90% confident.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: If they had just one chance at the question without being told anything about what type of questions follow, then I think the majority of people will solve it correct. Maybe something like 75% will solve it correctly or more, although that seems a bit optimistic...
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: This is where my confidence level drops a little. I believe the magazine would cost $2 and therefore the banana must be 90 cents because $2 + 90cents equals 2.90 dollars. But something feels wrong here... I can’t say for certain, so let me give myself 80%.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am pretty unsure with only around 60% because something feels strange here as if I have made an error, but I can't figure out what could possibly be wrong with my answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Hmmm. Here my estimation drops quite a bit. Maybe 25% solve it right and the rest just says "I don't know".

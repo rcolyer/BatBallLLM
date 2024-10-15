@@ -1,0 +1,1 @@
+If the magazine costs $2 more than the banana, that means its price is equal to the cost of the banana plus $2. Therefore, if we add the prices together, we get the total cost of both items, which was given as $2.90. To find out how much the banana costs individually, we can simply subtract $2 from the total cost, which gives us $0.90.

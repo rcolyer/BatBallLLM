@@ -1,0 +1,1 @@
+Magazine = $2.50; Banana = 40 cents or $.40

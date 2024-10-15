@@ -1,0 +1,1 @@
+Let the price of the banana be x dollars. Then the cost of the magazine is $2. Since the magazine costs $2 less than the total cost of both items, we can write 2x + 2 = 2.90. Solving for x, we get x = 45 cents. Therefore, the cost of the banana is $0.45 or 45 cents.

@@ -1,0 +1,1 @@
+$0.05 (Given the phrasing of the second sentence, "the pencil costs $1 more than the eraser" I decided to work backwards from the total given, so instead I added $1 and $0.05 which total $1.05 and therefore, if true, contradicts the original statement of "$1.10.")

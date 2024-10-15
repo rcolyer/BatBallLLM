@@ -1,0 +1,1 @@
+Firstly, there seems to be an error with the problem statement since the combined cost should be greater than or equal to the price of either of them individually. Nevertheless, if we assume it to be true then it implies that the Eraser’s cost is negative which is impossible. Therefore, no solution exists for this problem as stated.

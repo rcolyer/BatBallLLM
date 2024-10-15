@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: The eraser costs .10 cents and the pencil is one dollar.  One dollar plus .10 equals $1.10, the price of both.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm totally sure, so that would be a hundred percent confidence on my answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I'm going to say seventy-five percent because there are probably some individuals who think only about the total value or that might be under the misapprehension that they must consider sales tax.  This could be confusing, especially if those answering don't realize that this problem was asking for a fractional price.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Okay. The difference between the two values is $0.90 ($2.90-$2).  It doesn't seem that hard. I just have to figure out how to divide that value by two... and now I see... That equals .45 cents, the correct value.  And the banana sells at full retail for fifty five cents more than the cover price!  Whoa... Did I get that right?
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: You know, that question makes me feel somewhat less than confident. But then, when it comes to mathematics, my self esteem usually takes quite a beating, even on easy questions, so let's try again and put a little faith behind my abilities; maybe like ninety-five percent confidence would work here.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Hmmm.. I suppose about one hundred percent if we consider myself to be human. Otherwise, if aliens answered, possibly thirty to sixty percent as they might approach problems in a different way and, as such, take longer or struggle with math, perhaps even considering that these sorts of math equations can vary across cultures or are specific to one area in which the mathematical concept is prevalent.

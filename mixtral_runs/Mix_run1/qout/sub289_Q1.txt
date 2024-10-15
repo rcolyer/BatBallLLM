@@ -1,0 +1,1 @@
+$.05, because if the pencil was a dollar more than the eraser that would mean if the eraser costed x dollars the pencil would cost x+$1 so .10=$1-$x+$1=2-$x $<=>x=\$0.05

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: The banana cost .90 cents (I figured this out by setting the equation 2.90-x=2+x where x was the price of the banana). I knew that if it were one dollar then the magazine would be 1.90, which added to a banana at 1 dollar still totals 2.90, so logically, .90 cents has to be what the banana costs).
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%. It’s possible for me to be wrong if the magazine only cost $2.70 or $3.10 because the problem states that the difference between the two items must be $2, but if we consider that an unlikely possibility due to the question’s specificity then I am sure that my answer is right).
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Probably around 85%, most of my classmates got it right and the ones who didn’t tried using simple math rather than actually solving the equation, resulting in answers like “The magazine costs $1” or similar incorrect responses).
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Ten cents. This one was just basic subtraction after knowing that the pencil cost a dollar (I knew this wasn’t the correct way to solve such problems but given how easy the last question was, I thought there would be no harm in using this method).
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: About 75%. I know that isn’t the right way to solve such problems but considering how easy the first question was and also because many people would make the same mistake, I believe my answer is likely correct, even if it’s logically flawed).
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Probably around 60%, based on how common an error similar to mine tends to be.

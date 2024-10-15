@@ -1,0 +1,1 @@
+$.45, because if the magazine costs $2 more than the banana, then it must be that the banana costs half the price of the magazine, which would make the banana $.45 (and the magazine $2.45).

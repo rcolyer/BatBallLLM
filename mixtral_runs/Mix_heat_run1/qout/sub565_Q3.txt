@@ -1,0 +1,1 @@
+75%. I have seen similar problems solved incorrectly, but never with the method described above.

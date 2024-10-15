@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: I think that it would be easy for people to fall into a trap here, thinking in terms of adding 1 dollar to something, rather than subtracting from 1 dollar. So let's try and avoid doing that.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 25%. Because they might get stuck in the same mindset as me, but never come out of it. It really depends on whether or not they notice their own mistake.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Oh wow, this is interesting because my first thought was actually to add two dollars to the one-dollar price tag from before, instead of starting fresh with the numbers presented in this question. Anyway, this time we can just take one dollar away from the total amount and conclude that the banana costs ninety cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I feel like this question requires less thinking than the first one, so I'm going to go ahead and say 99%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: At least 50%, probably more like 75%. People are generally pretty good at solving problems when they aren't being misdirected by previous examples.

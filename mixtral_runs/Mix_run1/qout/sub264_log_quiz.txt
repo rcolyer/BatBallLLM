@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 20
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Banana costs .45 cents because if you subtract the 2 dollars from 2.90, it will equal to the price of the banana at .90 cents, then divide that by two would make sense for a cheaper item such as a banana.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 75% sure.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I think only 25% answered it correctly.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: This question confuses me due to the fact that no extra information is given. It says a pencil and an eraser are together, but it doesn't mention whether or not they come in a pack. If they don't come in a pack, then there is nothing left over for the eraser after buying the pencil at $1. If they do come in a pack, it still confuses me because if the package was $1.10 and it includes a free pencil with purchase of an eraser, then yes, it would make sense that the eraser cost $.10, but if it says a pencil and an eraser costs $1.10, then my guess would be a dime ($.10) for each, making it .20 cents for both combined.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am only 40% sure.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 65% answered it correctly.

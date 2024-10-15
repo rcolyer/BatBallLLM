@@ -1,0 +1,1 @@
+This one is easier than the first question, since the magazine price is explicitly stated. All you need to do is subtract the magazine cost from the total cost to find out how much the banana costs, which equals $0.90.

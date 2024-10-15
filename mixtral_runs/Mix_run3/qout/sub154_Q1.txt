@@ -1,0 +1,1 @@
+Banana cost $.45, because if we say the banana costs x then the magazine would be priced as x+2 and given that the total cost is $2.90 we can create following equation: x + (x + 2) = 2.9 => x = .45 or $0.45

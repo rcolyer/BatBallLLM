@@ -1,0 +1,1 @@
+I think about 50-70 % will give right answer, because some might forget that they already have spent $2 on magazine before buying banana, so they will get wrong answer. But those who keep track of money will surely solve it right.

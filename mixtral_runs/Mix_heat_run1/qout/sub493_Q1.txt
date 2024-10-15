@@ -1,0 +1,1 @@
+Eraser = x, Pencil= x+1 , .90 + x + 1 =x so 2= x or $.90 cents +1 which equals $.90+$1 =$1.90...wait a second thats not it

@@ -1,0 +1,1 @@
+Eraser = $0.5, Pencil = $1.5

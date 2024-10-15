@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 27
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: 90 cents
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%.  I know that 90 cents plus 2 dollars equals 2.90 dollars, and that they were asking for the cost of one thing if another was X dollars, so I subtracted X from Y to determine the price of Z.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I think approximately 75%, but less than half of those might be able to give an exact mathematical answer, depending on what counts as "exact" to them.  That's because even though I can prove my solution, someone could still think the price of the magazine or banana is an approximation or rounded down or something.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: The eraser costs 5 cents and the pencil 1 dollar and 5 cents.  It's an error to assume there's only one correct answer when dealing with prices and money, unless you specify the range of answers you consider valid (for example, anything within 1 cent is considered okay), but most surveys don't do that and just say "How much does X cost".
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Approximately 85%.  In this case it seems fairly obvious, since otherwise the sum would only add up to $1 instead of $1.10, but if they used a weird price for the first thing that happened to fit a round number (say, a pencil and eraser for $1.74, where the pencil is $1.50 more than the eraser) then someone might think it was $0.23 or something like that instead of 6 cents, and that person would be wrong but still right within certain standards.  I know exactly what they meant this time, so my confidence is quite high, but I know it's possible to get even simple questions like these wrong, depending on the conditions.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Probably at least 90%, though there may still be some people who just answer with something random when asked "How much does the eraser cost", due to ignorance or lack of caring about the question.  There'll also be some people who will simply reverse the amounts due to misunderstanding the phrasing.

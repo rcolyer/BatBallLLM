@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Eraser cost .10 cents; Pencil would be $1.00
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am totally confident that the eraser cost .10 cents; Pencil would be $1.00.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Based on my experience in solving this type of math problems and watching other students attempt similar problems, I estimate that only about 12 % of responders would get the right answer if asked immediately without previous knowledge that this kind of problems exist and no calculator or writing tools provided.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Banana costs .90 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Totally Sure that Banana cost .90 cents.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: From my experience working as an after-school program leader in public elementary schools during which I interacted with approximately 500 children ages 8 – 12 for one year, and from observations made during two years while attending a prestigious university where more than 3/4ths of all undergraduates belong to families within the top quintile of household income, I feel safe estimating that 87 percent of those responding will say the banana is $.90; 11 percent will get it right and realize they were mistakenly drawn into thinking the pencil cost $1 more than it did but the banana was only .10 less; 1.5 % will answer $1 since their initial impulse wasn’t challenged or questioned when they arrived at “$1” for the first time (the eraser);.5 % might say some other amount that doesn’t make any sense based on the information provided.

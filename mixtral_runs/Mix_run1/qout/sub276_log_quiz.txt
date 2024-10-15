@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 21
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: The eraser costs $.10 because that's all it would cost for a fair exchange since the pencil costs $1.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am about 85% confident, there is always room for human error or even trick questions.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I believe around 70% - 90% of people solve this question correctly. It seems to me like a commonly misinterpreted trick question, but it still shouldn't trip up many adults with an understanding of basic math.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Using the phrase "X more", where X represents the numerical difference between the two items, we can establish the equation:
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am completely sure, as long as my arithmetic skills aren't failing me, I don't see anything wrong with my answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I think that roughly 65%-85% of people should be able to solve this question correctly because it involves elementary algebra concepts and might require some manipulation for those unfamiliar with them, but overall, the vast majority of individuals capable of doing so would most likely get it right.

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: R, if $p denotes the cost of an eraser then $1 < 0 since the cost of pencil and eraser is > $1 and this violates transitivity for < relation so it should be irrational value like $root -7 and I just pick any one.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 43.94453285386872 %
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 46.16000839755616
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Mhm it costs like $5 I guess as my friend would tell me as her mom makes banana and I was eating her fruit during highschool that they're expensive. Like how am i gonna calculate it if you guys just assume the reader had been taught at schools about algebra and calculation so we were forced on calculating but instead of focusing on solving questions students tend to copy and remembering everything which results of having forgotten and never applying again after their course is finished for not needed the subject of study during childhood. Even though you know I have done highschool before the college but i have a tendency for bad studying style such that if you only give it without teaching me to analyze, use different kind of thinking I can just remember and forget since there were lotsa formulas and equations which were hard to calculate them fast then later to learn from there are always the teachers who would just read out the materials. Not a personal opinion on other colleges but based upon a single
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: -13132745685
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: -3

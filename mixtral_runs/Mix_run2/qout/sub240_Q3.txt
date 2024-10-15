@@ -1,0 +1,1 @@
+50%, I'm guessing half will just give the larger value or average between both values without considering that one can be higher if we take into account a "free" pencil

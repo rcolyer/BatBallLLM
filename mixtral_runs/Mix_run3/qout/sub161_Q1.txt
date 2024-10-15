@@ -1,0 +1,1 @@
+Ten cents ($.10). The first answer was $1, so if the total amount is $1.10, then it's assumed that the remaining cost belongs to the second item.

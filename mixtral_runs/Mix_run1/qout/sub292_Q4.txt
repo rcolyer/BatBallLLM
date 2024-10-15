@@ -1,0 +1,1 @@
+$.10. Same logic as above but even more straightforward, if the pencil was $.20 more the sum would still only be $1.30, so there's no way for the eraser to be any greater amount than $.10 without throwing the question into absurdity.

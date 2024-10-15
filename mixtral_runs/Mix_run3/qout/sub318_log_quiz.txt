@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 20
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: 50 cents
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 90%. I can do the math and check that it's correct, so I'm very confident, but not totally confident because maybe there was some mistake or subtlety that I didn't consider.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe around 50% at most, because people will often think the total is 90 cents when they just subtracted 70 cents from 200 instead of adding it to 50 cents, so then they end up overthinking it and forgetting how addition works. They might also use rounding which would lead to incorrect results too. Also people who have never seen anything like it before won't even know where to begin, so they won't solve it at all.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: This problem makes me suspicious because I know that the difference between the sum and the pencil cost shouldn't be exactly the same as the price of the pencil. But if you take away the cost of the pencil ($1) from the sum ($1.10), you get 10 cents for the eraser, not 90 cents. If someone could explain why these values should be equal, maybe I would believe it, but otherwise I don't think it makes sense.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 0%, since my answer was just stating that there is something wrong with the problem.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Very few or none. Most likely they will think like I did and come up empty-handed. Even if they calculate that the eraser costs 10 cents, they might still suspect something strange about it and doubt their answers.

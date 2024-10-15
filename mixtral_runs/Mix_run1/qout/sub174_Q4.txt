@@ -1,0 +1,1 @@
+Banana cost 0.90 dollars or 90 cents because a magazine costs 2$ and total sum is 2.90$ so there is .90 difference between those two values.

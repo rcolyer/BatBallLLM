@@ -1,0 +1,1 @@
+This is simple addition; $1 + $0.05 = $1.05, but I am still not totally certain so only a 70%.

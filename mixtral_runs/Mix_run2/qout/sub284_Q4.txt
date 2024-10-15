@@ -1,0 +1,1 @@
+Banana = X dollars. Magazine is X + 2 dollars. MagX = BanX + 2 --> MagX - BanX = 2 --> X + 2 - X = 2 --> Answer is $.50

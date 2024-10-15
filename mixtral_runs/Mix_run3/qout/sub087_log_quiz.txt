@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 21
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $.45, because I set up the equation as follows (banana=x). Magazine is 2 dollars more so it must be x+2. Adding the two equations gives me x=$.45 or a banana costing this amount.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%, mostly due to my mental math being somewhat faulty at times.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 50%, based on research that only about half of students taking college algebra get the right answers.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: This question confuses me because the first one was about differences while this one is a change problem, so I'll say $.10 because I set up the equation as pencil price + eraser price = total cost; therefore, solving for the unknown eraser price yields .10 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 75%, again due to mental math.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I would estimate 65%. Again, my experience teaching algebra leads me to believe most people cannot handle problems where variables are unknown.

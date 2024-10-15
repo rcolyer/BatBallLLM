@@ -1,0 +1,1 @@
+I think many people solve this problem incorrectly because they fail to consider factors such as taxes and rounding. Based on studies I've read regarding numerical estimation skills I'd estimate that about 30% of respondents give the correct answer when faced with these types of problems.

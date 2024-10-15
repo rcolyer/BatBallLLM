@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $0.45, because the magazine would then be $2.45 ($2 + $0.45).  I know it’s a trick question so I checked that answer with some scratch paper first.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I feel like it has a low margin for error, but who really knows unless they run the experiment themselves?  So…75%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: If they understood the trick of adding the prices instead of subtracting them, which wasn’t necessarily obvious without thinking it through or knowing the solution already, probably something around 60-80% would get it right?
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Oh god, another trick one!  Let me think about it a bit…. Ok, it must be 10 cents because the pencil is already a dollar!
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Well, that one was more straightforward than the last so I think my answer of 10 cents is correct.  Still, things can go wrong even if it seems pretty straightforward.  So let’s say I’m 90% certain on this one?
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Not every problem is solved with the same thoughtfulness as the next, but it doesn’t take too long to see why this question has a very specific answer.  Therefore I believe quite a lot of people – maybe between 85-95% – got this right without problems.

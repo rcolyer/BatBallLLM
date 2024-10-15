@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 47
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It seems that you would think it costs .10 cents since the two items added up make a dollar eleven. That is how most people would think, but let’s consider another way to look at this problem. The real question we need to answer first is “what does the eraser cost in comparison to the pencil?” Since the pencil costs a dollar and the two items together cost $1.10, then that means the eraser must cost more than the pencil because the eraser has an additional dime on top of the one dollar pencil. So the eraser actually costs $1.10 and the pencil $1.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am totally sure.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I would say approximately 15%, though probably higher as people tend to think they know more about a subject than others even if their answers have been proven incorrect before.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: It would be easier to see if the numbers were bigger since decimal points are confusing sometimes. But I will attempt to solve this one without using a calculator.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I feel good about my solution but there could always be something wrong with the calculation so maybe 75%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Probably around 50% unless math isn’t their strong suit then likely lower than that.

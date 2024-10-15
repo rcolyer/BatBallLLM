@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It seems as though this problem contains a trick question, since if you add one dollar for the pencil plus ten cents for the eraser it doesn’t equal one dollar ten cents. So I would have to guess that either there was some kind of error in presenting the figures or the eraser also somehow costs one dollar (though if this were true it wouldn't make sense to buy both unless they had been discounted). In any case my answer is “I don’t know” -- but I can think of only two possibilities: that the eraser costs something other than five cents, or that there is no actual eraser.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 0% - My answer is more about the possible flaws in the question rather than what the correct answer should be, so I am totally unsure. If it were worded differently then I might feel different.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Based on my analysis I imagine very few will actually solve the problem as intended. So perhaps something like 2-5%. But given the vagueness of my solution, others may find it acceptable and respond with higher numbers.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: To figure out the price of the banana I need to subtract the difference between the magazine costing twice the amount of the banana. The cost would be: $2.90 / 3 (since $2 = 2/3 of $2.90); which is roughly 97 cents for the banana.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Perhaps 60%, though there could always be some error.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Assuming they can do the math and apply some logical thinking, then maybe something around 25% – 50%. But there will always be those who don’t consider that possibility, or choose instead to go with a default option (perhaps assuming a single dollar).

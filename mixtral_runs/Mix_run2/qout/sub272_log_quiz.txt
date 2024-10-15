@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: 10 cents. It says that in the question that a pencil and an eraser together cost $1.10, but if the pencil costs $1 alone then obviously the eraser must only be 10 cents by itself since it’s just the remaining amount from the total price.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%, because there is a .10 chance that I might have missed something small or overlooked some detail, although I highly doubt it since I read through the problem again carefully before submitting my response.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I think that probably around 80-90% of people answer this problem correctly because it's pretty straightforward and doesn't require any complex calculations.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: First, let me start off by subtracting $2 from the total cost which would mean the banana has to cost $0.90, because if you add that value back onto the original magazine price of $2, you get the new total amount for the magazine. Now I need to confirm whether this answer is correct or not...  Okay, so if the magazine really does cost $2 more than the banana, then when we subtract the cost of the banana (which is now $0.90) from the cost of the magazine ($2), we end up with $1.10, exactly as stated in the question. Therefore, I believe my answer is indeed accurate and complete.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 97%, because there’s still a slight chance that some part of the problem was left out or misstated somehow, even though it doesn't seem likely given how straightforward the wording was.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Honestly, I think most people probably answered this one correctly too, so maybe about 85-95%.

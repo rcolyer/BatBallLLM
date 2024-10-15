@@ -1,0 +1,1 @@
+90 cents, because the mag price ($1.90) minus the difference ($2), which is also the banana price plus the extra amount in the price difference, equals 1.90 - 2 = -0.10 and this would be the price of the banana, but because the problem asks for cents we must add a dollar and subtract one cent instead to arrive at 90 cents (which can still represent negative pricing).

@@ -1,0 +1,1 @@
+0.10, I just subtracted 1 from 1.1 and got .10.

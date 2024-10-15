@@ -1,0 +1,1 @@
+Let B represent the price of banana then Magazine price would be (B+2). Addition of these prices should equal total amount hence;

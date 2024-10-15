@@ -1,0 +1,1 @@
+More than half of people will be correct. Around 70%. Some still fail even though they have had multiple similar problems explained. It is usually the same type of error involving addition where a decimal value isn’t properly added because someone forgot to divide everything after doing an initial multiplication step first.

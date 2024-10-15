@@ -1,0 +1,1 @@
+Banana = price; Magazine = (price +2) = total - (banana+2)

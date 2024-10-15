@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 32
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: The banana costs $.90 (or $0.9) as we don't usually include cents in an answer if a dollar amount can represent it correctly).
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%. I know that two items whose combined cost is known, and one item's cost is also known, allows me to determine the other item's cost by subtracting its price from the total sum. In this case, I determined that the banana costs $0.90 ($2.90 - $2 = $0.90 or 90 cents), thus am certain of my response.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 90%, but probably many would say higher, assuming that only those who made the mistake of assuming that the banana had to cost either ten or twenty cents will have gotten this incorrect. Most will likely consider those responders simply having "made arithmetic mistakes."
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: The eraser costs five cents and the pencil costs $1.05 (or $1.05). I determined this answer with simple algebra; i.e., by expressing the equation for x as x + x + $.05 = $1.10 and solving for x in terms of dollars and then interpreting the result. This method resulted in x being equal to $0.05 for the eraser, and the total price of both items minus that equals $1.05.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%. As a professional engineer, I often deal with such problems and am familiar with this type of solution method, which is taught early in algebra classes, as well as used in my daily work.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Perhaps no more than 25%. Most might assume that they can divide the cost of one item by the difference between their combined cost, but those who cannot or do not immediately recognize that this results in an improper fraction would likely assume the eraser cost ten cents and thus be incorrect in their thinking. Even those who know they should solve for x and have experience in doing so may not recall exactly why they would do that in this specific case and may also arrive at the wrong answer.

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: .95 or 95 cents for pencil, then .05 cents or five cents for eraser = $1.00. Then, participant realized that there's another answer by considering pencil being only a dollar while the eraser was only five cents and stated "oh wait" and submitted another answer after being unsure for around ten seconds before giving answer. Participant also looked around the room, which may have been due to anxiety in changing their first response or distraction due to overthinking.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: After making the change from one answer to another, they were around 47% certain but said it would be 52%, which ended up rounding down to 50% as their confidence rating.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Around 75%
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: They answered without hesitation. The response given is correct at .90 cents, taking little time to answer and appearing calm.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: They stated being around 86% certainty and rounded that to 85%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Again with apparent certainty, participant responded with around 67% likelihood for accuracy among answers.

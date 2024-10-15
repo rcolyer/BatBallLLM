@@ -1,0 +1,1 @@
+25%. Not many people seem to realize that "the pencil costs $1 more than the eraser" actually means they're supposed to be subtracting that value rather than adding, which often makes them think that there are multiple correct solutions (of which there aren't any; since $1 is already being paid for the pencil, whatever amount the eraser cost must come from the remaining change).

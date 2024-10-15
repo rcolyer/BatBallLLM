@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 30
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Eraser - $.05, Pencil - $.10 + $.05 = $.15. Total $.05+$.15=$.20 not equal to $.10 provided.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 90%. It's obvious that there is some kind of error in the question. I am pretty sure it is wrong, but the numbers could be arranged in a way that make it work. However, no such solution has come to me immediately and so I feel unsure about my answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I would say that less than 40% of all participants get it right because this type of problems can easily mislead you. However, since most adults should know math basics and understand fractions, I suppose that up to 60-70% might solve this problem correctly if they read and understood it well. The problem for them would be rather psychological – many people fail to think logically in this case, while others might simply disregard the contradictory total price value given in the problem as an unimportant detail, which isn't supposed to affect their calculations. All these factors make the final estimation quite difficult, and I cannot give any precise number.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Banana - $.90
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%. It’s obvious and simple enough, so I don’t have any doubts about my answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: At least 85%. This task doesn’t contain any unexpected pitfalls or ambiguous statements like the previous one, so the majority of participants should easily solve it, though some may still miss or overlook the correct solution due to a lack of attention. Nevertheless, since the required mathematical skills are elementary, almost everybody who has at least completed primary education must get it right.

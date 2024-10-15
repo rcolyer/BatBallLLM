@@ -1,0 +1,1 @@
+After making the change from one answer to another, they were around 47% certain but said it would be 52%, which ended up rounding down to 50% as their confidence rating.

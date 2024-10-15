@@ -1,0 +1,1 @@
+90 cents.  If a magazine and banana together cost 2 dollars and 90 cents, and the magazine was 2 dollars, then by subtracting the magazine's price from their total price (which leaves the banana's price), it follows that the banana must cost 90 cents.

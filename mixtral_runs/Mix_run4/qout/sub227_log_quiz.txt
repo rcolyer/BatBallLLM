@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 29
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $.90 (90 cents)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 90%. It's an easy question so I was pretty sure of it.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe about 75-85%. Not everyone realizes that even though "nine" comes before "two" lexographically (when looking at it as a word), "2" is smaller than "9".
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: $.05 (5 cents). The eraser is obviously less than one dollar because it only costs $1.10 total, so we know right away that 1-cents won't work since it would still be too much for the total, leaving .05 as the only alternative.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: About 85%. If the first question taught me anything, it was that sometimes I think things that seem obvious are true when they really aren't. So I tried to think through it logically instead of just going with my gut reaction.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I would say around 65%. Some people might assume the difference between the pencil and eraser has to be a round number like .25 or .50, but if you actually do the math it becomes clear very quickly that can't be true since $1 is such a large difference compared to the total price of everything combined.

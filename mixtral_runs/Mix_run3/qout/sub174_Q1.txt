@@ -1,0 +1,1 @@
+Eraser - $.05, Pencil - $.10 + $.05 = $.15. Total $.05+$.15=$.20 not equal to $.10 provided.

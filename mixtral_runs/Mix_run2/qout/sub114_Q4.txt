@@ -1,0 +1,1 @@
+To find the cost of the banana subtract the price of the magazine from the total cost and then account for the fact that the banana is cheaper by $2.  So $.90 - $2 = -$1.10 which means the banana is $1.10 less than the $2 dollar magazine. Answer: the banana costs $1.80.

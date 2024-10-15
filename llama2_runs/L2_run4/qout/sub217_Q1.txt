@@ -1,0 +1,1 @@
+Let x be the cost of an eraser. Then, the cost of a pencil is x+1. Since they cost $1.10 together, we have x + (x+1) = 1.10, which simplifies to 2x = 0.10. Therefore, x = 0.05, so the eraser costs $0.05.

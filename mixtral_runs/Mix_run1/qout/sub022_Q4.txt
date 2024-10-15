@@ -1,0 +1,1 @@
+If the pencil costs $1 more than the eraser, then the eraser must cost a certain amount less than the pencil. The total sum ($1.10) can be split into two portions -- one portion being the price for the eraser plus some quantity 'x' which equals the difference in value between the pencil and the eraser. Using basic algebra, x+$0.05=$1. Thus, the eraser costs five cents.

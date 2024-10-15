@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: The banana costs $.45; many people make an initial mistake because they first try to subtract, but this leads to a non-integer answer, so you have to guess that the answer is really the reverse situation, where one value is three times another, giving you 3x + x = 2.90 => x = $.45 for the banana.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 87% I am slightly less sure than totally because there are two ways to do it - algebra or subtraction then division, which gave me an original wrong answer; and either method could be right, depending on interpretation.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 60%, although I think about 25% will come up with the incorrect answer of $0.20 based on arithmetic manipulations, without thinking about the conceptual meaning behind the numbers and operations, and the remaining 15% will choose $0.45 because, as I did, after discovering their initial solution was incorrect, they guessed at the right one, but weren't fully confident in their responses, so they will round down a little to indicate their uncertainty.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: This is similar to the previous question except that here you should automatically recognize that it can only cost ten cents, not a dollar, since if it were a dollar the pencil would have to cost zero. So this is basically just checking whether people are able to apply common sense and logical reasoning beyond mere computational abilities when solving these problems - which most can probably do unless they aren't really paying attention or are just guessing randomly at any old value (in other words, the problem requires both cognitive ability as well as motivation to engage in critical thinking processes). Answer: $.10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 98%, although technically speaking there might be some slight chance of an error occurring in my calculations, even though I know for certain that the eraser must logically be worth ten cents, regardless of how one arrives at that answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Over 90%.  The reason I didn't say 100% is because sometimes people misread or don't pay attention to what they're doing; also, there may be those who will make an arbitrary guess, or assume incorrectly that if the pencil were $1 then the eraser would be $0 (which, as we all know from elementary school days, makes no sense at all!).

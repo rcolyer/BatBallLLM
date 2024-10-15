@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 25
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $.45, because if I subtract it from the $.95 total for the banana/magazine price difference, this results in a $.45 value.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100% confident that the banana would be $.45 with the above reasoning.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: At least half to three quarters of people who solve the question correctly should get the banana's cost at $.45 since they have used the correct logic in solving this problem, but those who do not follow that line of thought could potentially be misguided by incorrectly assuming that the $2 cost difference includes the cost of the banana as well. Based on these considerations, I would say that maybe around 60-70% of people will answer it correctly.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: The eraser costs $.10. This is because if I take the total price of the items, which is $1.10, and subtract the cost of the pencil ($1), it results in the cost for just the eraser being $.10.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 100% certain about my answer, again using the method described earlier in order to determine the solution for the cost of the eraser.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Given how simple this question is relative to the previous one and its directness in solving for the cost of the eraser by following basic arithmetic, I would venture that at least 85-90% of people should be able to correctly solve this problem.

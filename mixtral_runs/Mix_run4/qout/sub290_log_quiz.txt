@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 29
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $0.45
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 60%.  I am not entirely sure since it could also be possible that they meant "$2 less" than the price of the magazine, making the banana cost 75 cents instead.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I think many would assume they meant "less", rather than "more", so probably around 30%
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It seems there might have been some confusion with my previous answer, or else someone edited their initial answers after reading further questions.  Here's what I missed initially...
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I believe most people would respond immediately without thinking about the question too hard, and therefore give an incorrect answer; however, assuming you meant that the eraser cost "cents" I will go out on a limb here and say 95%, for those who read the instructions carefully.  Of course, if the intended meaning was actually dollars (and again assuming they wrote it down without reading very closely) then the correct answer would be 0%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: As mentioned above, assuming the intent is for cents (which probably makes more sense anyway) I think that at least 80% will answer it correctly; otherwise, most people are likely to just assume that the $1 applies to erasers as well.

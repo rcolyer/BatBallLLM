@@ -1,0 +1,1 @@
+Well, at first, when you read the problem, I feel like many people will immediately say fifty cents and realize that's not right. So probably sixty percent will solve that one initially but then after realizing the mistake they'll recompute the answer so I guess seventy-five or eighty percent should solve it by the end.

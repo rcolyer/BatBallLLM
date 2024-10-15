@@ -1,0 +1,1 @@
+Let me see... The magazine costs $2 more than the banana so let's denote the price of the banana as x. Then the magazine would cost x + $2. Adding these two prices together should equal $2.90 hence we have an equation x + (x + $2) = $2.90 which simplifies to 2x + $2 = $2.90 therefore x = ($2.90 - $2) / 2 = $0.45. Therefore the banana costs $0.45 cents.

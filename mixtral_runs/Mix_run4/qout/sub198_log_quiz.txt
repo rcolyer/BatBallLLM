@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 31
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Eraser cost 5 cents, so pencil cost $1.05 (1.05+.05=1.10)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am totally sure at 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 40-60%. Mostly guessing, since it's an Internet poll...I would say most people didn't figure it out though. Maybe they are lazy and just move on instead of thinking about it for more time. It is easier to make a snap judgement that makes little sense if given enough information than to spend some real cognitive load on something like this, but doing this survey should encourage critical thought. I can only hope! :)
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: The banana costs 90 cents. The difference between total and magazine cost is $.90, or 90 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Again, I am completely positive on this one at 100%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Given the simplicity of the math involved (simple subtraction) and lack of misdirection in the question, I'd place it higher. Say 75-85%, since I'm aware some might still guess anyway even with an easy problem. I would be surprised to hear about anyone getting either of these two wrong...although maybe someone would reverse them.

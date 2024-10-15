@@ -1,0 +1,1 @@
+I'm going to assume a tax for the difference between two dollars and twenty nine cents is applied on top of the cost of the banana alone, so 90 cents would be the cost before the tax and 90 cents divided by the sum of 1 + .06(tax rate)= 94.5 cents. So the banana itself is $0.945, rounded to 95 cents for simplicity, which leaves me with 3 cents as change if I pay two dollars.

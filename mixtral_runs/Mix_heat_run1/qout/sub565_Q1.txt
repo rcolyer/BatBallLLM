@@ -1,0 +1,1 @@
+$.45, because if we let the price of the banana be x then the price of the magazine will be (x+2), so x +(x+2) = 2.90 -> 2x = 2.90 - 2 -> x=.45.

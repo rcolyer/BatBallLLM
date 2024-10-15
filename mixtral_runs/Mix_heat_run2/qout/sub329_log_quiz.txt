@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $.45, because $2.45 for the magazine and $2.45 minus 2 would equal $.45
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%, it seems right, because I did all that subtracting already so i can't really see any reason why that isn't the right answer!
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I have no idea about other people. Maybe they think like I do...maybe not! Probably 50%.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It doesnt. $1 plus $.10 makes a dollar ten and nothing was given back. You cant even add an extra penny to make .11cents cause thats still over by .09cents and they wouldve taken one of them off instead. Its trickery imo but if its got no solution then im pretty sure thats impossible
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 96% because maths has failed me for this question somehow so maybe there's a small catch im missing somewhere which would make sense idk, but im confident with what i came up with regardless
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: This is really tough tbh so like I said before ill guess around 20 or 30% cus i can see others making similar mistakes or assumptions like myself

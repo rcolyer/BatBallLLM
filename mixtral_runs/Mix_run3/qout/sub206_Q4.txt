@@ -1,0 +1,1 @@
+Banana = $0.45; Magazine = $2.45.  First, take 2.90 minus the 2 dollars for the magazine to find out how much the banana is worth.

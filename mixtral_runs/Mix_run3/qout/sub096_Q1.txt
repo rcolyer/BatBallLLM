@@ -1,0 +1,1 @@
+The banana costs $0.45, and the magazine $2.45.  You get this by setting up the equation as x+y=$2.90 and x-y=$2, so 2x=$5, thus x=$2.50 for the magazine and $0.50 for the banana.

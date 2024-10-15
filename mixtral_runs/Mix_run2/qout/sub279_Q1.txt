@@ -1,0 +1,1 @@
+$0.10. I am using logic for this question. If the total is $1.10 and the pencil costs $1, then it's obvious that the only remaining amount the eraser could possibly be is 10 cents.

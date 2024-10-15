@@ -1,0 +1,1 @@
+If we assume the price difference is only cents then I am rather confident my solution works out well. However if it was supposed to be dollars then this reasoning wouldn't apply anymore. For now I'll go with 70%.

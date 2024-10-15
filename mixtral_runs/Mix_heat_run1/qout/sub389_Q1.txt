@@ -1,0 +1,1 @@
+$.05 (cost of eraser) $1 (cost of pen) +$.05 (eraser) =$1.05, but then how could it add up to $1.10.  I don’t understand this problem, it makes no sense!  I think I am wrong!

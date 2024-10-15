@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 26
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $.45, because I immediately subtracted the price of the magazine from the total and then divided by two to find out what the banana cost.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%, this question was straightforward enough that if my first answer was wrong, it would have been due to lack of understanding, rather than calculation error or something.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Well, for students I'd say about 75%, since there seems to be some sort of pattern involved that might lead them astray, but for adults with no real bias I can see no reason why any less than 99% wouldn't solve it.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: This is also straightforward--it costs $.10, so obviously 100%.  This question also makes me wonder why the magazine/banana cost more than the pencil/eraser did, when both pairs are functionally equivalent...
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Again, I am 100% certain, as there was no need for complex calculations beyond basic subtraction.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Just like before, if people didn't figure this out then they must have been confused by the nature of the question or distracted somehow during their calculation process; otherwise they would get the right answer. So about 98% or so, just because someone somewhere might screw up.

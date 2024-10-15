@@ -1,0 +1,1 @@
+Okay, so if we assume that the eraser is worth $x, then the pencil would be worth $x+1. And since they add up to $1.10, we can say that x + (x+1) = 1.1. Solving for x gives us that the eraser must cost about $0.43. That seems kinda expensive for an eraser though...I don't know. Maybe I'm wrong.

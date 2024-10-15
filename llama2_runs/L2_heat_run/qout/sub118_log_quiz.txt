@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: [After calculating using his left hand] Hmm.. .85 cents
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: [He taps a number on the keyboard, after reflecting for several seconds] I say 70%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Oh I think that's like most math questions--easy for one person to solve but can throw off others! But really it's all about knowing shortcuts. My mom taught me to keep dividing something till the decimals go away..so I would bet over 50% know. Okay, I'll just choose 62%. 62-63 sounds reasonable enough.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Well first we subtract 2 dollars, so the banana costs $.90! Now I am thinking, is that cheaper than my fruit basket at work! Let's see..okay, .55-.90 yeah I can make a case for getting more nutrition than candy here. It may seem too simplistic at times, the whole banana cost question in these examples, because there is more to learn if you're going deep enough into the research methods used when determining prices and profits--and even healthier choices with the food industry, not as a distraction, but related, yes!
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: [Again taps in his percentage] So maybe..85% sure. Yes. This is not always a perfect logic question but it still tests some sort of memory and understanding I guess. I mean what is the goal of this survey...too simple for adults like me..maybe. Anyway yes I feel about..73-80% okay at this! :) Not all questions need to stump us either, like I could say some of these are like a mini reward for learning basic math. But that makes sense in my world so don't quote me exactly there please or tell anyone! They might see less value just answering one kind of problem, which has some validity. Yet I think most things come with a purpose..
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Now the magazine price has changed! Maybe there should be more variety then to increase its accuracy over time also. So I would guess the same though, around 62-63%.

@@ -1,0 +1,1 @@
+Eraser=10 cents; Pencil = $1+10 cents or $1.10. But since I cannot have two right answers, then Eraser = $0.10 and Pencil=$1.

@@ -1,0 +1,1 @@
+Banana cost $0.45. You subtract two from the total then divide by 2 to find out the banana cost. This way everyone pays $2 for the magazine and $0.45 for the banana.

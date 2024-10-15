@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 36
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: I think that this is a trick question. If it was me, I'd say the pencil costs $1 and the eraser costs ten cents because that fits both conditions. However, if you added those up you would only get $1.10 so that answer couldn't be right. So my answer would have to be something like .5 cents for an eraser and $1.05 for a pencil which would equal $1.10.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 85% confident. I feel that there may be a typo somewhere or another mistake but I do not see one and don't know where it could be.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 30% at most; possibly less than that. I would assume many people would guess and go with their gut feelings without checking for errors.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $0.90
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am completely certain about my answer because I have checked my math.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 90-95%. This question is easy because there is only one possible way to figure out the cost of the banana using simple subtraction. However, some people may round off so I'll allow for up to five percent error margin.

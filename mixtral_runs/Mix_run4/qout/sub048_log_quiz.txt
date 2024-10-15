@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $.90, since if one subtracts the price of the magazine ($2) from the total price of both items ($2.90), they arrive at a value of .90 cents for the banana.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm about 75 percent certain that my answer is correct. I did have some doubt about it initially.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Based on prior surveys, I would estimate that perhaps only 40-60 percent of participants arrive at the correct solution. It can be very tricky because it requires paying attention to small details, as well as critical thinking. However, it seems like people are sometimes in such a hurry when completing these types of surveys, or become distracted and don't think too much about their responses, which might cause them to answer incorrectly. Additionally, some individuals may not even bother reading the questions fully before answering, leading them astray.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Let "E" represent the price of the eraser. That means the price of the pencil is E + $1. According to the problem description, the sum of the prices of both objects is $1.10, therefore the following equality can be written: E + (E+1) = $1.10. If we solve for E, we find that the value is .05 cents (five cents), so the eraser costs $.05 and the pencil therefore must cost $1.05.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am entirely certain that my answer is correct because I worked through it systematically and checked to ensure that my final solution made sense given all available information.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Perhaps only around one-third to one-half of individuals who respond to this question will get it right, based on prior experience with such problems. The difficulty lies within interpreting what the phrase "one dollar more than the eraser" truly means. Many people might misconstrue it as implying a difference in price of a full dollar instead of merely meaning the price of the pencil being exactly one dollar higher than that of the eraser. Some individuals also seem unwilling or unable to invest sufficient mental energy to comprehend and resolve these types of questions correctly.

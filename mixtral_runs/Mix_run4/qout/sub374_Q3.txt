@@ -1,0 +1,1 @@
+30%, because most people forget that prices can be decimals.

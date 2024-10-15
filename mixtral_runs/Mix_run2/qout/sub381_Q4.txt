@@ -1,0 +1,1 @@
+This one isn’t too difficult either. The banana only needs to cost enough such that when you add $2, it should come out to $2.90. To calculate this, we just need to figure out the difference between the two items: $2.90 - $2 = $.90. So, the banana would cost $.90.

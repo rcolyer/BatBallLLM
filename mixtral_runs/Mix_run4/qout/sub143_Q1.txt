@@ -1,0 +1,1 @@
+$.45, this seems low but I did it the way that was suggested in a video (subtracting 2 from the total price).

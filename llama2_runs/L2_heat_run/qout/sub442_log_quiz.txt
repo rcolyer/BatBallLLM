@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 22
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: The eraser costs $0.95, making the pencil's total price $0.95 plus one dollar (which is its markup). That comes out to a grand total of $1.10, right in line with the original prompt's description of a pencil and an eraser being sold for the same amount.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Totally unsure about this problem. Maybe there are more variables at play? Maybe we need additional information before attempting any kind of solution? But then again...I suppose it could be relatively easy after all!
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: According to my research, approximately 25 percent of individuals responding were able to find the answer accurately; however, as someone with considerable expertise on mathematical equations like these ones here I'd estimate that nearly 70-80% or so will have gotten their hands around it quite easily if asked under ordinary circumstances--so maybe that should count too when computing overall performance figures, perhaps?
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: That must mean the banana was going to come out ahead by $0.90 then - sounds simple enough at first but actually isn't something anyone should really expect everyone else just get intuitively right away due its underlying complexities behind them both being priced differently (for one reason or another)...hmm.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm only about 60% certain about this issue since there might also be additional variables at play that require some analysis before making an accurate judgement call, so unfortunately I can't commit fully either way regarding whether it could turn out positively or negatively at present; further investigation is definitely necessary beforehand before drawing up any meaningful conclusions here though--but still generally I feel like these answers ought remain fairly reliable once all relevant factors are considered together within their specific context(s) involved!
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: As I previously suggested earlier above here too -- although again it must admittedly depend entirely on each individual circumstance given here which may vary greatly depending upon who was actually asked this same question elsewhere elsewhere -- then yes, maybe roughly around 80-95+% should hopefully get lucky enough eventually with getting through similar tasks smoothly assuming reasonable knowledge of basic mathematics required overall before tackling anything significantly complex along the way either though...so yes let me go ahead and stick my neck out here somewhat boldly perhaps nonetheless - 92%, final guess, okay then!

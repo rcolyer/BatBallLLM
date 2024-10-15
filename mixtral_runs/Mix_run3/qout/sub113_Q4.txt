@@ -1,0 +1,1 @@
+$0.05, again I assume that they won't round it because the eraser might come in fractions of cents.

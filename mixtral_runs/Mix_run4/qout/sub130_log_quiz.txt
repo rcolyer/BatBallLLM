@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 44
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: The eraser would cost $.05; a dollar less than the pencil’s $.65 price.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 95% positive that my answer is correct, although I could be proven wrong if it were found that an additional fee was included for the pencil or eraser.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: At least 90%, if they thought through both objects without getting hung up on initial misconceptions.  That is, I expect most responders would have realized that two items, each with its own distinct price, must total $1.10, with one costing a dollar more than the other.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: As with the pencil-eraser situation, I suspect at first some responders will add the two amounts for a total of $5, then realize that the total is actually only $4.90.  After considering that the magazine costs twice as much as the banana, I’d surmise that most folks will determine that the banana’s value is $.10; which seems plausible in comparison with other supermarket purchases.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: My certainty level has dipped just slightly to 93%; however, again I should emphasize that a minute fee might impact my conclusion.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: If they managed to disregard initial miscalculations, perhaps another 90%.  Of course, individual mathematical experiences would certainly skew results one way or the other.

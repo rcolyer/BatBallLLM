@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 36
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Banana = $2.90 - $2.00 = $.90 (It was immediately obvious to me that I could solve this problem in one step.)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 80% -- While my answer seems pretty clear, it did occur to me that there might be some additional information lurking that I don't know about, like hidden taxes or something...but I'm reasonably sure my answer's correct.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I'm going to go with 50%. I think quite a few folks won't make it past the initial impulse to assume the $2 refers to both items, which would lead them to conclude incorrectly that the banana is $1. But then again, quite a few others may just make this error without second thought!
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Eraser = $1.10 - $1.00 = $.10  This seemed very familiar because I remembered seeing similar word problems in a book somewhere. There was always a 'gotcha' at the end, so even though the problem looked simple enough, I felt compelled to look for the trick. And after re-reading the question carefully, it looked like there wasn't one -- unless it's a really cheap eraser!
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: My confidence is low right now; only about 60%. Even though my answer seems logical, I can still imagine that I might have missed something inadvertently, or simply made an arithmetic error.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Based on the previous experience, which led me to be more careful with this problem than I probably should have been, I think maybe half of all participants will get it correct. That leaves half who don't understand that there isn't a hidden catch in these problems, and half who will just make mistakes solving for the cost of the eraser.

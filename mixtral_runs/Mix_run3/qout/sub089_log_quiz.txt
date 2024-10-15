@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: ten cents because the difference between the two would be the price of an eraser, or a dime.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm fairly certain about this answer, but I also want to make sure that there isn't any trick question here...So I would say maybe 95%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe 65-70%.  There are those that think outside the box and go for another solution that might be wrong, and then those who do get it correct.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: It seems to me like it is easier to solve the equation by doing algebra with it rather than just guessing...It says "The magazine cost $2 more than the banana," so I can subtract one number from the other in order to determine what the difference is between them, which would be $2. I am not able to find out exactly the price of either of these items, however, because they have told us nothing about their relationship. But the difference between them is indeed $2...If the total value of the combination is $2.90 and you know the price difference between the two objects, you should be able to figure out the price of one item, but then again you don't know which one it is. I really don't feel comfortable answering this question without more information provided to me.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: In my ability to understand the question? Very high...But in my ability to answer it correctly without some other piece of information that helps clarify how these numbers relate to one another? Zero.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe ten percent at most; perhaps even five or lower.

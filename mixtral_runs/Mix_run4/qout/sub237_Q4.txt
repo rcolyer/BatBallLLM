@@ -1,0 +1,1 @@
+Eraser costs $.05 and the pencil costs $1.05; I did this one by looking at it backwards basically saying if the eraser costs x that means the pencil would have to cost a dollar plus x but you know that the total has an extra dime so you take out a nickel from both values and get your final values.

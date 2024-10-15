@@ -1,0 +1,1 @@
+Eraser costs $.05 because if a pencil costs $1 then the difference between the eraser and pencil would be $1 - .05 = $.95. However, it is given in the question that this amount is just $1 which means that the actual cost for eraser must be $.05.

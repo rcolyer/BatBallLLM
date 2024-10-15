@@ -1,0 +1,9 @@
+Subject,Group,Age,Gender,StandardProblem,CBType,StandardAcc,StandardResp,ControlAcc,ControlResp,StandardRT,ControlRT,StandardConfidence,ControlConfidence,StandardOpinion,ControlOpinion,StandardRecall,ControlRecall,StandardMC,ControlMC,LogStandardRT,LogControlRT,LogRTdiff,Confdiff,Opindiff
+0,SONA,18,Female,PE,1a,1,0.05,1,0.9,53.242,17.083,0.99,0.99,0.99,0.99,1,0,1,0,1.73434,1.25727,0.477065,0,0
+0,SONA,18,Male,PE,1a,1,0.05,1,0.9,53.242,17.083,0.99,0.99,0.99,0.99,1,0,1,0,1.73434,1.25727,0.477065,0,0
+1,SONA,18,Female,PE,1b,1,0.05,1,0.9,374.151,206.036,0.9,0.9,0.5,0.9,1,0,1,0,2.57421,2.31605,0.25816,0,-0.4
+1,SONA,18,Male,PE,1b,1,0.05,1,0.9,374.151,206.036,0.9,0.9,0.5,0.9,1,0,1,0,2.57421,2.31605,0.25816,0,-0.4
+2,SONA,18,Female,PE,2a,1,0.05,1,0.9,53.242,17.083,0.99,0.99,0.99,0.99,1,0,1,0,1.73434,1.25727,0.477065,0,0
+2,SONA,18,Male,PE,2a,1,0.05,1,0.9,53.242,17.083,0.99,0.99,0.99,0.99,1,0,1,0,1.73434,1.25727,0.477065,0,0
+3,SONA,18,Female,PE,2b,1,0.05,1,0.9,374.151,206.036,0.9,0.9,0.5,0.9,1,0,1,0,2.57421,2.31605,0.25816,0,-0.4
+3,SONA,18,Male,PE,2b,1,0.05,1,0.9,374.151,206.036,0.9,0.9,0.5,0.9,1,0,1,0,2.57421,2.31605,0.25816,0,-0.4

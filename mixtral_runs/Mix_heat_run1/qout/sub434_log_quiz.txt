@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $0.45, because $0.45 + $2 = $2.90.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 100% confident in my answer, as this seems like it must be correct based on simple subtraction and addition principles.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 67%, as many individuals would understand basic math and find this type of question straightforward; some will solve this intuitively while others might calculate an accurate response.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: My immediate answer is that the eraser would then cost ten cents, but my confidence is now only 80%, due to recent studies which suggest our brain can often perform such calculations quickly using shortcuts called "heuristics," resulting in mistakes; upon second thought I may be making the same mistake, because there may not have been a predetermined price for each item initially, rather one was created when they were bundled together at this particular value - hence requiring a bit more thought or review, though I think most will assume incorrectly based upon the initial layout of this information, since that's likely how the information came about initially (with separate costs already established).
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 80%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Around 33%. Since we don't typically use heuristics with this type of problem setup and need additional reasoning steps, even if participants do arrive at correct answers some might not feel secure in their methods, causing lower overall scores than those seen earlier.

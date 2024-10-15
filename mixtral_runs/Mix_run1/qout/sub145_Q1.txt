@@ -1,0 +1,1 @@
+$.10 cents (I figured that if I subtracted the price of the pencil from the total, it would show how much the eraser would cost.)

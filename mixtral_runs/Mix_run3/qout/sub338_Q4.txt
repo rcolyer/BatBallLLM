@@ -1,0 +1,1 @@
+Well since the magazine costs $2 more, you add $2 onto the $1 for the pencil and get $3, but we know the total cost is only $2.90. Therefore the banana must cost less than a dollar so that after adding the cost of the banana with $2, which should be greater than the sum, can equal out to the actual sum. So the banana must cost $.90.

@@ -1,0 +1,1 @@
+This one should be easy enough, just subtract the price of the pencil from the combined price.  So $1.10 - $1 = $.10.  While there could always be errors in computation, I'm fairly confident about this response.

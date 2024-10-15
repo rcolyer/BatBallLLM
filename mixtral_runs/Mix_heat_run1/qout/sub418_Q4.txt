@@ -1,0 +1,1 @@
+This requires solving an equation: banana = X; Magazine = X + 2. Then setting up an equation with the known costs: 2.90 = X + (X + 2). Solving this equation yields a value for X: the Banana costs .90 cents.

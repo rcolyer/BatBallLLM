@@ -1,0 +1,1 @@
+The banana cost .90 cents (I figured this out by setting the equation 2.90-x=2+x where x was the price of the banana). I knew that if it were one dollar then the magazine would be 1.90, which added to a banana at 1 dollar still totals 2.90, so logically, .90 cents has to be what the banana costs).

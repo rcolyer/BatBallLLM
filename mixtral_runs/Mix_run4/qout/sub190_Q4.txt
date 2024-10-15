@@ -1,0 +1,1 @@
+First I subtracted the value of the magazine from the total value, which gave me 90 cents; then I divided the value of the banana into quarters, getting a result of 22.5 cents for the banana.

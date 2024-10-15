@@ -1,0 +1,1 @@
+I'd say that the banana costs $0.45. To check, if we assume that the banana costs $x$ dollars, then we know from the problem statement that the magazine must be $x+2$. Together they add up to $2.90, so: x+(x+2)=2.90, or, 2x + 2 = 2.90, or x = (2.90 - 2)/2 = 0.45$, which confirms our answer.

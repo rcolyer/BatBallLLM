@@ -1,0 +1,1 @@
+Let p be the price of pencils in cents and e the price of an erasor, then 5e + 4 = (1 + e), so (4+e)(4 - e) - 28=0.  Taking e = $2 makes no sense because then the equation 225/(75/736) > e isn't satisfied, so we take the smaller solution, e=96.

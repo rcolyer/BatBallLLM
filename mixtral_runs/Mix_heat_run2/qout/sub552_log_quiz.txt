@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: .45 cents
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm not very confident at all because they only give two answer choices, which is kind of frustrating since there must be something I didn't get right... So I think that it was just trying to trip me up but maybe that was wrong and I don't know for certain now what the actual price of the banana is or if my calculation is correct, so I guess around like a 75%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Well I feel like a lot of people probably made the same mistake as I did with just taking half of the total amount to find out what each one costs instead of doing the math where the magazine costs twice as much as the banana, so I'm going to say maybe like 30%.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: This question seems way too similar to the previous one. It makes me think that they're testing whether or not I would fall into the same trap again. So considering that possibility, I believe that there might be some hidden meaning in these questions intended for me to realize my prior error. That being said though, based on surface level understanding without making any assumptions about intent behind the wording of the problem, then mathematically speaking, the answer would simply be 10 cents because subtracting the price of the pencil from the overall total gives you the cost of the eraser. However if we are indeed supposed to recognize the similarity between this question and the last one and thereby infer that our first instincts could possibly be incorrect due to previously falling victim to such a trickery, then perhaps it is safer to assume that the true answer lies somewhere beyond simple mathematical calculations.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Like I just explained, I arrived at my answer through basic math, but taking into account the fact that these questions seem designed to catch people off guard, I feel slightly less certain than before, so maybe around 70%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Since these problems seem to be aimed at testing whether or not someone recognizes patterns and thinks critically about potential traps within the wording, then depending on how many people fall for the same trap as before, the success rate could vary greatly. But considering the fact that most people probably won't even consider the idea that there might be hidden meanings behind seemingly straightforward questions like these, I suppose the success rate might end up being fairly low. So, assuming that pattern recognition doesn't come naturally to everyone, I'd say only around 40% will solve it correctly.

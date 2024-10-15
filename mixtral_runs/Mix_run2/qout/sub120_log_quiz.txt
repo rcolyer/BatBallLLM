@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: .90 cents because if the magazine is two dollars more than the banana then it must be 2.00 plus .90 equal 2.90, which is what the pair costs.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%.  I'm pretty sure that my answer is correct.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 75%. Most people who answered this question thought about it for a few seconds before giving an answer.  If they didn't know the answer they would have had no way to figure out the right price for the banana.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: This question seems wrong... I mean how can the pencil cost one dollar when the pencil and eraser together only cost one dollar ten cents? It doesn't make sense!  But, if we assume that there is some kind of mistake in stating the total cost then the eraser must be ten cents because that would add up to 1.10.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Only 60%. I don't believe the numbers are correct, so my answer is based on an assumption.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 25%. Many people would probably give up trying to solve it after realizing that the stated total cost is too low, which means their answers will be arbitrary or nonexistent.

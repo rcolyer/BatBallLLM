@@ -1,0 +1,1 @@
+I would guess around 60-75%, since it’s an easy problem but some folks get stuck on linear thinking instead of thinking abstractly about subtracting one from the total sum.

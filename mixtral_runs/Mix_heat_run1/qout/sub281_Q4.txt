@@ -1,0 +1,1 @@
+$0.45 for the banana.  Again I just used arithmetic; added two to .90 and then divided by two.

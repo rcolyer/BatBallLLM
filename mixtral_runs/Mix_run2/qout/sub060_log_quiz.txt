@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: The answer that was input was “$0.10”. I got this one wrong because I thought about it in terms of dollars, not cents, which means if you take away 1 dollar for the pencil, then you can divide up the remaining change ($0.10) between the two items any way you want since the problem never specified a particular breakdown of that amount, so logically both the pencil and eraser could technically cost $0.05 each.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Since the previous answer was actually incorrect even though I had full confidence in it at the time, I feel like my confidence level should be lower now because apparently math reasoning skills aren’t as solid as they once were, but on the other hand, the question asks for current feelings, so based solely on my current assessment of my abilities in solving these types of problems without double-checking myself or doing further calculations beyond what initially came to mind, I would say around 70%.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I don’t know exactly what percentage of people solve this type of problem correctly offhand, but given that most people have some basic understanding of arithmetic principles, I would guess that at least half get it right, probably closer to three-quarters overall when you consider those who might take a moment to reconsider their initial answers if needed. So maybe somewhere between 65% and 75%.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: This one is easier than the first question, since the magazine price is explicitly stated. All you need to do is subtract the magazine cost from the total cost to find out how much the banana costs, which equals $0.90.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: After double-checking my work this time, I can confirm that my answer is indeed correct. Given the simplicity of this problem, I feel 100% certain about it.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Considering again that most adults have a decent grasp on basic arithmetic concepts, I would think an overwhelming majority gets this question right without much trouble – probably north of 90%, potentially even higher.

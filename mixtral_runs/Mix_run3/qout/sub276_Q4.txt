@@ -1,0 +1,1 @@
+Let's say B equals the price of the banana. If so, then the magazine costs $2+B. Thus, $B (banana) + $2+B (magazine) = $2.90, or 2B+$2=2.90. Solving for B (the price of the banana) yields an answer of $0.45 -- as opposed to the incorrect "obvious" response of $0.55 (i.e., subtract $2.40 from the total amount).

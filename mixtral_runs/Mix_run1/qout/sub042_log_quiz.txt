@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Eraser is $0.05, Pencil would be $1.05 but it was stated that pencil was $1 more so there must have been an error in the question as written
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am very unsure. I do not think it is possible for the problem to exist as presented. There is an inconsistency which renders the question useless.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Since it appears the majority did solve it mathematically, I will go with 80%
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Banana is $.90
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I feel very confident since this one made mathematical sense
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Given that no mathematical impossibility was created like before, I would guess 95%. People might be confused if they were thinking about splitting costs for the items rather than just paying the actual total prices. But even then, that error would lead to an answer that is only off by $0.05 so maybe that would still count as correct to some folks

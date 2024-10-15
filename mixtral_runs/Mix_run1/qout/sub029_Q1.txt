@@ -1,0 +1,1 @@
+The banana costs $.45; many people make an initial mistake because they first try to subtract, but this leads to a non-integer answer, so you have to guess that the answer is really the reverse situation, where one value is three times another, giving you 3x + x = 2.90 => x = $.45 for the banana.

@@ -1,0 +1,1 @@
+If a pencil costs $1, then the total cost of the pencil and eraser must be less than $1.10. I would guess that the eraser costs $0.05.

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 19
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: The banana costs 45 cents, because 1 dollar less than the total price minus 2 dollars for the magazine equals 45 cents for the banana.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm about 80% certain in my response. I feel like if this was an exam question then it might be considered wrong, but I can't think of any other reasonable answer that fits within what the question describes.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I want to say around 70%, since many people could make the mistake that I did initially, but once they see that their first response isn't logically valid, then they would have likely re-read the problem carefully enough to understand it.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It costs ten cents. You don't need to subtract one from one to determine the cost of the eraser; it simply says the price together is $1.10 and that the pencil itself already costs $1.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm 100% certain about this question because it specifically states both objects' prices separately.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Given how clearly the second question was stated with no room for ambiguity, I'd say at least 95%.

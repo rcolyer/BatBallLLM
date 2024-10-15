@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 23
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: The pencil costs a dollar so the eraser would then be $.10 cents, making the answer ten cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I'm 100 percent certain about that answer, as the total of the two items combined is $1.10, and if you subtract the price of the pencil ($1.00), that leaves you with only ten cents for an eraser.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Well, my guess is approximately 85 percent of people answered it correctly. It was quite simple compared to many of the other math problems often given to adults for surveys and questionnaires.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: You simply take away the $2 for the magazine and figure out the rest. That means the banana must cost ninety cents because that's how you get the full $2.90 when you add both amounts together.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Once again, I am one-hundred percent certain about my answer because I figured it out using simple subtraction. Subtracting the cost of the magazine from the total amount spent enables me to accurately determine the price of the banana at ninety cents.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: My initial guess would be around seventy or seventy-five percent as some might just think there is only thirty cents remaining after purchasing the magazine leaving them with a false conclusion that the banana only cost thirty cents instead of ninety cents which is arrived at by deducting the magazine’s price from the total.

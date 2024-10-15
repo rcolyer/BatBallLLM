@@ -1,0 +1,1 @@
+Let x equal eraser then pencil cost equals (x+1). So the question could be simplified to: p+e=1.1 and p=(x+1), replace (x+1) into the equation, get two unknowns:  2p=2x+(x+1)=x^2 + 2.

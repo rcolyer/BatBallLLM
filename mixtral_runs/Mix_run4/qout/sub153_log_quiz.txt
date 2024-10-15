@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 47
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Eraser = .10 cents, Pencil = $1.00, totaling up to $1.10.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I think many will get it wrong initially because most would immediately assume that if the pencil costs $1 more then each must cost at least half that amount and so end up choosing something like $.60 for the pencil and $.30 for the eraser, or something else similar that also totals up to $1.10 but which adds the dollar to the wrong item. Therefore, some may only get this on reconsideration when they realize their mistake. But those who understand the logic would find it easier and quickly arrive at the right answer. So while many might have gotten it wrong initially, there is still enough understanding available around us for them to re-examine and come up with the right answer. I think about 80%.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Banana = .90 cents
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I am not sure, perhaps less than 50% will be able to solve this correctly, as most will assume the items must have prices in whole dollars, like $1.50 for the magazine, so that they can add the total amount remaining after deducting the magazine cost, which they know to be $2. Only those who look beyond such preconceptions may realize that it is possible for any item here to cost less than a dollar. Those with some mathematical sophistication would find it easier too because they might remember their lessons on how fractions/decimals can work. So even if many could get this right, still not more than 50%.

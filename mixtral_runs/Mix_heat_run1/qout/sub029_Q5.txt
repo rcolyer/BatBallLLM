@@ -1,0 +1,1 @@
+80%, It doesn’t really require any actual math but there could be an exception i missed when looking at the problem like some sort of special type of magazine where price goes into negatives for certain circumstances

@@ -1,0 +1,1 @@
+I believe close to 85% would solve it correctly.  Again, the problem was very simple.

@@ -1,0 +1,1 @@
+Based on the previous experience, which led me to be more careful with this problem than I probably should have been, I think maybe half of all participants will get it correct. That leaves half who don't understand that there isn't a hidden catch in these problems, and half who will just make mistakes solving for the cost of the eraser.

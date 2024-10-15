@@ -1,0 +1,1 @@
+Here's the deal -- it appears that the key words are "more than," which means that they cannot be subtracted as was possible with the first problem.  So if Magazine - Banana = $2.00, and Magazine + Banana = $2.90, we must first solve for one unknown using the subtraction equation.

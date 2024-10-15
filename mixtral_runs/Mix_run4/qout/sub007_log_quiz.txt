@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It doesn’t make sense; if the pencil costs $1 and they are $1.10, then there is only a dime left for an eraser which wouldn’t be possible because nothing is free.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 75% sure in my answer but still unsure as to whether I was correct in analyzing the question or not.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: I think less than 20% got it right. Most people just add and say $.10 without actually considering that the two things equal $1.10, and therefore one must be “free” in order for the sum to be true.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: First off, I realize that a banana can't exactly be measured by money like that. But, if we go along with this scenario anyway, then let's try to find out how much a banana costs! The magazine is $2 more expensive than a banana so there’s $2 separating them on price. Adding those together makes the total cost which equals $2.90. Subtracting $2 gives you $.90 left over, meaning that a banana would have to cost $.90 because otherwise there wouldn’t be enough to cover both items’ prices with just $2.90.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am about 85% sure of my answer. My logic checks out but I might still have made a mistake somewhere or misunderstood something so I cannot say I’m completely certain.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: It depends on whether they stopped after adding numbers up or thought a bit deeper into it. If they added $2 and $.90 together, then probably less than half got it right; if they considered all possibilities, perhaps around 60-70%.

@@ -1,0 +1,1 @@
+$.05, since the eraser only needs to be enough to make up $0.05 difference.

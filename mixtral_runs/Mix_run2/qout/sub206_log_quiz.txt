@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 26
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10, if you subtract the pencil's price from the total, what remains must be the cost of the eraser.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 95%, I think.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe 50%. It's fairly obvious after some thought or reflection. But that's just a guess.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: This one requires slightly more thinking because you have to recognize that the phrase "more" refers to an amount by which two values differ, rather than a specific numerical value. So let x represent the cost of the banana. Then the magazine is priced at (2.9 - x). We know their combined price is $2.90, so we can form an equation with this information: 2 + x = 2.9. Solving for x yields $.90 as the answer.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 80%, I think I understand the language better now than I did the first question, but there is still some degree of uncertainty about people understanding "more" in the way it was intended here.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Maybe around 40%. Again, if they reflect upon the meaning behind "more," then it should be clear. But this is just an estimate based on no real evidence or studies.

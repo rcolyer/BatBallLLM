@@ -1,0 +1,6 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+[[USER_NAME]]: How old are you? Just enter the digits of your age.
+[[AI_NAME]]: [[AGE]]
+[[USER_NAME]]: What is your gender?
+[[AI_NAME]]: [[GENDER]]

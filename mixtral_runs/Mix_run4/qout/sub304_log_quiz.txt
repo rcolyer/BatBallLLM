@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 29
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: $.10
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am 100 percent sure that .10 is correct!
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Over half, maybe three-fourths or so. Most folks seem to understand basic arithmetic just fine...
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Well, if the mag costs $2 more than the banana...then the banana costs half as much as the mag, right?  So it would have to be fifty cents, then the mag'd be two dollars even. Yep. That makes sense to me.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: If someone's answer isn't exactly fifty cents, they probably made an error. It's one dollar minus fifty cents, after all. So I am ninety-nine point nine percent sure I answered correctly.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Less than half. More complicated than the last question. But it is still just basic arithmetic! People shouldn't struggle too badly with it unless they don't understand that when you add two things together and take away one thing, that's subtracting what was taken off, no matter which thing it was, from the other thing.

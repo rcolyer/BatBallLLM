@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 40
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: The Banana Costs $.90 because that is all that remains from the total amount spent, given that we know how much the Magazine Costs ($2).
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 85%. I am relatively certain that my answer is correct but I acknowledge the possibility of some sort of arithmetic error on my part or some subtle flaw within the problem itself which may cause an incorrect answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Perhaps as low as 30%. It appears that this problem causes many errors, even amongst intelligent responders, which may be attributable to a mental math mistake. This error can be caused by any individual focusing solely on the fact that the price difference between both objects adds up to one dollar, rather than using basic subtraction techniques to determine the price of the banana based off its combined cost with the magazine and the known value of the latter.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: The eraser costs $.05 because, when adding the cost of the two items ($1 for the pencil; $1.05 total) and then taking into account how much more the pencil costs ($1), one determines that the eraser must equal the original total minus that amount (i.e.: $1.05 - $1 = .05 cents).
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I would rate myself at approximately 95% certainty due to a lack of potential human errors present within this particular question. Although there is always room for some sort of mistake or flaw in the problem, the answer here appears fairly straightforward.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Perhaps as high as 85%. This problem seems considerably more simple than the last, so there may be fewer mistakes made by participants responding.

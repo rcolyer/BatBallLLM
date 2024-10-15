@@ -1,0 +1,1 @@
+99%, assuming everyone will figure out that if the cost of an eraser is less than $0.50, then the remainder must be the answer.

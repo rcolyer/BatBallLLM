@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 21
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: $0.90 (The answer seems straightforward enough, I do not believe I am being tricked into a more complicated situation.)
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 75%, while I know that this question was easy, I can not be absolutely certain of my answer as there may be hidden information that would alter my calculation.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 60% (I imagine some participants will jump at the initial solution rather than critically assessing it, or perhaps they could be unfamiliar with simple mathematics.)
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: $0.05 (Given the phrasing of the second sentence, "the pencil costs $1 more than the eraser" I decided to work backwards from the total given, so instead I added $1 and $0.05 which total $1.05 and therefore, if true, contradicts the original statement of "$1.10.")
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 70%, although mathematically straightforward I still can't account for any hidden variables that may influence the answer.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 40% (The wording on this question seems confusing at best and I worry some participants will fall into the trap of viewing the cost as one unit rather than two separate entities.)

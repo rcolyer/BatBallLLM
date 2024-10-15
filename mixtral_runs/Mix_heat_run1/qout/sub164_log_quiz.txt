@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It's free. Because when you subtract a dollar from 1.1, you get .1 or eleven cents which means it is paying for itself and the other half.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 70%. I mean there can be variations due to difference in pricing between stores or shops so there will be little variations on the amount but my answer makes sense if both things are being bought at one time and in one store.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 35%, many might go by initial thinking instead of taking a deeper thought into this question, unless they were specifically trained to do this.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: The banana cost is twenty-nine cents since it’s a dime short of the whole thing minus the cost of the magazine ($2 + $2.9 = $.9). Then when you divide the magazine and banana, the rest should pay out as ten cents. Therefore making the total .1 for each item.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: I am about 60%. This seems like the simplest explanation although there can be variations depending on stores, but this answer is still logically sound.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 28% again because some would go straight to answer instead of considering if the answer makes sense or not and may get confused with simple subtraction methods.

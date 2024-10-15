@@ -1,0 +1,1 @@
+90-95%. This question is easy because there is only one possible way to figure out the cost of the banana using simple subtraction. However, some people may round off so I'll allow for up to five percent error margin.

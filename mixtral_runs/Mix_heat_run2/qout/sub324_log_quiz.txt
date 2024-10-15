@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Male
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Banana costs 45 cents, Magazine costs 2 dollars and 45 cents.  To get this answer I subtracted 45 (the amount given for the banana in the previous question) from 2.90, then subtracted that number (2.45) from 2.90 again, giving me 45 cents.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 75%.  I am fairly certain but still have some doubt.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 50%.  While many people will be able to do the math involved, they may still make the mistake of assuming that there must be two separate numbers when asked about the price of the items.  This is why I believe that half of all people answering this question will not be correct.
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: Eraser costs 10 cents.  I simply subtracted one dollar from one dollar ten cents to get the answer.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 98%.  I can’t think of any situation in which I would be incorrect, so I’m quite confident.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 75%.  While some people might still assume that there are multiple numbers involved with the question, most adults should understand the concept of subtraction well enough to solve this one easily.

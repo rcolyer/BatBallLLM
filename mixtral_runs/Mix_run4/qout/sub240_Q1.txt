@@ -1,0 +1,1 @@
+Eraser cost is $.05 because if Pencil = $1 + Eraser, then 1+.05 = 1.10.

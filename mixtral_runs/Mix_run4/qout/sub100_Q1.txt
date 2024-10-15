@@ -1,0 +1,1 @@
+$.45, I got this by doing $\frac{2.90 - 2.00}{3}$

@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 24
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It seems that this problem has been deliberately set up such that most people would overlook the fact that the prices include sales tax, but if I assume that the base prices are $0.99 and $0.01 respectively, then the eraser's price is $0.10. However, there is not enough information in this question for me to provide an answer without making assumptions about the pricing scheme at work here; it could be anything within a range, depending on what sales tax percentage applies. Without knowing that, my best guess is a mere shot in the dark.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 50%, because although my assumptions about the prices and the resulting calculation seem logical, I don't know whether these are correct or not; thus, my confidence level can only be moderate. If asked again under different circumstances - say, given additional information - my confidence might rise significantly, or maybe even fall back down, depending upon that new info.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 30%. The majority of people are likely to simply subtract the pencil price from the total cost instead of considering possible underlying factors such as taxes or other hidden costs. They would end up with an incorrect figure, probably something like $0.10, due to their oversight regarding those base prices.
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: Here we go again with another deliberately vague problem! However, I suppose I can make some reasonable assumptions based on common practice... If I assume the banana's cost is x dollars, then the magazine should cost x + 2 dollars. Added together, they come out to 2.90, so setting up the equation x + (x+2) = 2.90 gives me x=0.95, which suggests that the banana costs $0.95. Once again, though, my confidence level here remains fairly low, given the question's inherent ambiguity.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: Let's say I am 60% confident this time. Again, it all hinges on what actually constitutes "cost" for these items; if there happen to be any hidden or extra charges involved, my answer could easily turn out wrong. So, although I did take into account various potential factors and made an educated guess, ultimately I cannot claim absolute certainty without more specific information being provided.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: Given how most folks tend to rush through such problems rather than think them through methodically, maybe about 10-15%. Chances are high they will just subtract one item's cost from another, neglecting other possible considerations - unless they happened to notice or infer something more nuanced while reading. But honestly, even then, some might still miss the point despite their best efforts.

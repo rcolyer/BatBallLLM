@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 20
+Question: What is your gender?
+Participant: Male
+Question: A pencil and eraser together cost $1.10. The pencil costs $1 more than the eraser. How much does the eraser cost?
+Participant: Eraser costs $.05, because if a pencil was one dollar then the difference between the two would be $.95, but that's too much, so I subtracted by another penny making it $.85. Half of that is $.425 which is not possible since currency isn't divided into quarters ($.25) in this context. Therefore, my answer must be rounded down to $.05 for the eraser and $.10 for the pencil.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 87%. While I know there are limitations with money as stated before, rounding makes me slightly uncertain about my final answer even though I believe it's close.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 30%. A lot of people tend to forget that there can be rounding involved or they might simply choose an incorrect value due to miscalculation.
+Question: A magazine and banana together cost $2.90. The magazine costs $2. How much does the banana cost?
+Participant: Banana costs $.90 because if the magazine was two dollars then the remaining cost would be $.90.
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 100%. This problem doesn't involve any complex calculations, just simple subtraction.
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 80%. It's quite straightforward and should be solvable by most individuals with basic arithmetic skills.

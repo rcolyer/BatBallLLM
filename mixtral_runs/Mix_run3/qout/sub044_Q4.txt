@@ -1,0 +1,1 @@
+This time, however, we are told explicitly that the pencil costs $1. That means the eraser must be the remaining amount which is $0.10. Confidence level = 100%.

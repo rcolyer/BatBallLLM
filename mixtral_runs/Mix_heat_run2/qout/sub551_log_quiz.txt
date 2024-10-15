@@ -1,0 +1,18 @@
+This survey is concerned with cognition and decisions made with regard to simple math problems.  Your responses to these problems should enable us to better understand decision-making processes.
+
+Question: How old are you? Just enter the digits of your age.
+Participant: 18
+Question: What is your gender?
+Participant: Female
+Question: A magazine and banana together cost $2.90. The magazine costs $2 more than the banana. How much does the banana cost?
+Participant: $.45 cents, because if it's $2.45 then that means the difference is only 50 cents, not 2 dollars. So 2.90 - 2.45 = .45
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 75%
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 80%
+Question: A pencil and eraser together cost $1.10. The pencil costs $1. How much does the eraser cost?
+Participant: It still says the magazine is $2 so I have no idea what you’re asking me. If I assume the pencil cost $1, then the eraser would be $0.10. But since we already did an addition question, why isn’t it a subtraction question now?? And also how could they even both be the same price as one thing is meant for writing while the other is supposed to fix mistakes made by writing!! They aren’t even comparable!!! I don’t understand what this question wants me to learn or do at all because if we did another addition problem, then my last answer wouldn’t make sense either, but if we did subtraction now, then that wouldn’t match up with my last answer which means that they are trying to confuse me on purpose!! This makes no logical sense, like not even remotely. Also it should say pencil COSTS $1 instead of PRICE. I am just going
+Question: On a scale of 0% (totally not sure) to 100% (totally sure), how confident are you in your response?
+Participant: 75% again because that's the only choice I can give
+Question: In your opinion, what percentage of people answering this problem solved it correctly? Indicate a number from 0% to 100%
+Participant: 50%, maybe, probably less since I have absolutely no idea and it seems so unfair to compare a banana and magazine together so who knows

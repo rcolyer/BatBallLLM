@@ -1,0 +1,1 @@
+99%. My reasoning is that if the pencil costs $1 more than the eraser, then the eraser must be a certain amount less than a dollar. If we add these two amounts together, they should equal $1.10. So let E represent the cost of the eraser. Then P = E + 1, and P + E = 1.1. Solving for E gives us E = .1 or ten cents.
