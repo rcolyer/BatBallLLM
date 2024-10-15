@@ -443,7 +443,7 @@ counts <- t(counts); counts
 
 # plot
 bp.1 <- barplot(counts, ylim = c(0,1), beside = T,
-                names.arg = c('Human','LLAMA2','Mixtral'),
+                names.arg = c('Human','Llama2','Mixtral'),
                 ylab = "Response proportion", xlab = "",
                 col = c('blue', 'light blue', 'dark green'),
                 #main = "Response proportions by type across datasets",
